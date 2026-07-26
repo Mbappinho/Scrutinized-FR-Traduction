@@ -313,6 +313,10 @@ Fichier : [`../work/glossary.json`](../work/glossary.json)
 | `docs/PHASE0_FINDINGS.md` | Vérité terrain moteur / sources / stratégie |
 | `docs/LIMITES_CONNUES.md` | Ce qui reste en anglais et pourquoi — à lire avant de chercher un texte |
 | `docs/PATCH_ENQUETE_FR.md` | Pipeline P4 SQLite + textures papier |
+| `docs/INSTALL.md` | Install joueur (Release zip) |
+| `docs/PATCH_AZERTY.md` | AZERTY ZQSD |
+| `release/steam_target.json` | BuildID / version pack |
+| Pack joueur | [Releases](https://github.com/Mbappinho/Scrutinized-FR-Traduction/releases) |
 | `docs/QA_CHECKLIST.md` | QA in-game |
 | `work/glossary.json` | Glossaire |
 | `scripts/` | Extract / inventaire Phase 0 |
