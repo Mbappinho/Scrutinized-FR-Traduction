@@ -227,7 +227,7 @@ function Install-FrFiles([string]$GameRoot, [string]$PackRoot) {
         $dstDir = Split-Path $dst -Parent
         New-Item -ItemType Directory -Force -Path $dstDir | Out-Null
         Copy-Item -LiteralPath $src -Destination $dst -Force
-        Write-Host "  FR -> $rel"
+        Write-Host ("  FR : {0}" -f $rel)
     }
 }
 
@@ -244,7 +244,7 @@ function Uninstall-FrFiles([string]$GameRoot) {
         $dstDir = Split-Path $dst -Parent
         New-Item -ItemType Directory -Force -Path $dstDir | Out-Null
         Copy-Item -LiteralPath $_.FullName -Destination $dst -Force
-        Write-Host "  EN <- $relFromBackup"
+        Write-Host ("  EN : {0}" -f $relFromBackup)
     }
     if (Test-Path -LiteralPath $marker) { Remove-Item -LiteralPath $marker -Force }
     Remove-Item -LiteralPath $backup -Recurse -Force
