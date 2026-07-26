@@ -1,4 +1,4 @@
-# Assemble beginner pack under release\Scrutinized-FR-Beginner
+﻿# Assemble beginner pack under release\Scrutinized-FR-Beginner
 # Copies currently patched files from the live Steam install.
 param(
     [string]$LocRoot = (Split-Path $PSScriptRoot -Parent),

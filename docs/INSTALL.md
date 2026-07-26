@@ -2,14 +2,23 @@
 
 ## Pack Release
 
-1. Télécharger `Scrutinized-FR-Traduction.zip` depuis les Releases GitHub.
-2. Fermer le jeu.
-3. Lancer `INSTALLER.bat`.
-4. Choisir le dossier contenant `Scrutinized.exe`.
-5. Confirmer.
+Version actuelle : **1.0.2** (scripts PowerShell ASCII + UTF-8 BOM, compatibles Windows PowerShell 5.1).
+
+1. Télécharger `Scrutinized-FR-Traduction.zip` depuis les Releases GitHub (**v1.0.2** ou plus).
+2. Supprimer les anciens dossiers dézippés sur le Bureau (ex. `Scrutinized-FR-Traduction (1)`).
+3. Fermer le jeu.
+4. Lancer `INSTALLER.bat`.
+5. Choisir le dossier contenant `Scrutinized.exe`.
+6. Confirmer.
 
 Un dossier `Scrutinized_Data\_ScrutinizedFR_backup_en\` est créé au premier install
 (copie EN). `DESINSTALLER.bat` le restaure.
+
+### Dépannage parse PowerShell
+
+Si `INSTALLER.bat` / `DESINSTALLER.bat` affiche `TerminatorExpectedAtEndOfString` ou
+« terminateur " manquant », le pack est trop ancien (v1.0.0 / v1.0.1) ou corrompu :
+retélécharger **v1.0.2**.
 
 ## BuildID
 

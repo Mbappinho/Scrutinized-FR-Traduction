@@ -1,4 +1,4 @@
-# Shared helpers for Scrutinized FR beginner install / uninstall.
+﻿# Shared helpers for Scrutinized FR beginner install / uninstall.
 $ErrorActionPreference = "Stop"
 
 $Script:AppId = "1384770"
@@ -188,7 +188,7 @@ function Backup-EnFiles([string]$GameRoot, [string]$PackRoot) {
     $backup = Join-Path $GameRoot "Scrutinized_Data\$Script:BackupDirName"
     $marker = Join-Path $GameRoot "Scrutinized_Data\$Script:MarkerName"
     if (Test-Path -LiteralPath $marker) {
-        Write-Host "Backup EN deja present (reinstall FR) — on ne l'ecrase pas."
+        Write-Host ("Backup EN deja present (reinstall FR) - on ne l'ecrase pas.")
         return $backup
     }
     New-Item -ItemType Directory -Force -Path $backup | Out-Null

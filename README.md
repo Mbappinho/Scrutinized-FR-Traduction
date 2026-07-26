@@ -14,7 +14,7 @@ Ce dépôt contient le **code source du pipeline** (scripts, lots, docs), **pas*
 
 | | |
 |--|--|
-| **Pack actuel** | **v1.0.0** |
+| **Pack actuel** | **v1.0.2** |
 | **Steam AppID** | `1384770` |
 | **BuildID** | `20456853` |
 | Vérifier | `steamapps/appmanifest_1384770.acf` → `"buildid"` |

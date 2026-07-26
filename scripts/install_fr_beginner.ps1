@@ -1,4 +1,4 @@
-# Install French patch for Scrutinized (beginner-friendly).
+﻿# Install French patch for Scrutinized (beginner-friendly).
 $ErrorActionPreference = "Stop"
 . (Join-Path $PSScriptRoot "beginner_common.ps1")
 
