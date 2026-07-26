@@ -1,0 +1,2275 @@
+{
+  "lot": "p4_social",
+  "scope": "SocialPost.PostText dans Scrutinized_Data/sharedassets4.asset.res5",
+  "table": "SocialPost",
+  "pk": "ID",
+  "column": "PostText",
+  "note": "Traduire fr. Ne pas toucher Gender/HairColor/EyeColor (enums / compares).",
+  "entries": [
+    {
+      "id": 3,
+      "en": "Fusce facilisis gravida sapien, a viverra massa malesuada in. Etiam eu bibendum enim. Nam accumsan ipsum id lorem mattis dictum. Ut accumsan, erat sollicitudin euismod varius, lectus purus malesuada dui, sit amet tincidunt risus enim aliquet tellus. Aliquam feugiat pellentesque ex.",
+      "fr": "Fusce facilisis gravida sapien, a viverra massa malesuada in. Etiam eu bibendum enim. Nam accumsan ipsum id lorem mattis dictum. Ut accumsan, erat sollicitudin euismod varius, lectus purus malesuada dui, sit amet tincidunt risus enim aliquet tellus. Aliquam feugiat pellentesque ex."
+    },
+    {
+      "id": 43,
+      "en": "Enjoying a nice lunch! Cornflour flapjacks with cream and a watermelon fruit salad! AHHHH! I remember all the times Farah and I used to come here during his lunch hour. Call me back babe - first jack is my treat!!",
+      "fr": "Super déjeuner ! Pancakes à la farine de maïs, crème, et salade de pastèque ! AHHHH ! Je me souviens de toutes les fois où Farah et moi venions ici à sa pause. Rappelle-moi bébé — le premier jack, c'est moi qui offre !!"
+    },
+    {
+      "id": 46,
+      "en": "There's a guy on the new season of The Great Wild who looks just like my ex... Got me really thinking about him. Is that weird??",
+      "fr": "Y a un gars dans la nouvelle saison de The Great Wild qui ressemble pile à mon ex... Ça m'a vraiment fait penser à lui. C'est bizarre ??"
+    },
+    {
+      "id": 48,
+      "en": "Humphrey Breen was at Colt's Steakhouse",
+      "fr": "Humphrey Breen était au Colt's Steakhouse"
+    },
+    {
+      "id": 51,
+      "en": "My first post to the social media. Merry Christmas to me and everyone! I hope all God's children (including the loyal pooches and pussy cats!) are home safe with the ones they love because not everyone is so fortunate. Never take the ones around you for granted. Remember to give them a hug every day, kiss their cheek at night and tell them you love them with all your heart because you might not get another chance.",
+      "fr": "Mon premier post sur les réseaux. Joyeux Noël à moi et à tout le monde ! J'espère que tous les enfants de Dieu (y compris les toutous fidèles et les minous !) sont bien rentrés auprès de ceux qu'ils aiment, parce que tout le monde n'a pas cette chance. Ne prenez jamais pour acquis ceux qui vous entourent. Serrez-les dans vos bras chaque jour, embrassez-leur la joue le soir et dites-leur que vous les aimez de tout votre cœur — vous n'aurez peut-être pas une autre chance."
+    },
+    {
+      "id": 59,
+      "en": "Welp. Sayonara U.S.A and Konnichiwa Tokyo! Eager to start my new life.",
+      "fr": "Bon. Sayonara U.S.A et Konnichiwa Tokyo ! Trop hâte de commencer ma nouvelle vie."
+    },
+    {
+      "id": 63,
+      "en": "A day out at the Gardens with my babies! Jonathan's off at college so he's not here, unfortunately :(",
+      "fr": "Une journée aux Jardins avec mes bébés ! Jonathan est à la fac, donc il n'est pas là, malheureusement :("
+    },
+    {
+      "id": 64,
+      "en": "The kids are officially all back to school! I miss them so much! No idea what to do with myself now.",
+      "fr": "Les enfants sont officiellement tous rentrés à l'école ! Ils me manquent tellement ! Je sais plus quoi faire de moi maintenant."
+    },
+    {
+      "id": 67,
+      "en": "Some yummy loaf bread made by yours truly and Annabeth, my youngest. I think she wants to become a baker when she grows up!",
+      "fr": "Un délicieux pain de mie fait maison par votre humble serviteur et Annabeth, ma plus jeune. Je crois qu'elle veut devenir boulangère plus tard !"
+    },
+    {
+      "id": 71,
+      "en": "We are always looking for new talent. Contact us.",
+      "fr": "Nous sommes toujours à la recherche de nouveaux talents. Contactez-nous."
+    },
+    {
+      "id": 72,
+      "en": "Update: Our computer has crashed. We will get the problem sorted ASAP. In the meantime, expect longer response times to Emails",
+      "fr": "Mise à jour : notre ordi a planté. On règle ça dès que possible. En attendant, prévoyez des délais de réponse plus longs aux e-mails"
+    },
+    {
+      "id": 73,
+      "en": "Look at that sunrise! #enjoyinglife",
+      "fr": "Regardez ce lever de soleil ! #profiterdelavie"
+    },
+    {
+      "id": 74,
+      "en": "anybody know where I can get a cheap oil change? #cars #business",
+      "fr": "quelqu'un sait où je peux faire une vidange pas chère ? #voitures #business"
+    },
+    {
+      "id": 75,
+      "en": "i'm thinking about upgrading my equipment, my car work is becoming more than i thought it would #blessed",
+      "fr": "je pense à changer mon matos, mon boulot de mécano devient plus gros que prévu #blessed"
+    },
+    {
+      "id": 76,
+      "en": "been working on some cars lately, i'm probably the best mechanic I know",
+      "fr": "j'ai bossé sur quelques bagnoles ces derniers temps, je suis probablement le meilleur mécano que je connaisse"
+    },
+    {
+      "id": 77,
+      "en": "i swear pretty women only drive certain kinds of cars",
+      "fr": "je jure que les jolies meufs ne conduisent que certains types de voitures"
+    },
+    {
+      "id": 78,
+      "en": "landed a job working at my uncles shop, i think I like the women more than I like the cars honestly. imagine if i had a hot mechanic wife! #goals",
+      "fr": "j'ai décroché un poste à l'atelier de mon oncle, franchement j'aime plus les meufs que les bagnoles. imagine si j'avais une femme mécano sexy ! #goals"
+    },
+    {
+      "id": 80,
+      "en": "I did a little bit of shopping today. Bought a palm tree and some ferns. This should be a good start, but I know I'll be coming back often to make sure everything looks great.",
+      "fr": "J'ai fait un peu de shopping aujourd'hui. Un palmier et des fougères. Ça devrait être un bon début, mais je sais que je reviendrai souvent pour que tout reste tip-top."
+    },
+    {
+      "id": 83,
+      "en": "Im trying to find a couple parts for a old handheld camera anyone know of a place that sells some??",
+      "fr": "J'essaie de trouver quelques pièces pour un vieux caméscope portable, quelqu'un connaît un endroit qui en vend ??"
+    },
+    {
+      "id": 84,
+      "en": "HAPPY NEW YEAR!!!!!",
+      "fr": "BONNE ANNÉE !!!!!"
+    },
+    {
+      "id": 87,
+      "en": "Officially graduated!! Can't wait to see what the world's got in store for me ;)) ",
+      "fr": "Officiellement diplômé !! Trop hâte de voir ce que le monde me réserve ;)) "
+    },
+    {
+      "id": 89,
+      "en": "Progress on my crochet blanket for the soon to be grandkids! Just found out it'll be twins!",
+      "fr": "Avancement sur ma couverture au crochet pour les futurs petits-enfants ! On vient d'apprendre que ce sera des jumeaux !"
+    },
+    {
+      "id": 90,
+      "en": "The flowers are early this year! <3",
+      "fr": "Les fleurs sont en avance cette année ! <3"
+    },
+    {
+      "id": 92,
+      "en": "Marcus is off again, this time to Canada. Goodbyes are always hard, especially for my poor babies. Papa will be home soon!",
+      "fr": "Marcus repart, cette fois au Canada. Les adieux sont toujours durs, surtout pour mes pauvres bébés. Papa rentre bientôt !"
+    },
+    {
+      "id": 94,
+      "en": "spring break with the boys like the good old days",
+      "fr": "spring break avec les gars comme au bon vieux temps"
+    },
+    {
+      "id": 95,
+      "en": "why are all the girls I date psycho lmao",
+      "fr": "pourquoi toutes les meufs avec qui je sors sont des psychopathes mdr"
+    },
+    {
+      "id": 96,
+      "en": "i now am a interior design consultant! my prices are #cheap and my services are amazing! #homes #interiordesign",
+      "fr": "me voilà consultant en déco d'intérieur ! mes prix sont #cheap et mes services au top ! #maisons #interiordesign"
+    },
+    {
+      "id": 97,
+      "en": "having such a good morning! i'm really just glad to be working with some great people!",
+      "fr": "trop bonne matinée ! vraiment content de bosser avec des gens géniaux !"
+    },
+    {
+      "id": 98,
+      "en": "out on the town! i have nothing to do so why not celebrate right?",
+      "fr": "en ville ! j'ai rien à faire alors pourquoi pas fêter un peu, non ?"
+    },
+    {
+      "id": 99,
+      "en": "so you're telling me a shrimp fried this rice? ",
+      "fr": "donc tu me dis qu'une crevette a frit ce riz ? "
+    },
+    {
+      "id": 100,
+      "en": "who takes pain better? men or women? i feel like i already know the answer to this",
+      "fr": "qui encaisse mieux la douleur ? les hommes ou les femmes ? j'ai l'impression de déjà connaître la réponse"
+    },
+    {
+      "id": 101,
+      "en": "finally home after that crazy night. it really took my mine off of my other projects I have going on ;)",
+      "fr": "enfin rentré après cette soirée de ouf. ça m'a vraiment vidé la tête de mes autres projets ;) "
+    },
+    {
+      "id": 103,
+      "en": "been improving my hunting techniques recently, got some more trophies to make...",
+      "fr": "j'améliore mes techniques de chasse ces derniers temps, encore quelques trophées à préparer..."
+    },
+    {
+      "id": 104,
+      "en": "been thinking about hunting some different game lately, switch up my variety",
+      "fr": "je pense à chasser un autre gibier dernièrement, varier un peu"
+    },
+    {
+      "id": 106,
+      "en": "some people living in big cities don't realize that what we do just isn't sport. it's a way of life. everybody can't afford to live in big ol' Rocksnorth and go down the street and buy anything they want",
+      "fr": "certains en ville comprennent pas que ce qu'on fait, c'est pas du sport. c'est un mode de vie. tout le monde peut pas se payer le grand Rocksnorth et descendre au coin de la rue acheter tout ce qu'il veut"
+    },
+    {
+      "id": 107,
+      "en": "honestly i shouldn't even be \"social\" media i don't need no one knowing what im doing and where im at except for me. the less people i have watching over me the better. ya'll could learn a thing or two about that, everything shouldn't be out in the open!",
+      "fr": "honnêtement j'devrais même pas être sur les « réseaux » — j'ai pas besoin que quiconque sache ce que je fais et où je suis, à part moi. moins y a de gens qui me surveillent, mieux c'est. vous pourriez apprendre un truc ou deux là-dessus, tout devrait pas être étalé au grand jour !"
+    },
+    {
+      "id": 110,
+      "en": "Now available for pet sitting. If you need someone taken care of, send DM. Rates available upon request. Cash and PayMe only, no card payments accepted.",
+      "fr": "Dispo pour de la garde d'animaux. Si vous avez besoin que quelqu'un s'occupe des vôtres, envoyez un DM. Tarifs sur demande. Cash et PayMe uniquement, pas de carte."
+    },
+    {
+      "id": 116,
+      "en": "Hard seltzer has stabbed me in the back",
+      "fr": "Le hard seltzer m'a poignardé dans le dos"
+    },
+    {
+      "id": 118,
+      "en": "I'm finally able to get a cat yay :)",
+      "fr": "Je peux enfin avoir un chat yay :)"
+    },
+    {
+      "id": 120,
+      "en": "New years resolution is to stop saying hi to my friend's pets before I say hi to them",
+      "fr": "Ma résolution du Nouvel An : arrêter de dire bonjour aux animaux de mes potes avant de leur dire bonjour à eux"
+    },
+    {
+      "id": 121,
+      "en": "On the road again! ",
+      "fr": "De nouveau sur la route ! "
+    },
+    {
+      "id": 122,
+      "en": "i'm going on y horror movie binge tonight! hopefully i don't go crazy watching em!",
+      "fr": "je me fais un binge de films d'horreur ce soir ! j'espère que je vais pas devenir dingue en les regardant !"
+    },
+    {
+      "id": 123,
+      "en": "the marathon continues! my favorite #horrormovie is #ReddyKooger2 what's yours?",
+      "fr": "le marathon continue ! mon #horrormovie préféré c'est #ReddyKooger2 et le vôtre ?"
+    },
+    {
+      "id": 124,
+      "en": "thats two more movies down ya'll. I think I'll take a break for a little bit. i'm a huge horror movie fan! especially the ones about serial killers!",
+      "fr": "encore deux films de cochés, les gars. Je crois que je vais faire une petite pause. je suis un gros fan de films d'horreur ! surtout ceux sur les serial killers !"
+    },
+    {
+      "id": 126,
+      "en": "hey guys I'm back! i had to take a small break. my neighbor wanted something and I had to use the bathroom if you haven't tuned in yet, go to switchtv.moc to watch me react to these horror movies!",
+      "fr": "hé les gars je suis de retour ! j'ai dû faire une petite pause — mon voisin voulait un truc et j'ai dû aller aux toilettes. si vous êtes pas encore branchés, allez sur switchtv.moc pour me voir réagir à ces films d'horreur !"
+    },
+    {
+      "id": 127,
+      "en": "thanks everyone for tuning into my daily streams! the horror movie marathon was great but all great things must come to an end. we managed to raise about $5,000 for the pair of shoes for every child in africa charity! once again thanks for tuning in and see you guys next time!",
+      "fr": "merci à tous d'avoir suivi mes streams quotidiens ! le marathon horreur était génial mais toutes les bonnes choses ont une fin. on a réussi à récolter environ 5 000 $ pour l'asso « une paire de chaussures pour chaque enfant en Afrique » ! encore merci d'avoir suivi et à la prochaine !"
+    },
+    {
+      "id": 128,
+      "en": "2020. I don't have a new years resolution this year unlike everybody else, but I'm sure it's gonna be a good year :D",
+      "fr": "2020. J'ai pas de résolution cette année contrairement à tout le monde, mais je suis sûr que ça va être une bonne année :D"
+    },
+    {
+      "id": 129,
+      "en": "Apparently WWIII is about to happen? lol. I swear I'll be killed by some uncontrollable beast before that.",
+      "fr": "Apparemment la 3e guerre mondiale est sur le point d'éclater ? mdr. Je jure que je me ferai tuer par une bête incontrôlable avant ça."
+    },
+    {
+      "id": 130,
+      "en": "So we were called on this dog who wouldn't stop biting... now they are probably gonna put her down and I'm depressed for the rest of the day >:(",
+      "fr": "Donc on a été appelés pour cette chienne qui n'arrêtait pas de mordre... maintenant ils vont probablement la faire piquer et je suis déprimée pour le reste de la journée >:("
+    },
+    {
+      "id": 131,
+      "en": "God damn this year keeps looking grimmer... I wonder what's coming this month.",
+      "fr": "Putain cette année a l'air de plus en plus sombre... Je me demande ce qui nous attend ce mois-ci."
+    },
+    {
+      "id": 134,
+      "en": "Sunday Dad Joke time! Two fish swim into a concrete wall. The one turns to the other and says, \"Dam! ... \" :D",
+      "fr": "Blague de papa du dimanche ! Deux poissons foncent dans un mur en béton. L'un se tourne vers l'autre et dit : « Dam ! ... » :D"
+    },
+    {
+      "id": 139,
+      "en": "Happy one year @ReynaGreen! Love you babe. <3",
+      "fr": "Joyeux un an @ReynaGreen ! Je t'aime bébé. <3"
+    },
+    {
+      "id": 142,
+      "en": "Rose garden is coming along wonderfully! Hard work and dedication are the keys here, you have to fight for your blooms.",
+      "fr": "La roseraie avance à merveille ! Le travail et la persévérance, c'est la clé ici — faut se battre pour ses fleurs."
+    },
+    {
+      "id": 143,
+      "en": "Colin and I are thrilled to welcome our newest addition to the family! Everyone, say hello to Lia! \r\n#newmom #baby #babygirl ",
+      "fr": "Colin et moi sommes ravis d'accueillir la nouvelle arrivée dans la famille ! Tout le monde, dites bonjour à Lia ! \r\n#newmom #baby #babygirl "
+    },
+    {
+      "id": 144,
+      "en": "It's my favorite attorney's first day at his new firm! I know he'll be amazing. \r\n#husband #attorney #lawyer #handsome ",
+      "fr": "C'est le premier jour de mon avocat préféré dans son nouveau cabinet ! Je sais qu'il va être génial.\r\n#husband #attorney #lawyer #handsome "
+    },
+    {
+      "id": 147,
+      "en": "Matching cappuccinos with @anniebananie !\r\n#bestfrienddate #coffee",
+      "fr": "Cappuccinos assortis avec @anniebananie !\r\n#bestfrienddate #coffee"
+    },
+    {
+      "id": 149,
+      "en": "My gorgeous girl! <3\r\n#thatsmile ",
+      "fr": "Ma magnifique fille ! <3\r\n#thatsmile "
+    },
+    {
+      "id": 153,
+      "en": "Surprise grad gift from me to moi! Meet my new rescue cat, Iwa!",
+      "fr": "Cadeau de diplôme surprise, de moi pour moi ! Voici mon nouveau chat de refuge, Iwa !"
+    },
+    {
+      "id": 154,
+      "en": "Little sis is going through quite the art phase. Here's a pic of her work in progress in front of mom's house!",
+      "fr": "La petite sœur est en pleine phase artistique. Voici une photo de son œuvre en cours devant chez maman !"
+    },
+    {
+      "id": 174,
+      "en": "Art is something that should never be controlled or judged by anyone! it is the purest way to express yourself! ",
+      "fr": "L'art, ça ne devrait jamais être contrôlé ni jugé par qui que ce soit ! c'est la façon la plus pure de s'exprimer ! "
+    },
+    {
+      "id": 177,
+      "en": "You did good my old friend ",
+      "fr": "Tu as bien fait, mon vieux "
+    },
+    {
+      "id": 178,
+      "en": "Y'all when I say I don't like death I MEAN IT!!!! I hit a squirrel today and I couldn't stop crying for an hour about the poor fluffy baby!!! Thank God for Alex keeping me calm. <3",
+      "fr": "Les gars quand je dis que j'aime pas la mort JE LE PENSE !!!! J'ai écrasé un écureuil aujourd'hui et j'ai pleuré une heure pour le pauvre petit tout doux !!! Dieu merci Alex m'a calmée. <3"
+    },
+    {
+      "id": 179,
+      "en": "Bodyguard for hire. Trained in defensive techniques, with ten years in the protection industry. DM for details and rates.",
+      "fr": "Garde du corps à louer. Formé aux techniques défensives, dix ans dans la protection. DM pour détails et tarifs."
+    },
+    {
+      "id": 200,
+      "en": "woah I forgot I had this Chirpr account",
+      "fr": "woah j'avais oublié que j'avais ce compte Chirpr"
+    },
+    {
+      "id": 201,
+      "en": "where should I go 2 college",
+      "fr": "où je devrais aller à la fac"
+    },
+    {
+      "id": 202,
+      "en": "Chripr is dum",
+      "fr": "Chripr c'est nul"
+    },
+    {
+      "id": 203,
+      "en": "I luv @kaceygreen02",
+      "fr": "J'adore @kaceygreen02"
+    },
+    {
+      "id": 204,
+      "en": "@kaceygreen02 is a cheating bitch",
+      "fr": "@kaceygreen02 est une salope infidèle"
+    },
+    {
+      "id": 205,
+      "en": "My son is struggling in his current school, and the teachers seem to do nothing to help him. Does anyone know of any good special needs schools in the county? Thank you, please send prayers!",
+      "fr": "Mon fils galère dans son école actuelle, et les profs ont l'air de rien faire pour l'aider. Quelqu'un connaît de bonnes écoles spécialisées dans le comté ? Merci, envoyez vos prières !"
+    },
+    {
+      "id": 206,
+      "en": "Happy Sunday, everyone! Be sure to come by the church bake sale today after service! God bless! ",
+      "fr": "Bon dimanche à tous ! Passez à la vente de gâteaux de l'église après l'office aujourd'hui ! Que Dieu vous bénisse ! "
+    },
+    {
+      "id": 207,
+      "en": "Big things could be happening this Wednesday for me and my family! Pray for us, everyone!",
+      "fr": "De grandes choses pourraient arriver ce mercredi pour moi et ma famille ! Priez pour nous, tout le monde !"
+    },
+    {
+      "id": 208,
+      "en": "Success is something you do not wait for, but something you have to work and fight for. Life doesn't wait for anyone. ",
+      "fr": "Le succès, on ne l'attend pas — on travaille et on se bat pour l'avoir. La vie n'attend personne. "
+    },
+    {
+      "id": 209,
+      "en": "Just moved into my new Home Office. Its important to feel comfortable to make significant progress! ",
+      "fr": "Je viens d'emménager dans mon nouveau home office. Faut se sentir à l'aise pour vraiment avancer ! "
+    },
+    {
+      "id": 210,
+      "en": "What makes us better than other companies? We think differently and constantly try to change our view and perspective on something and to educate ourselves further. In the team I like to have a critical and different way of thinking, because in my opinion a new idea is often created by questioning and redesigning. Hence our new motto! ",
+      "fr": "Qu'est-ce qui nous rend meilleurs que les autres boîtes ? On pense autrement et on essaie sans cesse de changer de point de vue et de s'éduquer davantage. Dans l'équipe, j'aime une pensée critique et différente, parce qu'à mon avis une idée neuve naît souvent du questionnement et de la refonte. D'où notre nouvelle devise ! "
+    },
+    {
+      "id": 211,
+      "en": "Money is the key to a fulfilled life! Even if money is not everything in life, it is the key to self-realization. That is why we pay our employees fairly and transparently. Men as well as women, because good work does not depend on gender, but on the person. ",
+      "fr": "L'argent est la clé d'une vie épanouie ! Même si l'argent n'est pas tout, c'est la clé de la réalisation de soi. C'est pourquoi on paie nos employés de façon juste et transparente. Hommes comme femmes, parce qu'un bon travail ne dépend pas du genre, mais de la personne. "
+    },
+    {
+      "id": 212,
+      "en": "A big thank you to my unbelievable employees, who have managed to bring the turnover in this quarter to a level that I could not have imagined in my wildest dreams. \r\n\r\nThanks to all of you! ",
+      "fr": "Un grand merci à mes employés incroyables, qui ont porté le chiffre d'affaires de ce trimestre à un niveau que je n'aurais jamais imaginé dans mes rêves les plus fous.\r\n\r\nMerci à vous tous ! "
+    },
+    {
+      "id": 213,
+      "en": "The future is something that we cannot stop but can influence. It is OUR future, and Alek is going to show it to us. The goal of our community is not to repeat the mistakes of the past, but to learn from them.  ",
+      "fr": "L'avenir, on ne peut pas l'arrêter mais on peut l'influencer. C'est NOTRE avenir, et Alek va nous le montrer. Le but de notre communauté n'est pas de répéter les erreurs du passé, mais d'en tirer des leçons.  "
+    },
+    {
+      "id": 214,
+      "en": "Alek, the angel of enlightenment, who will accompany us on all our ways through the dark days and serve as a light at the end of the tunnel. \r\n\r\nI wish all people who are struggling with their lives a contemplative day and a ray of light out of the crisis they are currently in. ",
+      "fr": "Alek, l'ange de l'illumination, qui nous accompagne sur tous nos chemins à travers les jours sombres et sert de lumière au bout du tunnel. \r\n\r\nJe souhaite à toutes les personnes qui luttent dans leur vie une journée de recueillement et un rayon de lumière hors de la crise où elles se trouvent. "
+    },
+    {
+      "id": 217,
+      "en": "Success is not a gift, but much more a process. When you start modeling, you are not immediately perfect. Quite the opposite. \r\n\r\nThanks for 3 years of work! ",
+      "fr": "Le succès n'est pas un cadeau, c'est avant tout un processus. Quand on débute dans le mannequinat, on n'est pas parfait tout de suite. Bien au contraire.\r\n\r\nMerci pour 3 ans de travail ! "
+    },
+    {
+      "id": 219,
+      "en": "For nothing am I as grateful as for all the places I visit professionally. To experience the world in all its facets is an incredible enrichment for one's own mind. \r\n\r\nThanks to my manager! Harry, you are the best :)",
+      "fr": "Rien ne me rend aussi reconnaissant que tous les endroits que je visite pour le boulot. Découvrir le monde sous toutes ses facettes, c'est un enrichissement fou pour l'esprit.\r\n\r\nMerci à mon manager ! Harry, t'es le meilleur :)"
+    },
+    {
+      "id": 221,
+      "en": "I always thought it was interesting what me and my brother decided to pursue for careers. My younger brother is a butcher and I ended up selling ice cream. While we're doing different things, we're just two sides of the same coin. Sweet and savory.",
+      "fr": "J'ai toujours trouvé intéressant ce que mon frère et moi avons choisi comme carrières. Mon petit frère est boucher et moi j'ai fini par vendre des glaces. On fait des trucs différents, mais on est juste les deux faces de la même pièce. Sucré et salé."
+    },
+    {
+      "id": 226,
+      "en": "I decided to paint this after seeing the show on tv last night. Happy New Year everyone! Wish I could have been in the big city to see the spectacle in person.",
+      "fr": "J'ai décidé de peindre ça après avoir vu l'émission à la télé hier soir. Bonne année à tous ! J'aurais aimé être en ville pour voir le spectacle en vrai."
+    },
+    {
+      "id": 228,
+      "en": "Serenading me <3 ",
+      "fr": "Il me fait la sérénade <3 "
+    },
+    {
+      "id": 229,
+      "en": "Studious boy. What a cutie ;)",
+      "fr": "Garçon studieux. Qu'est-ce qu'il est mignon ;)"
+    },
+    {
+      "id": 232,
+      "en": "Absolutely devastated at the loss of my beautiful sister, Amelia. We were inseparable when we were young and though we'd grown a bit distant in recent years, she'll always be half of my heart. Rest in Paradise, sis. I'll see you again someday.",
+      "fr": "Absolument anéanti par la perte de ma belle sœur, Amelia. On était inséparables quand on était jeunes et même si on s'était un peu éloignés ces dernières années, elle sera toujours la moitié de mon cœur. Repose en paradis, ma sœur. Je te reverrai un jour."
+    },
+    {
+      "id": 234,
+      "en": "Sorry I'm just addressing this now but I am so grateful for your kind words of support about my sister. She'd be so happy to know just how loved she was. I know she and mom are up there smiling down at me <3",
+      "fr": "Désolé de n'aborder ça que maintenant, mais je suis tellement reconnaissant pour vos mots de soutien à propos de ma sœur. Elle serait si heureuse de savoir à quel point elle était aimée. Je sais qu'elle et maman sont là-haut et me sourient <3"
+    },
+    {
+      "id": 235,
+      "en": "I just lost my best pal on the planet. He was always happy to see me, wagging his tail constantly. We had some good times, but I know nothing lasts forever. Going to miss you so much Luther.",
+      "fr": "Je viens de perdre mon meilleur pote sur Terre. Il était toujours content de me voir, queue qui n'arrêtait pas de remuer. On a passé de bons moments, mais je sais que rien ne dure. Tu vas tellement me manquer, Luther."
+    },
+    {
+      "id": 236,
+      "en": "Just LOOK at how handsome my husband looks in this shot from his feature in Modern Business Magazine. Ugh, how did I get so lucky?",
+      "fr": "REGARDEZ comme mon mari est beau sur cette photo de son article dans Modern Business Magazine. Ugh, comment j'ai eu autant de chance ?"
+    },
+    {
+      "id": 238,
+      "en": "Here's a picture from my trip last month while touring some of the Pacific Isles. Everyone was so friendly and welcoming. Really nice people all around. We had just finished up drinking out of a traditional kava bowl. It was my first time trying it. Stuff tasted like dirt.",
+      "fr": "Voici une photo de mon voyage le mois dernier, en visitant quelques îles du Pacifique. Tout le monde était tellement accueillant. Des gens vraiment chouettes. On venait de finir de boire dans un bol de kava traditionnel. Première fois que j'en goûtais. Ça avait un goût de terre."
+    },
+    {
+      "id": 239,
+      "en": "Had the greatest day with the greatest girl. Happy anniversary, Jennifer! ",
+      "fr": "La plus belle journée avec la plus belle fille. Joyeux anniversaire, Jennifer ! "
+    },
+    {
+      "id": 240,
+      "en": "Another friend of mine is getting married. I'm happy for her. Hopefully there's someone out there for me. I'll just have to keep looking. :-)",
+      "fr": "Encore une amie qui se marie. Je suis contente pour elle. J'espère qu'il y a quelqu'un pour moi quelque part. Faudra juste que je continue à chercher. :-)"
+    },
+    {
+      "id": 244,
+      "en": "Thanks for the cool tour @Matt \r\n",
+      "fr": "Merci pour la visite cool @Matt \r\n"
+    },
+    {
+      "id": 245,
+      "en": "Epic party! Thanks for coming @Matt and @MyLove ",
+      "fr": "Soirée épique ! Merci d'être venus @Matt et @MyLove "
+    },
+    {
+      "id": 246,
+      "en": "I'm fucking bored. Anybody free this weekend? ",
+      "fr": "Je m'ennuie putain. Quelqu'un de libre ce week-end ? "
+    },
+    {
+      "id": 251,
+      "en": "Understanding the ins and outs of a drone will let you reach its maximum potential in flight. You can see the difference from a professional flyer's footage compared to an average joe's. Stand out from the rest by using my guide\r\n\r\nlink in bio",
+      "fr": "Comprendre les tenants et aboutissants d'un drone, c'est atteindre son plein potentiel en vol. On voit la différence entre les images d'un pro et celles d'un lambda. Démarquez-vous avec mon guide\r\n\r\nlien dans la bio"
+    },
+    {
+      "id": 252,
+      "en": "If you know someone who wants drone footage of an event message me\r\n\r\nRate starts at $165 a shoot and goes up $50/hr\r\nPrices are negotiable",
+      "fr": "Si vous connaissez quelqu'un qui veut des images drone d'un événement, envoyez-moi un message\r\n\r\nTarif à partir de 165 $ la séance, +50 $/h ensuite\r\nPrix négociables"
+    },
+    {
+      "id": 253,
+      "en": "Got a new drone this holiday season? Check out some of the tutorials on my OurTube page that will help any newbie who's getting into drones\r\n\r\nCheck the link in bio :)",
+      "fr": "Vous avez eu un nouveau drone pour les fêtes ? Jetez un œil aux tutos sur ma page OurTube, ça aidera tout débutant qui se lance\r\n\r\nLien dans la bio :)"
+    },
+    {
+      "id": 254,
+      "en": "Got a new racing drone subscribe to my OurTube page to see some of the sick stunts I pull off",
+      "fr": "Nouveau drone de course, abonnez-vous à ma page OurTube pour voir les stunts de malade que je sors"
+    },
+    {
+      "id": 255,
+      "en": "A set of jumper cables walks into a bar. The bartender looks at them and says, \"OK, I'll serve you, but don't start anything.\"",
+      "fr": "Des câbles de démarrage entrent dans un bar. Le barman les regarde et dit : « OK, je vais vous servir, mais ne démarrez rien. »"
+    },
+    {
+      "id": 259,
+      "en": "My beautiful friend @MadeeWhite",
+      "fr": "Ma belle amie @MadeeWhite"
+    },
+    {
+      "id": 260,
+      "en": "Just finished shooting! Next video tomorrow at 22:30 ;) \r\nBe ready guys! ",
+      "fr": "Tournage terminé ! Prochaine vidéo demain à 22h30 ;) \r\nSoyez prêts les gars ! "
+    },
+    {
+      "id": 261,
+      "en": "Secret making-off for the grand finale for all followers on OnlyAdmires! ;) ;) ;) ",
+      "fr": "Making-of secret pour la grande finale pour tous les abonnés OnlyAdmires ! ;) ;) ;) "
+    },
+    {
+      "id": 263,
+      "en": "ATTENTION I have a new phone now my new number is on my profile. Thank you that is all ",
+      "fr": "ATTENTION j'ai un nouveau téléphone, mon nouveau numéro est sur mon profil. Merci c'est tout "
+    },
+    {
+      "id": 265,
+      "en": "I hate when you think you found the one but then hear about all the other guys shes been with",
+      "fr": "Je déteste quand tu penses avoir trouvé la bonne et que tu entends parler de tous les autres gars avec qui elle a été"
+    },
+    {
+      "id": 266,
+      "en": "Gentlemen it's 10pm do you know where your lady is????",
+      "fr": "Messieurs il est 22 h, vous savez où est votre dame ????"
+    },
+    {
+      "id": 268,
+      "en": "Valentines day is such an overrated holiday\r\n\r\nLoser bfs try so hard for no reason cause their gf is already cheating on them\r\nAnd if a stud tries hard to impress then his gf thinks he did something wrong\r\n\r\nShow her you care this holiday with something she'll never forget ....\r\na 1 on 1 session with yours truly Hoyt Pow-Pow-Powell",
+      "fr": "La Saint-Valentin c'est tellement surcoté\r\n\r\nLes mecs pathétiques se démènent pour rien parce que leur meuf les trompe déjà\r\nEt si un beau gosse fait des efforts, sa meuf croit qu'il a fait une connerie\r\n\r\nMontre-lui que tu tiens à elle pour cette fête avec quelque chose qu'elle n'oubliera jamais ....\r\nune session 1 contre 1 avec votre humble serviteur Hoyt Pow-Pow-Powell"
+    },
+    {
+      "id": 269,
+      "en": "My internet is down and i'm in crisis mode",
+      "fr": "Mon internet est en panne et je suis en mode crise"
+    },
+    {
+      "id": 270,
+      "en": "I BENT DOWN AND JUST REALIZED MY LEGGINGS HAVE BEEN ON BACKWARDS MY ENTIRE WORKOUT",
+      "fr": "JE ME SUIS PENCHÉE ET J'AI RÉALISÉ QUE MES LEGGINGS ÉTAIENT À L'ENVERS PENDANT TOUT MON ENTRAÎNEMENT"
+    },
+    {
+      "id": 271,
+      "en": "most people just care only about themselves",
+      "fr": "la plupart des gens ne pensent qu'à eux-mêmes"
+    },
+    {
+      "id": 272,
+      "en": "i hardly text anyone can the strangers trying to chat with me on my food blog plz stop",
+      "fr": "j'envoie presque jamais de messages — les inconnus qui essayent de chatter sur mon blog bouffe plz arrêtez"
+    },
+    {
+      "id": 273,
+      "en": "i just wanna dance !!!!",
+      "fr": "j'veux juste danser !!!!"
+    },
+    {
+      "id": 274,
+      "en": "The pollen this year has LITERALLY brought back my childhood asthma. 2020 is the advent calendar of shitty things",
+      "fr": "Le pollen cette année a LITTÉRALEMENT ramené mon asthme d'enfance. 2020 c'est le calendrier de l'avent des trucs de merde"
+    },
+    {
+      "id": 275,
+      "en": "opening up the pool today text me if you wanna come hit some gainers off the diving board",
+      "fr": "j'ouvre la piscine aujourd'hui envoie-moi un texto si tu veux venir faire des gainers du plongeoir"
+    },
+    {
+      "id": 277,
+      "en": "actually getting tan this summer instead of the pasty white ghost yall know me as",
+      "fr": "enfin en train de bronzer cet été au lieu d'être le fantôme blanc pâteux que vous connaissez"
+    },
+    {
+      "id": 278,
+      "en": "Getting forced to go on a trip with the family to the fun great outdoors woooohoooo",
+      "fr": "Forcée d'aller en trip en famille dans les grands espaces woooohoooo"
+    },
+    {
+      "id": 279,
+      "en": "Thinking about making a mobile game after seeing the garbage my little cousins put up with on their devices. Kid got 8 ads in 2mins and could care less talk about free money lol",
+      "fr": "Je pense à faire un jeu mobile après avoir vu les déchets que mes petits cousins supportent sur leurs appareils. Le gamin a eu 8 pubs en 2 min et s'en foutait — parlons d'argent gratuit mdr"
+    },
+    {
+      "id": 280,
+      "en": "LIKE AND RT FOR A CHANCE TO WIN 10K\r\n\r\nIM GOING THROUGH AND SELECTING PEOPLE AT RANDOM\r\n\r\nMAKE SURE YOU HAVE YOUR DMS OPEN",
+      "fr": "LIKE ET RT POUR TENTER DE GAGNER 10K\r\n\r\nJE PASSE ET JE SÉLECTIONNE AU HASARD\r\n\r\nASSUREZ-VOUS D'AVOIR VOS DMS OUVERTS"
+    },
+    {
+      "id": 294,
+      "en": "Ughhhh someone save me from this writers block! I have three deadlines and zero inspiration. ",
+      "fr": "Ughhhh que quelqu'un me sauve de ce blocage d'écrivain ! Trois deadlines et zéro inspiration. "
+    },
+    {
+      "id": 295,
+      "en": "I think I am more caffeine than person. ",
+      "fr": "Je crois que je suis plus caféine que personne. "
+    },
+    {
+      "id": 296,
+      "en": "Forever filling out journals with useless thoughts... ",
+      "fr": "Toujours à remplir des carnets de pensées inutiles... "
+    },
+    {
+      "id": 297,
+      "en": "Alright everyone, here is my official proclamation. As of today, I am doing a complete social media detox for as long as it takes for me to get back into \"writer-mode\". I waste overly too much time on the internet and God, I just need a break. Hope you all understand. ",
+      "fr": "Bon tout le monde, proclamation officielle. À partir d'aujourd'hui, détox totale des réseaux aussi longtemps qu'il faudra pour retrouver le « mode écrivain ». Je perds trop de temps sur internet et mon Dieu, j'ai juste besoin d'une pause. J'espère que vous comprendrez. "
+    },
+    {
+      "id": 298,
+      "en": "Nothing beats the feeling of having your own classroom after so long. Excited to start teaching!",
+      "fr": "Rien ne vaut le feeling d'avoir sa propre classe après si longtemps. Trop hâte de commencer à enseigner !"
+    },
+    {
+      "id": 299,
+      "en": "Thanks for a lovely evening, Melissa. You confided in me your deepest secrets, but you can trust me to take them to my grave.",
+      "fr": "Merci pour cette belle soirée, Melissa. Tu m'as confié tes secrets les plus profonds, mais tu peux me faire confiance pour les emporter dans ma tombe."
+    },
+    {
+      "id": 300,
+      "en": "Abigail is fine. She's made of sunshine. Her kisses are sweet, but her skeletons are obsolete. <3",
+      "fr": "Abigail va bien. Elle est faite de soleil. Ses baisers sont doux, mais ses squelettes sont obsolètes. <3"
+    },
+    {
+      "id": 301,
+      "en": "I won't tell if you won't, Carol. Lol. Call me if you're ever in the neighborhood again. I'd love to bathe in your warm glow again!",
+      "fr": "Je dirai rien si tu dis rien, Carol. Mdr. Appelle-moi si tu repasses dans le coin. J'adorerais me baigner encore dans ta lueur chaude !"
+    },
+    {
+      "id": 302,
+      "en": "Surrounded by diamonds in the rough. Smart girls and boys that just need some refining. Nothing that can't be fixed by the end of the school year :)",
+      "fr": "Entouré de diamants bruts. Des filles et des garçons intelligents qui ont juste besoin d'être peaufinés. Rien qu'on ne puisse pas régler d'ici la fin de l'année scolaire :)"
+    },
+    {
+      "id": 304,
+      "en": "Confirmation has finally arrived: everyone in my class has passed with a A! Almost seems surreal. Very proud of the kids - no doubt next year will be just as great, if not better :)",
+      "fr": "Confirmation enfin reçue : toute ma classe a eu un A ! Ça paraît presque surréaliste. Tellement fier des enfants — aucun doute que l'année prochaine sera aussi bien, sinon mieux :)"
+    },
+    {
+      "id": 305,
+      "en": "Happy to announce that the principal has asked me to take over the theater club this year! Looks like we've got a talented group, so the sky's the limit!",
+      "fr": "Heureux d'annoncer que le principal m'a demandé de reprendre le club de théâtre cette année ! On a l'air d'avoir un groupe talentueux — la limite, c'est le ciel !"
+    },
+    {
+      "id": 308,
+      "en": "Check out this picture-perfect meal I made myself for lunch! Already a week in on this new eating plan and I feel AMAZING!",
+      "fr": "Regardez ce repas parfait que je me suis fait pour le déjeuner ! Déjà une semaine sur ce nouveau plan alimentaire et je me sens INCROYABLE !"
+    },
+    {
+      "id": 309,
+      "en": "I'm getting real good at these magazine-style meals, you guys. Who else is ready to take back their health!",
+      "fr": "Je commence à être vraiment fort sur ces repas façon magazine, les gars. Qui d'autre est prêt à reprendre sa santé en main !"
+    },
+    {
+      "id": 310,
+      "en": "A meal for two. <3",
+      "fr": "Un repas pour deux. <3"
+    },
+    {
+      "id": 313,
+      "en": "Picture I took while falling over at the bar. You know it was a good night. #bars #drunk #beer",
+      "fr": "Photo prise en tombant au bar. Tu vois que c'était une bonne soirée. #bars #drunk #beer"
+    },
+    {
+      "id": 315,
+      "en": "I am surrounded by liars and cheats who have made it their goal to humiliate me and take my husband from me. They want to drive me mad and to commit suicide, but I won't let them. ",
+      "fr": "Je suis entourée de menteurs et de tricheurs qui se sont donné pour but de m'humilier et de me prendre mon mari. Ils veulent me rendre folle et me pousser au suicide, mais je ne les laisserai pas. "
+    },
+    {
+      "id": 316,
+      "en": "The circle is complete. That little bitch. She won't give up! Everybody's supporting her and wants to help her take my beloved husband away from me. She's got her claws into him. I have to think of something right away. ",
+      "fr": "La boucle est bouclée. Cette petite salope. Elle n'abandonne pas ! Tout le monde la soutient et veut l'aider à m'arracher mon mari adoré. Elle lui a mis les griffes dessus. Il faut que je trouve quelque chose tout de suite. "
+    },
+    {
+      "id": 317,
+      "en": "There is only one solution left. The final solution. I've figured out a way to destroy it. I'm just waiting for the right moment. ",
+      "fr": "Il ne reste qu'une solution. La solution finale. J'ai trouvé un moyen de la détruire. J'attends juste le bon moment. "
+    },
+    {
+      "id": 318,
+      "en": "We leave tomorrow night. Time to make some diner soon. ",
+      "fr": "On part demain soir. Bientôt l'heure de préparer un dîner. "
+    },
+    {
+      "id": 319,
+      "en": "Hosting a yoga retreat this weekend! Shoot me a message if you're interested in joining! ",
+      "fr": "Je organise une retraite de yoga ce week-end ! Envoyez-moi un message si ça vous dit ! "
+    },
+    {
+      "id": 320,
+      "en": "Hosting a yoga retreat on the 17th until the 19th! Message me for deets. ",
+      "fr": "Retraite de yoga du 17 au 19 ! Message-moi pour les détails. "
+    },
+    {
+      "id": 321,
+      "en": "Retreat this weekend! :) Message if interested. ",
+      "fr": "Retraite ce week-end ! :) Message si intéressé. "
+    },
+    {
+      "id": 324,
+      "en": "Starting lessons next week! Finally going to learn how to play this guy :)",
+      "fr": "Cours la semaine prochaine ! Enfin je vais apprendre à jouer de ce truc :)"
+    },
+    {
+      "id": 325,
+      "en": "Okay, this is driving me nuts. Does ANYONE know that song that goes doo dada doo doo?",
+      "fr": "Ok, ça me rend dingue. Est-ce que QUELQU'UN connaît cette chanson qui fait doo dada doo doo ?"
+    },
+    {
+      "id": 326,
+      "en": "I am a horrible cook, my goodness. ",
+      "fr": "Je suis une horrible cuisinière, mon Dieu. "
+    },
+    {
+      "id": 327,
+      "en": "My amazing girlfriend! Congrats on your promotion, Crystal. I love you. :) ",
+      "fr": "Ma merveilleuse copine ! Bravo pour ta promotion, Crystal. Je t'aime. :) "
+    },
+    {
+      "id": 331,
+      "en": "On the plane! We're in the sky. Aside from some jitters the Xanax the DR gave me is really helping me get through this so far! Here's the view.",
+      "fr": "Dans l'avion ! On est dans le ciel. À part quelques frissons, le Xanax que le doc m'a donné m'aide vraiment à tenir jusqu'ici ! Voici la vue."
+    },
+    {
+      "id": 332,
+      "en": "This is where I belong, guys. When I retire next year, I'm packing up and buying a place where I can see this every morning.\r\n",
+      "fr": "C'est là que je dois être, les gars. Quand je prends ma retraite l'année prochaine, je fais mes valises et j'achète un endroit où je peux voir ça tous les matins.\r\n"
+    },
+    {
+      "id": 333,
+      "en": "The surf is incredible!\r\n",
+      "fr": "Le surf est incroyable !\r\n"
+    },
+    {
+      "id": 339,
+      "en": "Tea with my best friend! <3 :)",
+      "fr": "Thé avec ma meilleure amie ! <3 :)"
+    },
+    {
+      "id": 340,
+      "en": "She said yes!!! ",
+      "fr": "Elle a dit oui !!! "
+    },
+    {
+      "id": 344,
+      "en": "another sick night at paraiso",
+      "fr": "encore une soirée de malade à paraiso"
+    },
+    {
+      "id": 345,
+      "en": "best place to spend halloween? lmk",
+      "fr": "meilleur endroit pour Halloween ? dis-moi"
+    },
+    {
+      "id": 346,
+      "en": "my apologies to all the guys today lmao, stay strong boys",
+      "fr": "mes excuses à tous les gars aujourd'hui mdr, tenez bon les boys"
+    },
+    {
+      "id": 347,
+      "en": "Okay, I know I usually don't do this (mainly because I promised myself I wouldn't) BUT, we have a *beautiful* home for sale and we're currently looking for it's brand new owners! (4bd, 3ba) Toss me a PM if you're interested!! Won't be on the market for long ;)",
+      "fr": "Ok, je sais que je fais rarement ça (surtout parce que je m'étais promis de pas le faire) MAIS, on a une *magnifique* maison à vendre et on cherche ses tout nouveaux propriétaires ! (4 ch, 3 sdb) Envoyez-moi un MP si ça vous intéresse !! Elle restera pas longtemps sur le marché ;)"
+    },
+    {
+      "id": 348,
+      "en": "Feeling very lucky and grateful today. I love working at my dream job!",
+      "fr": "Je me sens très chanceuse et reconnaissante aujourd'hui. J'adore travailler dans le job de mes rêves !"
+    },
+    {
+      "id": 349,
+      "en": "Okay YES this is a little weird, but please tell me I'm not the only person: anyone else love the smell of gas stations??",
+      "fr": "Ok OUI c'est un peu bizarre, mais dites-moi que je suis pas la seule : quelqu'un d'autre aime l'odeur des stations-service ??"
+    },
+    {
+      "id": 351,
+      "en": "My boss is such a jackass sometimes, but lord knows he gets blueballed at home so I guess he's got as good an excuse as any to get his rocks off taking it out on me. I hope he sees this and fires me, so I can at least say I went out with a bang - kinda like how I left his house last night",
+      "fr": "Mon boss est vraiment un connard parfois, mais Dieu sait qu'il se fait blueballer à la maison alors j'suppose qu'il a une aussi bonne excuse que n'importe qui pour se défouler sur moi. J'espère qu'il voit ça et me vire, comme ça je pourrai au moins dire que je suis parti en beauté — un peu comme quand j'ai quitté sa maison hier soir"
+    },
+    {
+      "id": 355,
+      "en": "How do you respond to some batcrap crazy racist neighbour calling you fat from across the street? Buy a swish new workout gear and plan out a powerwalking routine around the neighborhood! ProRevenge: Self-Improvement Edition!",
+      "fr": "Comment tu réponds à un voisin raciste complètement taré qui te traite de gros de l'autre côté de la rue ? Tu t'achètes un beau nouveau kit de sport et tu planifies une routine de marche rapide dans le quartier ! ProRevenge : édition auto-amélioration !"
+    },
+    {
+      "id": 356,
+      "en": "Human trafficking in Westbrook is a cancer upon our city and the country. We in the WBPD need to step up and look out for each other. See something? Say something!",
+      "fr": "La traite des êtres humains à Westbrook est un cancer pour notre ville et le pays. Nous au WBPD devons monter d'un cran et veiller les uns sur les autres. Vous voyez quelque chose ? Dites quelque chose !"
+    },
+    {
+      "id": 358,
+      "en": "Best wishes to Mary and her son Adam in these trying times. If anyone wants to donate to their charity page, please visit the link below.\r\n\r\nCqhfbxgm.com/cancerdonation ",
+      "fr": "Tous nos vœux à Mary et son fils Adam en ces temps difficiles. Si quelqu'un veut donner sur leur page caritative, le lien est ci-dessous.\r\n\r\nCqhfbxgm.com/cancerdonation "
+    },
+    {
+      "id": 359,
+      "en": "Congrats to the Blackburn's. Nothing holier than the bliss of marriage.",
+      "fr": "Félicitations aux Blackburn. Rien de plus sacré que le bonheur du mariage."
+    },
+    {
+      "id": 360,
+      "en": "Late night call-outs. Another trail goes cold. Human traffickers stay consistently one step ahead of law enforcement...",
+      "fr": "Interventions nocturnes. Encore une piste qui tombe à l'eau. Les trafiquants d'êtres humains restent toujours une longueur d'avance sur les flics..."
+    },
+    {
+      "id": 361,
+      "en": "When the cap falls off your shampoo bottle while you're holding it above your head... Whomp-whomp.",
+      "fr": "Quand le bouchon tombe de ta bouteille de shampoing pendant que tu la tiens au-dessus de ta tête... Whomp-whomp."
+    },
+    {
+      "id": 365,
+      "en": "Had a real rough night... I'll spare you all the details, but it's safe to say I'm not fit to work today. Anyone got any recommendations for something engaging to binge-watch, but light enough to doze off in? Looks like I'm queen of the couch today... Ick.",
+      "fr": "Nuit vraiment pourrie... Je vous épargne les détails, mais disons que je suis pas en état de travailler aujourd'hui. Quelqu'un a des idées pour un truc captivant à binge-watcher, mais assez léger pour s'assoupir ? On dirait que je suis reine du canapé aujourd'hui... Beurk."
+    },
+    {
+      "id": 366,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 367,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 368,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 369,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 370,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 371,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 372,
+      "en": "Genuine Day-Vanns Sunglasses Sold Here > i.mo/n394214 < $29!",
+      "fr": "Véritables lunettes Day-Vanns en vente ici > i.mo/n394214 < 29 $ !"
+    },
+    {
+      "id": 373,
+      "en": "So apparently my account was hacked... Thanks for telling me right away, you bunch of bastards.",
+      "fr": "Donc apparemment mon compte a été piraté... Merci de me l'avoir dit tout de suite, bande de salauds."
+    },
+    {
+      "id": 375,
+      "en": "I don't need my man to buy me a diamond - it just means he's bad with money. If a man works hard to save for a rainy day, then he's the man for me! #ShowerThoughts #DiamondsAreWorthlessAnyway #LookItUpItsAllAMonopoly",
+      "fr": "J'ai pas besoin que mon mec m'achète un diamant — ça veut juste dire qu'il gère mal l'argent. Si un homme bosse dur pour mettre de côté pour les jours de pluie, c'est lui l'homme qu'il me faut ! #ShowerThoughts #DiamondsAreWorthlessAnyway #LookItUpItsAllAMonopoly"
+    },
+    {
+      "id": 376,
+      "en": "Should I make Tex-Mex tonight, or bake some salmon and tortellini? Hit me up with some recipes! I'll cook them live on my feed for you hungry heroes!",
+      "fr": "Je fais du Tex-Mex ce soir, ou du saumon et des tortellini au four ? Balancez-moi des recettes ! Je les cuisinerai en live sur mon feed pour vous, héros affamés !"
+    },
+    {
+      "id": 379,
+      "en": "Freedom is the key to life. Freedom to pursue is paramount; whether you're pursuing profit, pleasure, or self-fulfillment, there's no law in nature that bars you from pursuing your happiness. What is life if you can't enjoy it no matter how you want to?",
+      "fr": "La liberté est la clé de la vie. La liberté de poursuivre est primordiale ; que vous poursuiviez le profit, le plaisir ou l'épanouissement, aucune loi de la nature ne vous empêche de chercher votre bonheur. Qu'est-ce que la vie si on ne peut pas en profiter comme on veut ?"
+    },
+    {
+      "id": 380,
+      "en": "Hello everyone. I can't wait to see my grandchildren soon. My house is almost presentable! Sincerely, Norma",
+      "fr": "Bonjour à tous. J'ai hâte de voir bientôt mes petits-enfants. Ma maison est presque présentable ! Cordialement, Norma"
+    },
+    {
+      "id": 381,
+      "en": "what can i say? i'm expensive ;)",
+      "fr": "que dire ? je suis chère ;)"
+    },
+    {
+      "id": 382,
+      "en": "MODELING OPPORTUNITY: looking for guys and gals between the ages of 18-21 for a modeling job! toss me your hottest head shots, i'll be in contact if i'm interesteddd",
+      "fr": "OPPORTUNITÉ MANNEQUIN : on cherche des gars et des filles de 18-21 ans pour un job de mannequin ! envoyez-moi vos plus belles têtes, je vous contacte si ça m'intéresseee"
+    },
+    {
+      "id": 383,
+      "en": "masquerade nite with my fav hotties :*",
+      "fr": "soirée mascarade avec mes hottees préférées :*"
+    },
+    {
+      "id": 384,
+      "en": "stressed af so i'm going for a vacay. chow babes!",
+      "fr": "stressée à mort donc je pars en vacay. ciao les babes !"
+    },
+    {
+      "id": 385,
+      "en": "take me back! photo creds: Lizzy <3",
+      "fr": "ramenez-moi là-bas ! photo : Lizzy <3"
+    },
+    {
+      "id": 386,
+      "en": "Watching my brother chop up some meat. He's a real pro. It can be messy at times, but the end product is out of this world.",
+      "fr": "Je regarde mon frère découper de la viande. C'est un vrai pro. Ça peut être sale parfois, mais le résultat final est hors du commun."
+    },
+    {
+      "id": 390,
+      "en": "No one in our country should have to live on the streets and starve, even though there is enough for everyone. Together instead of against each other. ",
+      "fr": "Personne dans notre pays ne devrait vivre dans la rue et mourir de faim, alors qu'il y en a assez pour tout le monde. Ensemble plutôt que les uns contre les autres. "
+    },
+    {
+      "id": 391,
+      "en": "Poverty knows no age, no gender and no morals. Equal rights for all.  ",
+      "fr": "La pauvreté ne connaît ni âge, ni genre, ni morale. Des droits égaux pour tous.  "
+    },
+    {
+      "id": 392,
+      "en": "America is not only the rich and beautiful, America is all of us. Rich or poor, black or white, small or large. Wake up, people! ",
+      "fr": "L'Amérique, ce n'est pas que les riches et les beaux — l'Amérique c'est nous tous. Riche ou pauvre, noir ou blanc, petit ou grand. Réveillez-vous, les gens ! "
+    },
+    {
+      "id": 394,
+      "en": "Got tagged in the #RealLifeVideoGame Challenge, so... If I would wanna live in a video game, I'd wanna live in Assault & Battery IV, yknow the one where you can do what you want, take what you want, fuck who you want and kill em after and the cops don't do shit? Yeah, that'd be sweet.",
+      "fr": "On m'a tagué dans le #RealLifeVideoGame Challenge, alors... Si je voulais vivre dans un jeu vidéo, ce serait Assault & Battery IV, tu sais celui où tu fais ce que tu veux, tu prends ce que tu veux, tu baises qui tu veux et tu les butes après et les flics font rien ? Ouais, ce serait trop bien."
+    },
+    {
+      "id": 395,
+      "en": "Alimony alimony alimony... If you take an alimony check you're officially owning a slave. Alimony is slavery but where the fuck is my emancipation huh?",
+      "fr": "Pension alimentaire pension alimentaire pension alimentaire... Si tu encaisses un chèque de pension, t'as officiellement un esclave. La pension c'est de l'esclavage mais où est ma putain d'émancipation hein ?"
+    },
+    {
+      "id": 396,
+      "en": "If my little angel comes home from school with bruises on his arms one more time, I swear to God I'm gonna take this into my own hands! This school board is incompetent and the teachers won't do a thing to protect my baby!",
+      "fr": "Si mon petit ange rentre encore une fois de l'école avec des bleus aux bras, je jure devant Dieu que je vais prendre ça en main ! Ce conseil scolaire est incompétent et les profs font rien pour protéger mon bébé !"
+    },
+    {
+      "id": 397,
+      "en": "I think I've spent more on therapy for my 10 year old son to help him cope with his bullying issues than I've spent on gas and water combined... I just wish the school board would take our children's lives seriously.",
+      "fr": "Je crois que j'ai dépensé plus en thérapie pour mon fils de 10 ans pour l'aider face au harcèlement qu'en gaz et eau combinés... J'aimerais juste que le conseil scolaire prenne la vie de nos enfants au sérieux."
+    },
+    {
+      "id": 398,
+      "en": "Some days I'd rather die than see my precious child like this... One of these kids at this school is the devil incarnate, and I'm getting real tired of being a caged up Mama Bear.",
+      "fr": "Certains jours je préfère mourir plutôt que de voir mon précieux enfant comme ça... Un de ces gosses de cette école est le diable incarné, et j'en ai vraiment marre d'être une maman ourse en cage."
+    },
+    {
+      "id": 401,
+      "en": "Buster's back at the vet... I think today's the day they give me the real bad news. I could really use someone to talk to... Anyone free to stop by tonight? I need some company.",
+      "fr": "Buster est de retour chez le véto... Je pense qu'aujourd'hui c'est le jour où ils m'annoncent la vraiment mauvaise nouvelle. J'aurais vraiment besoin de parler à quelqu'un... Quelqu'un de libre pour passer ce soir ? J'ai besoin de compagnie."
+    },
+    {
+      "id": 403,
+      "en": "Back in my old hometown for a few days visiting my grandparents! Anyone feel like getting blitzed at the club like old times? HOLLA!!!",
+      "fr": "De retour dans ma vieille ville natale quelques jours chez mes grands-parents ! Quelqu'un veut se déchirer en boîte comme au bon vieux temps ? HOLLA !!!"
+    },
+    {
+      "id": 404,
+      "en": "If I ever become a time-traveller, I'm gonna put the assholes who invented 'minimum wage' and 'graveyard shifts' in a room together and make them kill each other like fucking Caesar. =_= Anyone who's worked in retail would do the same.",
+      "fr": "Si jamais je deviens voyageur temporel, je mets dans une pièce les connards qui ont inventé le « salaire minimum » et les « shifts de nuit » et je les force à s'entre-tuer comme putain de César. =_= Quiconque a bossé en magasin ferait pareil."
+    },
+    {
+      "id": 405,
+      "en": "I. Do not. Get paid. ENOUGH FOR THIS BULLSHIT!",
+      "fr": "Je. Suis. PAS. ASSEZ PAYÉ POUR CETTE MERDE !"
+    },
+    {
+      "id": 407,
+      "en": "How do you set up this thing? I'm an old man.",
+      "fr": "Comment on configure ce truc ? Je suis un vieux."
+    },
+    {
+      "id": 408,
+      "en": "Can someone show me how to block my wife on this website please?",
+      "fr": "Quelqu'un peut me montrer comment bloquer ma femme sur ce site s'il vous plaît ?"
+    },
+    {
+      "id": 412,
+      "en": "I've lost 10 pounds since I started walking around to play Gackumon JOLT. Sure, it's childish, but dem gains yooo! And FYI, today I learned the house at the corner of my street is the site of a triple homicide - thanks to a landmark on Gackumon! LIT~! Murder house! ",
+      "fr": "J'ai perdu 10 livres depuis que je marche pour jouer à Gackumon JOLT. Bien sûr c'est enfantin, mais dem gains yooo ! Et FYI, aujourd'hui j'ai appris que la maison au coin de ma rue est le site d'un triple homicide — grâce à un landmark sur Gackumon ! LIT~ ! Maison du meurtre ! "
+    },
+    {
+      "id": 413,
+      "en": "everything that is born on earth must return to earth in one way or another",
+      "fr": "tout ce qui naît sur terre doit y retourner d'une manière ou d'une autre"
+    },
+    {
+      "id": 414,
+      "en": "Some people make me so mad. SO MAD. It's frustrating. I feel powerless all the time. All I want is to help others, but I feel like I'm shunned or ridiculed for my actions. It's not fair. I need to vent my anger before the dam breaks.",
+      "fr": "Certaines personnes me rendent tellement furieuse. TELLEMENT FURIEUSE. C'est frustrant. Je me sens impuissante tout le temps. Tout ce que je veux c'est aider les autres, mais j'ai l'impression d'être rejetée ou ridiculisée pour mes actes. C'est pas juste. Il faut que je vide ma colère avant que le barrage ne cède."
+    },
+    {
+      "id": 415,
+      "en": "Just finished some relaxing meditation to unwind for the day. Slow shallow breathing, for about 30 minutes. Keeping the mind calm along the way.",
+      "fr": "Je viens de finir une méditation relaxante pour décompresser. Respiration lente et superficielle, environ 30 minutes. Garder l'esprit calme en chemin."
+    },
+    {
+      "id": 417,
+      "en": "Walking at night to calm down is probably the best thing I can do to myself. ",
+      "fr": "Marcher la nuit pour me calmer, c'est probablement le mieux que je puisse me faire. "
+    },
+    {
+      "id": 418,
+      "en": "It feels like shit to always be the victim. Unfortunately, the people who torture you only see it when it's too late. ",
+      "fr": "C'est de la merde d'être toujours la victime. Malheureusement, ceux qui te torturent ne le voient que quand c'est trop tard. "
+    },
+    {
+      "id": 419,
+      "en": "I find it only fair to defend myself against monsters. If they treat you like an animal, as if you were their prey, then you should fight like a cornered animal. Even if it's to the death...",
+      "fr": "Je trouve juste de me défendre contre les monstres. S'ils te traitent comme un animal, comme si tu étais leur proie, alors tu dois te battre comme un animal acculé. Même jusqu'à la mort..."
+    },
+    {
+      "id": 420,
+      "en": "It'll be over soon. Soon they will all be silent and no one will laugh at me anymore. Justice always wins in the end, even if I have to deliver it. ",
+      "fr": "Ce sera bientôt fini. Bientôt ils se tairont tous et plus personne ne se moquera de moi. La justice gagne toujours à la fin, même si c'est moi qui dois la rendre. "
+    },
+    {
+      "id": 421,
+      "en": "Took a visit to the abandoned rail station of Mannahalla West. Built in 1844 and decommissioned in 1986. If only I had ridden the majestic transport that ran through this beautiful country.",
+      "fr": "Visite de la gare abandonnée de Mannahalla West. Construite en 1844, désaffectée en 1986. Si seulement j'avais pris ce majestueux transport qui traversait ce beau pays."
+    },
+    {
+      "id": 422,
+      "en": "With the help of my good friend and fellow enthusiast, @ShermanKimbrough the process has BEGUN!",
+      "fr": "Avec l'aide de mon bon ami et collègue passionné, @ShermanKimbrough, le processus a COMMENCÉ !"
+    },
+    {
+      "id": 424,
+      "en": "Been so long since I've gotten dressed up and gone out! <3",
+      "fr": "Ça fait tellement longtemps que je me suis pas habillée pour sortir ! <3"
+    },
+    {
+      "id": 425,
+      "en": "Explored this perfect example of urban decay this morning. Didn't forget my mask and filter either! Lots of mold. Lol.",
+      "fr": "Exploré ce parfait exemple de décadence urbaine ce matin. J'ai pas oublié mon masque et mon filtre non plus ! Plein de moisissure. Mdr."
+    },
+    {
+      "id": 427,
+      "en": "I'm known for renovating and restoring houses all over the state! DM me for details or visit the website in my bio!",
+      "fr": "Je suis connue pour rénover et restaurer des maisons dans tout l'État ! DM pour les détails ou visitez le site dans ma bio !"
+    },
+    {
+      "id": 431,
+      "en": "Quintin is having some more testing today. Please, keep us in your thoughts and prayers. My little angel has been through so much, and I've been doing my best to give him all the love and care he needs. ",
+      "fr": "Quintin a encore des examens aujourd'hui. S'il vous plaît, gardez-nous dans vos pensées et prières. Mon petit ange a tellement enduré, et j'ai fait de mon mieux pour lui donner tout l'amour et les soins dont il a besoin. "
+    },
+    {
+      "id": 432,
+      "en": "Since you all have been so kind and generous in the past, I have set up a funding site for Quintin and Ariel. We appreciate everything and anything. <3\r\n\r\nisharebazaar.com/donate",
+      "fr": "Puisque vous avez tous été si gentils et généreux par le passé, j'ai créé une cagnotte pour Quintin et Ariel. On apprécie tout, vraiment. <3\r\n\r\nisharebazaar.com/donate"
+    },
+    {
+      "id": 433,
+      "en": "Mother moon is in full harmony with all of us. As with the tides that follow the lunar cycle, so do our bodies.",
+      "fr": "Mère Lune est en pleine harmonie avec nous tous. Comme les marées suivent le cycle lunaire, nos corps aussi."
+    },
+    {
+      "id": 435,
+      "en": "While it may be summer, that doesn't mean we can't find excuses to have a bonfire and rejoice in the majesty of the flame!",
+      "fr": "Même si c'est l'été, ça veut pas dire qu'on peut pas trouver une excuse pour un feu de joie et célébrer la majesté de la flamme !"
+    },
+    {
+      "id": 436,
+      "en": "Kinda weird when a person says they do things out of love for you, but they never actually say the words I love you",
+      "fr": "C'est un peu bizarre quand quelqu'un dit qu'il fait des trucs par amour pour toi, mais ne dit jamais vraiment je t'aime"
+    },
+    {
+      "id": 438,
+      "en": "Knowing that my bffs are going on a vacation to Mexico and I can't is killing this day",
+      "fr": "Savoir que mes BFF partent en vacances au Mexique et que je peux pas, ça tue ma journée"
+    },
+    {
+      "id": 439,
+      "en": "Currently alone in a diner stuffing my face & someone just screamed \"girl you well dressed and eating like a vacuum\" this is a low moment",
+      "fr": "Actuellement seule dans un diner en train de me bourrer la face & quelqu'un vient de crier « fille t'es bien habillée et tu manges comme un aspirateur » — moment bas"
+    },
+    {
+      "id": 440,
+      "en": "The fact that it's the second to last week in college before summer is finally hitting me",
+      "fr": "Le fait que ce soit l'avant-dernière semaine à la fac avant l'été, ça me tombe enfin dessus"
+    },
+    {
+      "id": 441,
+      "en": "\"drinking to forget the guys we've dated\"",
+      "fr": "« boire pour oublier les gars avec qui on est sorties »"
+    },
+    {
+      "id": 442,
+      "en": "I've been home for 2 weeks and my dad is already threatening to ground me\r\n\r\nDon't you dare take hot girl summer away from me",
+      "fr": "Je suis à la maison depuis 2 semaines et mon père menace déjà de me mettre en retenue\r\n\r\nN'ose pas me retirer mon hot girl summer"
+    },
+    {
+      "id": 444,
+      "en": "mood",
+      "fr": "mood"
+    },
+    {
+      "id": 445,
+      "en": "Did my mom LITERALLY just pull a I lost my wallet & make me pay for all my college stuff\r\n\r\nI'M FUMING",
+      "fr": "Est-ce que ma mère vient LITTÉRALEMENT de sortir le « j'ai perdu mon portefeuille » et de me faire payer toutes mes affaires de fac\r\n\r\nJE FUME"
+    },
+    {
+      "id": 447,
+      "en": "I was never able to quite achieve my dreams. Luckily though I can help a younger generation reach their dreams. As long as they follow my teachings, they will excel.",
+      "fr": "Je n'ai jamais vraiment réalisé mes rêves. Heureusement je peux aider une jeune génération à atteindre les siens. Tant qu'ils suivent mes enseignements, ils excelleront."
+    },
+    {
+      "id": 448,
+      "en": "For those of you that keep harassing me for working at a morgue, I never would violate a corpse, and never will. Please kindly fuck off",
+      "fr": "Pour ceux qui continuent à me harceler parce que je bosse à la morgue : je ne violerais jamais un cadavre, et je ne le ferai jamais. Allez gentiment vous faire foutre"
+    },
+    {
+      "id": 451,
+      "en": "I need a good movie to watch. Something I can just turn my mind off of and get lost in the story. Any recommendations?",
+      "fr": "J'ai besoin d'un bon film. Un truc où je peux juste couper mon cerveau et me perdre dans l'histoire. Des recommandations ?"
+    },
+    {
+      "id": 457,
+      "en": "BOO! Here's a pic from my most recent job ;))",
+      "fr": "BOO ! Voici une photo de mon dernier job ;))"
+    },
+    {
+      "id": 458,
+      "en": "Looking for some fun contract jobs! I specialize in horror SFX makeup, and have worked in countless productions & plays. Hit my line up!!",
+      "fr": "Je cherche des contrats sympas ! Spécialisée en maquillage SFX horreur, j'ai bossé sur d'innombrables productions et pièces. Hit my line up !!"
+    },
+    {
+      "id": 459,
+      "en": "Ok, I may not be the best photographer but LOOK at this pic I just took of Carlos. My best one yet!!",
+      "fr": "Ok, je suis peut-être pas le meilleur photographe mais REGARDEZ cette photo que je viens de prendre de Carlos. Ma meilleure à ce jour !!"
+    },
+    {
+      "id": 460,
+      "en": "its hard not knowing that many people that you love will not be forgiven when death comes for them",
+      "fr": "c'est dur de savoir que beaucoup de gens que tu aimes ne seront pas pardonnés quand la mort viendra les chercher"
+    },
+    {
+      "id": 462,
+      "en": "Nothing like having a horror movie marathon and then being too scared to walk around the house :)) Why do I do this to myself!!",
+      "fr": "Rien de tel qu'un marathon de films d'horreur puis d'avoir trop peur pour se balader dans la maison :)) Pourquoi je me fais ça !!"
+    },
+    {
+      "id": 464,
+      "en": "blood will be shed for the sake of the truth and enlightenment",
+      "fr": "le sang sera versé au nom de la vérité et de l'illumination"
+    },
+    {
+      "id": 466,
+      "en": "Welcoming Able Franklin Nettles 8lbs 4oz to the family",
+      "fr": "Bienvenue à Able Franklin Nettles 8 lbs 4 oz dans la famille"
+    },
+    {
+      "id": 467,
+      "en": "hosting some singing auditions come thru if you want to have the chance to star in a new musical!",
+      "fr": "on organise des auditions de chant — passez si vous voulez une chance de jouer dans une nouvelle comédie musicale !"
+    },
+    {
+      "id": 468,
+      "en": "Vacation with the wife",
+      "fr": "Vacances avec ma femme"
+    },
+    {
+      "id": 472,
+      "en": "Got the engine back in the 442 baby purrs just like she did '81",
+      "fr": "Le moteur est remis dans la 442 bébé ronronne comme en 81"
+    },
+    {
+      "id": 474,
+      "en": "Been eyeing a smoker for the longest time now",
+      "fr": "Je lorgne un fumoir depuis un moment déjà"
+    },
+    {
+      "id": 475,
+      "en": "Kid surprised me with an early Father's Day gift to Domicile Depot",
+      "fr": "Le gamin m'a surpris avec un cadeau anticipé de fête des pères pour Domicile Depot"
+    },
+    {
+      "id": 478,
+      "en": "My little girl goes off on her own soon and I hate it!!! &#128549; At least she still needs Mama to help her decorate and DIY her first apartment. <3",
+      "fr": "Ma petite fille part bientôt toute seule et je déteste ça !!! &#128549; Au moins elle a encore besoin de Mama pour l'aider à décorer et bricoler son premier appart. <3"
+    },
+    {
+      "id": 483,
+      "en": "What happened was terrible, and I just can't seem to get my mind off it. Lost one of my close childhood friends recently. It's so sad. I'm going to miss you Eliana.",
+      "fr": "Ce qui s'est passé est terrible, et j'arrive pas à m'en détacher. J'ai perdu une amie d'enfance proche récemment. C'est tellement triste. Tu vas me manquer Eliana."
+    },
+    {
+      "id": 484,
+      "en": "Counting down the days until I can pull the trigger on this vacation",
+      "fr": "Je compte les jours jusqu'à ce que je puisse me lancer dans ces vacances"
+    },
+    {
+      "id": 485,
+      "en": "Someone suggested I get into spelunking. I'm not really sure if I'd like it. Probably too claustrophobic for me. I need to be able to run around and climb. That's what I like doing. Maybe I'll try it someday, but I still think I wouldn't like it. Haha.",
+      "fr": "Quelqu'un m'a suggéré la spéléo. Je suis pas sûr que ça me plaise. Probablement trop claustrophobe pour moi. Il me faut pouvoir courir et grimper. C'est ce que j'aime. Peut-être un jour, mais je pense toujours que j'aimerais pas. Haha."
+    },
+    {
+      "id": 486,
+      "en": "I found out about paramotoring today. It seems really fun, but I know my sister would never let me do anything like that. I think I could do it if I found someone to teach me.",
+      "fr": "J'ai découvert le paramoteur aujourd'hui. Ça a l'air trop cool, mais je sais que ma sœur me laisserait jamais faire un truc pareil. Je pense que je pourrais si je trouvais quelqu'un pour m'apprendre."
+    },
+    {
+      "id": 487,
+      "en": "Spent the last 3 days glued to my PC and I can't complain lol",
+      "fr": "Les 3 derniers jours collé à mon PC et je peux pas me plaindre mdr"
+    },
+    {
+      "id": 488,
+      "en": "Been almost a yr since I got inked thinking about getting something like this on my arm or maybe my back\r\n\r\nGonna change it to a wolf instead of an eagle but the same style",
+      "fr": "Ça fait presque un an que je me suis fait tatouer je pense à quelque chose comme ça sur le bras ou peut-être le dos\r\n\r\nJe vais le changer en loup au lieu d'un aigle mais même style"
+    },
+    {
+      "id": 489,
+      "en": "I've been sleeping on VR forever finally threw some money at a headset and by god was I missing out",
+      "fr": "J'ai dormi sur la VR depuis toujours — j'ai enfin mis de l'argent dans un casque et putain qu'est-ce que je ratais"
+    },
+    {
+      "id": 490,
+      "en": "First big side project I took on in a long time is coming together. As much as I like working on it I can't wait to just be done",
+      "fr": "Le premier gros side project depuis longtemps prend forme. Autant j'aime y bosser, autant j'ai hâte d'en avoir fini"
+    },
+    {
+      "id": 491,
+      "en": "It's days like today where I tell myself how lucky I am to have a girl like mine by my side",
+      "fr": "C'est les jours comme aujourd'hui où je me dis quelle chance j'ai d'avoir une fille comme la mienne à mes côtés"
+    },
+    {
+      "id": 493,
+      "en": "Glad I was able to make this before moving. Got some sweet battle scars to remember the night",
+      "fr": "Content d'avoir pu faire ça avant de déménager. De belles cicatrices de bataille pour me souvenir de la nuit"
+    },
+    {
+      "id": 494,
+      "en": "After hearing the horror stories some first time homeowners have I'm thanking everyone up there that I got a flawless place\r\n\r\nknock on wood of course nothing changes :)",
+      "fr": "Après avoir entendu les horreurs de certains primo-accédants je remercie tout le monde là-haut d'avoir une place impeccable\r\n\r\nje touche du bois bien sûr que rien change :)"
+    },
+    {
+      "id": 495,
+      "en": "Finished the last bagel my mom sent over and now the homesick feels are kicking in",
+      "fr": "Fini le dernier bagel que maman m'a envoyé et maintenant le mal du pays arrive"
+    },
+    {
+      "id": 496,
+      "en": "Forgetting to label some of the moving boxes is driving me up the wall. I just had to stir some sauce with a comb",
+      "fr": "Oublier d'étiqueter certains cartons de déménagement me rend dingue. J'ai dû remuer de la sauce avec un peigne"
+    },
+    {
+      "id": 497,
+      "en": "Treating myself to a 5 star dinner tonight for the success I've achieved over the past year.\r\n\r\nGot my own place, have a solid career, and finally a reliable car\r\n\r\nHere's to the next one",
+      "fr": "Je m'offre un dîner 5 étoiles ce soir pour le succès de l'année écoulée.\r\n\r\nMon propre appart, une carrière solide, et enfin une voiture fiable\r\n\r\nÀ la prochaine"
+    },
+    {
+      "id": 498,
+      "en": "Had a weird dream last night and woke up sweaty in the bathroom\r\n\r\nGot chased by some crazy people with masks saying I had to come with them to get fixed\r\n\r\nI searched white masks and the first image was what they were wearing wtf",
+      "fr": "Rêve bizarre la nuit dernière, réveillé en sueur dans la salle de bain\r\n\r\nPoursuivi par des fous masqués qui disaient que je devais venir avec eux pour être « réparé »\r\n\r\nJ'ai cherché white masks et la première image c'était pile ce qu'ils portaient wtf"
+    },
+    {
+      "id": 499,
+      "en": "Going 0 for 8 today my neighbors just don't want to wave back to me #bummed",
+      "fr": "0 sur 8 aujourd'hui, mes voisins veulent juste pas me répondre #bummed"
+    },
+    {
+      "id": 500,
+      "en": "My kid keeps telling me I'm smothering Colten, but he doesn't know what my little man likes #DogMom4Life",
+      "fr": "Mon gamin n'arrête pas de dire que j'étouffe Colten, mais il sait pas ce que mon petit homme aime #DogMom4Life"
+    },
+    {
+      "id": 501,
+      "en": "I wish Colten was smaller so I could carry him around in a little doggy purse",
+      "fr": "J'aimerais que Colten soit plus petit pour pouvoir le trimballer dans un petit sac à chien"
+    },
+    {
+      "id": 502,
+      "en": "Madison Pearson is asking for Kandy Breaker HD lives to surpass level 189. Connect your account to become friends today and take down the Kandy Ghoul!",
+      "fr": "Madison Pearson demande des vies Kandy Breaker HD pour dépasser le niveau 189. Connectez votre compte pour devenir amis aujourd'hui et abattre le Kandy Ghoul !"
+    },
+    {
+      "id": 503,
+      "en": "Tomorrow marks the 4th anniversary of the book club. I appreciate the time the ladies and I spend in my backyard even if a couple of them get a little heavy handed with the wine pours haha",
+      "fr": "Demain c'est le 4e anniversaire du club de lecture. J'apprécie le temps que les dames et moi passons dans mon jardin même si certaines ont la main un peu lourde sur le vin haha"
+    },
+    {
+      "id": 504,
+      "en": "Happy Mother's Day Moms",
+      "fr": "Bonne fête des mères Mamans"
+    },
+    {
+      "id": 505,
+      "en": "Colten gets to see his favorite doggie cousin today yay!",
+      "fr": "Colten voit son cousin toutou préféré aujourd'hui yay !"
+    },
+    {
+      "id": 507,
+      "en": "Check out my page on OnlyAdmirers made a 50% discount for everyone that signs up before Dare Day on June 1st, come quick and you'll get something special ;)",
+      "fr": "Checkez ma page OnlyAdmirers j'ai mis -50 % pour tous ceux qui s'inscrivent avant le Dare Day le 1er juin, venez vite et vous aurez un truc spécial ;)"
+    },
+    {
+      "id": 510,
+      "en": "Finally getting warmer out your girl's finally gonna get rid of this I so pale look lol",
+      "fr": "Il fait enfin plus chaud dehors — ta meuf va enfin se débarrasser de ce look trop pâle mdr"
+    },
+    {
+      "id": 512,
+      "en": "Been drinking a lot of this lately so let's SCOPE this tea. This is a Dong Ding Wulong. Season: 2020 - Cultivar: Chin Xin - Origin: Taiwan - Picking & Processing: Up to third or fourth leaf - Elevation: 1150m",
+      "fr": "J'en bois beaucoup dernièrement alors SCOPE ce thé. C'est un Dong Ding Wulong. Saison : 2020 - Cultivar : Chin Xin - Origine : Taïwan - Cueillette & transformation : jusqu'à la 3e ou 4e feuille - Altitude : 1150 m"
+    },
+    {
+      "id": 513,
+      "en": "I just tried a Lao Cha Tou. Incredible. It just keeps going, infusion after infusion. I probably did twenty infusions before it started to peter out. Tasting Notes: Vegetable sweetness with a hint of slight nuttiness and a kind of mineral smokiness. Around the eighth infusion I started tasting mint notes. By the twentieth infusion I was detecting a slight blueberry taste with sweet sweet rock candy flavor. A delicious Lao Cha Tou that has quite the journey as you brew.",
+      "fr": "Je viens d'essayer un Lao Cha Tou. Incroyable. Ça continue, infusion après infusion. J'ai dû faire une vingtaine d'infusions avant que ça s'essouffle. Notes de dégustation : douceur végétale avec une pointe de noisette et une sorte de fumée minérale. Vers la huitième infusion j'ai commencé à avoir des notes de menthe. À la vingtième, un léger goût de myrtille avec une saveur de sucre candi. Un délicieux Lao Cha Tou qui a tout un voyage pendant que tu infuses."
+    },
+    {
+      "id": 514,
+      "en": "I'm practicing my pouring techniques before I switch to boiling water. Here you see me using only two fingers. My index finger to hold the lid in place and my pinky finger (not shown) to hold the back of the gaiwan. It's quite difficult. Add boiling water and it's easy to get burned. Now, if you really want to show off, you can hold the lid with your middle finger and the back of the gaiwan with your pinky finger. I can't quite do that anymore. Haha xD",
+      "fr": "Je m'entraîne aux techniques de verse avant de passer à l'eau bouillante. Ici vous me voyez n'utiliser que deux doigts. L'index pour tenir le couvercle et l'auriculaire (pas visible) pour tenir l'arrière du gaiwan. C'est assez dur. Ajoutez de l'eau bouillante et c'est facile de se brûler. Maintenant, si vous voulez vraiment frimer, vous tenez le couvercle avec le majeur et l'arrière du gaiwan avec l'auriculaire. Je n'y arrive plus vraiment. Haha xD"
+    },
+    {
+      "id": 515,
+      "en": "Made a cheesecake for my mah, since it's Mother's Day. It may not be gourmet, but I think it turned out pretty well.",
+      "fr": "J'ai fait un cheesecake pour ma mah, c'est la fête des mères. C'est peut-être pas gourmet, mais je trouve que ça a plutôt bien tourné."
+    },
+    {
+      "id": 517,
+      "en": "Drinks with my favorite mate",
+      "fr": "Verres avec mon mate préféré"
+    },
+    {
+      "id": 518,
+      "en": "TFW you have a midterm tomorrow but went to hard at the pre-Halloween party, rip",
+      "fr": "TFW t'as un midterm demain mais t'as trop forcé à la pré-soirée d'Halloween, rip"
+    },
+    {
+      "id": 520,
+      "en": "DJ Roze's set was fuckin flamessssssssss, GJ mate",
+      "fr": "Le set de DJ Roze était putain de flamessssssssss, GJ mate"
+    },
+    {
+      "id": 521,
+      "en": "we are the underground behemoths babyyyy",
+      "fr": "on est les behemoths de l'underground babyyyy"
+    },
+    {
+      "id": 522,
+      "en": "worst part about having a fucked up sleeping schedule is having a fucked sleeping schedule, ugh",
+      "fr": "le pire d'avoir un rythme de sommeil foutu c'est d'avoir un rythme de sommeil foutu, ugh"
+    },
+    {
+      "id": 523,
+      "en": "rly wanna do a collab with a underground artist! tag your favs, i'll reach out to the ones who I like the most :)",
+      "fr": "trop envie de collab avec un artiste underground ! taggez vos favs, je contacterai ceux que j'aime le plus :)"
+    },
+    {
+      "id": 524,
+      "en": "this bad bitch officially has a job. ya! come catch me at Pandemonium most nights, promise my sets will be just as fire, if not more!",
+      "fr": "cette bad bitch a officiellement un job. ya ! venez me voir au Pandemonium la plupart des soirs, promis mes sets seront tout aussi fire, sinon plus !"
+    },
+    {
+      "id": 527,
+      "en": "Bro saw this guy on the side of the street today",
+      "fr": "Bro j'ai vu ce mec sur le bord de la rue aujourd'hui"
+    },
+    {
+      "id": 528,
+      "en": "Had a good time at the water hole and saw some cultural practices",
+      "fr": "Bon moment au point d'eau, on a vu des pratiques culturelles"
+    },
+    {
+      "id": 530,
+      "en": "Bouta go to sleep. It's been a difficult few days",
+      "fr": "Je vais bientôt dodo. Ça a été des jours difficiles"
+    },
+    {
+      "id": 531,
+      "en": "Anyone know what happened to Circuit Tree's website? It's not loading for me",
+      "fr": "Quelqu'un sait ce qui est arrivé au site de Circuit Tree ? Ça charge pas chez moi"
+    },
+    {
+      "id": 532,
+      "en": "Nice thunder outside",
+      "fr": "Beau tonnerre dehors"
+    },
+    {
+      "id": 533,
+      "en": "Did you know my birthday is in 7 days?",
+      "fr": "Tu savais que mon anniversaire c'est dans 7 jours ?"
+    },
+    {
+      "id": 534,
+      "en": "I'm super glad to be starting work as a hairdresser. I didn't have a job and these guys helped me out when I needed it the most. Thank you",
+      "fr": "Je suis trop contente de commencer comme coiffeuse. J'avais pas de job et ces gens m'ont aidée quand j'en avais le plus besoin. Merci"
+    },
+    {
+      "id": 536,
+      "en": "Super happy to announce I acquired a few high-value paintings from Mr. Ben Germain. ",
+      "fr": "Super heureux d'annoncer que j'ai acquis quelques tableaux de grande valeur de M. Ben Germain. "
+    },
+    {
+      "id": 537,
+      "en": "being dumped hurts like a fucking bitch",
+      "fr": "se faire larguer, ça fait un mal de chien putain"
+    },
+    {
+      "id": 538,
+      "en": "Just bought a new game, time to catfish some kids like the bitch I am",
+      "fr": "Je viens d'acheter un nouveau jeu, temps de catfish quelques gosses comme la salope que je suis"
+    },
+    {
+      "id": 539,
+      "en": "rip Aston, you will be missed. It was good hanging out with you and your friends.",
+      "fr": "rip Aston, tu vas nous manquer. C'était cool de traîner avec toi et tes potes."
+    },
+    {
+      "id": 540,
+      "en": "It's a good day to be at the casino. Come play a few games with me.",
+      "fr": "Bonne journée pour être au casino. Viens jouer quelques parties avec moi."
+    },
+    {
+      "id": 541,
+      "en": "Remember that time we wrote shit all over people's cars when it snowed? Those were good times. Gotta think of something wild to do soon.",
+      "fr": "Tu te souviens de la fois où on a écrit de la merde sur les voitures des gens quand il neigeait ? C'étaient de bons moments. Faut que je trouve un truc dingue à faire bientôt."
+    },
+    {
+      "id": 542,
+      "en": "Don't drive alone at night.... Watch out for ghosty bois",
+      "fr": "Conduisez pas seuls la nuit.... Attention aux ghosty bois"
+    },
+    {
+      "id": 543,
+      "en": "Fuck, don't wanna work another shift but also wanna see my work friends. This shit is hurting my brain. Why is life so full of difficult decisions?",
+      "fr": "Putain, j'ai pas envie de faire un autre shift mais j'ai aussi envie de voir mes potes du boulot. Cette merde me fait mal au crâne. Pourquoi la vie est pleine de décisions impossibles ?"
+    },
+    {
+      "id": 546,
+      "en": "I cannot believe this. The paintings I purchased are apparently fake. There must be some sort of mistake @ben_germain",
+      "fr": "J'arrive pas à y croire. Les tableaux que j'ai achetés sont apparemment faux. Il doit y avoir une erreur @ben_germain"
+    },
+    {
+      "id": 547,
+      "en": "Good lord. I just got the news. Hope @ben_germain 's daughter returns safely. Don't worry about the payments Ben, get your family first",
+      "fr": "Bon sang. Je viens d'avoir la nouvelle. J'espère que la fille de @ben_germain rentre saine et sauve. T'inquiète pas pour les paiements Ben, ta famille d'abord"
+    },
+    {
+      "id": 551,
+      "en": "Once again we are hosting auditions come through if you want the chance at stardom! being a young woman is a plus (sorry fellas!)",
+      "fr": "Encore une fois on organise des auditions — passez si vous voulez votre chance de star ! être une jeune femme c'est un plus (désolé les gars !)"
+    },
+    {
+      "id": 552,
+      "en": "Not in a good mood. I feel sad. I need someone or something to cheer me up. Not sure what I'm going to do, but being alone sucks!",
+      "fr": "Pas de bonne humeur. Je me sens triste. J'ai besoin de quelqu'un ou de quelque chose pour me remonter le moral. Je sais pas ce que je vais faire, mais être seul c'est nul !"
+    },
+    {
+      "id": 553,
+      "en": "check out the link in my bio and fill out the form for a chance to have 1 on 1 personal vocal lessons with me! its completely free!",
+      "fr": "checkez le lien dans ma bio et remplissez le formulaire pour tenter des cours de chant perso 1 à 1 avec moi ! c'est totalement gratuit !"
+    },
+    {
+      "id": 559,
+      "en": "Anyone ever had a bad headache? And not the pounding throbbing kind. I think I might be experiencing one of those silent migraines. I'm seeing weird imagery. It's probably best if I lie down for a bit in the dark.",
+      "fr": "Quelqu'un a déjà eu un gros mal de tête ? Et pas le genre qui pulse. Je crois que je suis en train d'avoir une de ces migraines silencieuses. Je vois des images bizarres. Mieux vaut que je m'allonge un peu dans le noir."
+    },
+    {
+      "id": 563,
+      "en": "I've been thinking of moving. I usually like to move around a lot, but it's been quite a few years since I last moved. I think I'll be going out of state this time. It could be a nice change of pace, I hope.",
+      "fr": "Je pense à déménager. J'aime bien bouger souvent, mais ça fait quelques années que j'ai pas déménagé. Je pense sortir de l'État cette fois. Ça pourrait être un bon changement de rythme, j'espère."
+    },
+    {
+      "id": 564,
+      "en": "I'm not usually up at this time, but once a month I like going to the local soup kitchen and helping out. Don't remember when I started doing this, but I wouldn't miss helping out if I can.",
+      "fr": "Je suis pas souvent debout à cette heure, mais une fois par mois j'aime aller à la soupe populaire du coin aider. Je me souviens plus quand j'ai commencé, mais je raterais pas ça si je peux."
+    },
+    {
+      "id": 565,
+      "en": "Been doing some parkour with the crew on campus. We probably did a lap around and through the entire campus off anything interesting. Climbed the edge of the Clanton Science building too. It was a fun night all around.",
+      "fr": "Du parkour avec le crew sur le campus. On a probablement fait un tour autour et à travers tout le campus sur tout ce qui était intéressant. Grimpe aussi sur le bord du bâtiment Clanton Science. Belle soirée dans l'ensemble."
+    },
+    {
+      "id": 566,
+      "en": "i love seeing the look on their faces",
+      "fr": "j'adore voir l'expression sur leurs visages"
+    },
+    {
+      "id": 567,
+      "en": "Just had a wonderful idea. Well, I've had it for a while, but I also felt like I experienced it last night in a dream. I think if I flesh it out some more, it can become more than just an idea. Gotta tell someone soon.",
+      "fr": "Je viens d'avoir une idée géniale. Enfin, je l'ai depuis un moment, mais j'ai aussi l'impression de l'avoir vécue la nuit dernière en rêve. Si je l'étoffe un peu plus, ça peut devenir plus qu'une idée. Faut que j'en parle à quelqu'un bientôt."
+    },
+    {
+      "id": 568,
+      "en": "i won't be getting caught again anytime soon.",
+      "fr": "je me ferai pas reprendre de sitôt."
+    },
+    {
+      "id": 569,
+      "en": "I've really been missing my son lately, it wouldve been 11 years since he passed, 11 years of me looking for something or someone to fill that void he left.",
+      "fr": "Mon fils me manque vraiment ces derniers temps, ça ferait 11 ans qu'il est parti, 11 ans que je cherche quelque chose ou quelqu'un pour combler le vide qu'il a laissé."
+    },
+    {
+      "id": 570,
+      "en": "If parents really valued their children they wouldn't make it so easy for someone like me to get to them",
+      "fr": "Si les parents tenaient vraiment à leurs enfants, ils rendraient pas si facile à quelqu'un comme moi de les atteindre"
+    },
+    {
+      "id": 571,
+      "en": "The hunt starts, the night is my playground",
+      "fr": "La chasse commence, la nuit est mon terrain de jeu"
+    },
+    {
+      "id": 572,
+      "en": "You ever see a grade and go \"yikes\"",
+      "fr": "T'as déjà vu une note et fait « yikes »"
+    },
+    {
+      "id": 573,
+      "en": "Another late night studying while everyone's out and about. Nights like these always sting",
+      "fr": "Encore une nuit tardive à réviser pendant que tout le monde est dehors. Ces nuits-là ça pique toujours"
+    },
+    {
+      "id": 574,
+      "en": "Perfect parents are both lawyers, perfect brother is a psychiatrist, and me? I'm trash, just one whopping disappointment",
+      "fr": "Parents parfaits tous les deux avocats, frère parfait psychiatre, et moi ? Je suis une merde, juste une énorme déception"
+    },
+    {
+      "id": 575,
+      "en": "By some miracle I got into med school. Let's see how long I last before i inevitably flunk out l o l",
+      "fr": "Par miracle je suis entrée en med school. On verra combien de temps je tiens avant de me faire forcément virer l o l"
+    },
+    {
+      "id": 576,
+      "en": "Wish I had half the energy all the girls on campus have lol, everyone's so pretty and prim",
+      "fr": "J'aimerais avoir la moitié de l'énergie de toutes les filles du campus mdr, tout le monde est si jolie et soignée"
+    },
+    {
+      "id": 578,
+      "en": "I always wanted to try one of those special services that you never know what you're going to get each month. The one I'm looking at guarantees random valuables every few months with a change of a jackpot (high valued items). Might be fun. I think I'm going to do it.",
+      "fr": "J'ai toujours voulu essayer un de ces services spéciaux où tu sais jamais ce que tu vas recevoir chaque mois. Celui que je regarde garantit des objets de valeur aléatoires tous les quelques mois avec une chance de jackpot (gros objets). Ça pourrait être fun. Je pense que je vais le faire."
+    },
+    {
+      "id": 582,
+      "en": "GO BISONS! #GrabEmByTheHorns ",
+      "fr": "ALLEZ LES BISONS ! #GrabEmByTheHorns "
+    },
+    {
+      "id": 583,
+      "en": "Come visit my pop's bakery, he works his ass off and his shit taste good",
+      "fr": "Venez à la boulangerie de mon père, il se tue au boulot et sa merde a bon goût"
+    },
+    {
+      "id": 584,
+      "en": "Tired of freelancing, hmu if anyone's looking for a contract or full time programmer or whatever",
+      "fr": "Marre du freelance, hmu si quelqu'un cherche un contrat ou un programmeur full-time ou peu importe"
+    },
+    {
+      "id": 586,
+      "en": "Patch made half of these, Pops the other. Come make them happy and buy some bread. I promise it all tastes as good as it looks",
+      "fr": "Patch en a fait la moitié, Pops l'autre. Venez leur faire plaisir et achetez du pain. Je promets que tout a aussi bon goût que ça en a l'air"
+    },
+    {
+      "id": 588,
+      "en": "I've been teaching for a few years now. Been loving every minute of it too. Watching my students get better and better warms my heart.",
+      "fr": "J'enseigne depuis quelques années maintenant. J'ai adoré chaque minute. Voir mes élèves s'améliorer me réchauffe le cœur."
+    },
+    {
+      "id": 589,
+      "en": "I have an old friend who will be in town soon. I haven't seen her in years. It will be fun getting to catch up.  I will have to bring out the best. I was thinking of Jin Jun Mei or perhaps the illustrious Lao Ban Zhang. So many other choices too, I simply can't wait.",
+      "fr": "J'ai une vieille amie qui sera bientôt en ville. Je l'ai pas vue depuis des années. Ce sera fun de rattraper le temps. Il faudra que je sorte le meilleur. Je pensais à Jin Jun Mei ou peut-être l'illustre Lao Ban Zhang. Tellement d'autres choix aussi, j'ai juste trop hâte."
+    },
+    {
+      "id": 592,
+      "en": "Thank you @Kyle83 for visiting one of the most scariest places I've ever been in my life! Always fun to go on adventures with you brother! :)",
+      "fr": "Merci @Kyle83 d'avoir visité un des endroits les plus flippants où j'ai jamais mis les pieds ! Toujours cool de partir à l'aventure avec toi frère ! :)"
+    },
+    {
+      "id": 594,
+      "en": "One of the key points of our faith is that death is only a transition to the next stage of existence. We would like to share this thought with you and give you not only strength but also understanding for what is happening around you.\r\n\r\nWe offer dying support for People, which are about to pass on to the next stage. Also we would like to assist their relatives during that time. What does it cost? Nothing at all! Grief should not be used commercially.\r\n\r\nYou are welcome to contact us at the number\r\n\r\n145-555-912\r\n\r\nStay strong and hold on. Alek watches over you in good times and bad times and will, when the moment comes, make sure you can see your loved ones again.\r\n\r\n",
+      "fr": "Un des points clés de notre foi : la mort n'est qu'une transition vers la prochaine étape de l'existence. Nous aimerions partager cette pensée avec vous et vous donner non seulement de la force mais aussi de la compréhension face à ce qui se passe autour de vous.\r\n\r\nNous offrons un accompagnement de fin de vie aux personnes sur le point de passer à l'étape suivante. Nous aimerions aussi aider leurs proches pendant cette période. Combien ça coûte ? Rien du tout ! Le deuil ne doit pas être commercialisé.\r\n\r\nVous pouvez nous contacter au numéro\r\n\r\n145-555-912\r\n\r\nRestez forts et tenez bon. Alek veille sur vous dans les bons comme dans les mauvais moments et, le moment venu, s'assurera que vous puissiez revoir vos proches.\r\n"
+    },
+    {
+      "id": 595,
+      "en": "Linda finally made her famous Christmas cookies after I convinced her they were good enough to eat year round",
+      "fr": "Linda a enfin fait ses fameux biscuits de Noël après que je l'ai convaincue qu'ils étaient assez bons pour toute l'année"
+    },
+    {
+      "id": 598,
+      "en": "Red is truly the best color in the universe. Mostly because it's so diverse in its meaning. Love and Hate, Passion and Regret, Sweet and bitter. Red can be linked to anything in the world. Only a few artists understood that and I'm glad to be one of them.",
+      "fr": "Le rouge est vraiment la meilleure couleur de l'univers. Surtout parce que sa signification est si diverse. Amour et Haine, Passion et Regret, Doux et amer. Le rouge peut être lié à n'importe quoi. Seuls quelques artistes l'ont compris et je suis fier d'en être un."
+    },
+    {
+      "id": 599,
+      "en": "Today is a really special day for me. After five years of non-publishing, I can tell you that my new book is going to be available TOMORROW! I spend a total of two years writing on my next masterpiece and a can't wait to hear your opinions on it.",
+      "fr": "Aujourd'hui est un jour vraiment spécial pour moi. Après cinq ans sans publier, je peux vous dire que mon nouveau livre sort DEMAIN ! J'ai passé deux ans à écrire mon prochain chef-d'œuvre et j'ai hâte d'entendre vos avis."
+    },
+    {
+      "id": 600,
+      "en": "2/10 Stars!! This is all that the critics gave to me! Can you imagine that? They misunderstood my work. Do not listen to them!",
+      "fr": "2/10 étoiles !! C'est tout ce que les critiques m'ont donné ! Vous imaginez ? Ils ont mal compris mon travail. Ne les écoutez pas !"
+    },
+    {
+      "id": 601,
+      "en": "The local Bookstore doesn't even want to sell my book anymore! This is so embarrassing. It was very expensive to print so many books, you know! ",
+      "fr": "La librairie du coin ne veut même plus vendre mon livre ! C'est tellement gênant. Ça a coûté cher d'imprimer autant d'exemplaires, vous savez ! "
+    },
+    {
+      "id": 602,
+      "en": "I already started to work on a new Novel! This is my first independent Project! Yes, you read that right. I quit working with my publisher and start to become an independent writer as I always dreamed of!",
+      "fr": "J'ai déjà commencé un nouveau roman ! C'est mon premier projet indépendant ! Oui, vous avez bien lu. J'ai quitté mon éditeur et je deviens écrivain indépendant comme j'en ai toujours rêvé !"
+    },
+    {
+      "id": 604,
+      "en": "Have you ever had the feeling that nobody understands you? My wife told me today that she does not believe in my career as an Author anymore! Can you believe this? Let's prove her wrong, shall we? :)",
+      "fr": "Vous avez déjà eu le sentiment que personne ne vous comprend ? Ma femme m'a dit aujourd'hui qu'elle ne croit plus en ma carrière d'auteur ! Vous y croyez ? Prouvons-lui qu'elle a tort, d'accord ? :)"
+    },
+    {
+      "id": 606,
+      "en": "There is nothing more satisfying than a good glass of red wine and a lonely night to write some new chapters right? It always feels like I can think way better that way",
+      "fr": "Rien de plus satisfaisant qu'un bon verre de rouge et une nuit solitaire pour écrire de nouveaux chapitres non ? J'ai toujours l'impression de mieux penser comme ça"
+    },
+    {
+      "id": 607,
+      "en": "Nearly finished! Don't forget to pre-order the book on my new website!\r\n",
+      "fr": "Presque fini ! N'oubliez pas de précommander le livre sur mon nouveau site !"
+    },
+    {
+      "id": 608,
+      "en": "Come on Guys! Don't be shy! Order your copy today! :)\r\n",
+      "fr": "Allez les gars ! Soyez pas timides ! Commandez votre exemplaire aujourd'hui ! :)"
+    },
+    {
+      "id": 609,
+      "en": "After weeks without even selling a single copy I feel like I should stop writing stories. Thank you all for nothing! Especially to my wife who never supported my career at all!",
+      "fr": "Après des semaines sans vendre un seul exemplaire j'ai l'impression que je devrais arrêter d'écrire. Merci à tous pour rien ! Surtout à ma femme qui n'a jamais soutenu ma carrière !"
+    },
+    {
+      "id": 611,
+      "en": "Daily reminder that my boyfriend is better than yours :)",
+      "fr": "Rappel quotidien que mon copain est meilleur que le tien :)"
+    },
+    {
+      "id": 612,
+      "en": "Had the best day with my mannnnnnnnnnnn #inlove",
+      "fr": "Meilleure journée avec mon mannnnnnnnnnnn #inlove"
+    },
+    {
+      "id": 613,
+      "en": "How many times am I gonna have to remind this bitch to stay away from my man?",
+      "fr": "Combien de fois je vais devoir rappeler à cette salope de rester loin de mon mec ?"
+    },
+    {
+      "id": 615,
+      "en": "Anyone want some good shit hmu. I have a ton rn",
+      "fr": "Quelqu'un veut de la bonne shit hmu. J'en ai une tonne rn"
+    },
+    {
+      "id": 616,
+      "en": "I feel like some people just deserve to die iykwim",
+      "fr": "J'ai l'impression que certaines personnes méritent juste de mourir iykwim"
+    },
+    {
+      "id": 617,
+      "en": "There's still time to sign up for the women's volleyball team! We start on August 26th! Let me know if you have any questions about schedules and commitments. As your coach, I plan to up the security of our home games after the tragedy last season.",
+      "fr": "Il est encore temps de s'inscrire à l'équipe féminine de volley ! On commence le 26 août ! Dites-moi si vous avez des questions sur les horaires et les engagements. En tant que coach, je compte renforcer la sécu de nos matchs à domicile après la tragédie de la saison dernière."
+    },
+    {
+      "id": 618,
+      "en": "I just did my first V8 boulder problem. Been trying on this one for a while and I finally pulled it off. Good to know I'm still improving. Feels good.",
+      "fr": "Je viens de finir mon premier problème de bloc V8. J'essayais celui-là depuis un moment et j'ai enfin réussi. Bon de savoir que je progresse encore. Ça fait du bien."
+    },
+    {
+      "id": 619,
+      "en": "I've got the cameras and first aid kits. I think that's about everything. Some of the other guys are helping out with obstacles and routing of the course. This is actually going to happen!",
+      "fr": "J'ai les caméras et les trousses de premiers secours. Je pense que c'est à peu près tout. D'autres gars aident avec les obstacles et le tracé du parcours. Ça va vraiment se faire !"
+    },
+    {
+      "id": 620,
+      "en": "understand that it is the fault of sheep for not knowing the way. we have tried to open you up, yet you refuse. you choose to live in darkness and will return to it.",
+      "fr": "comprenez que c'est la faute des moutons de ne pas connaître le chemin. nous avons essayé de vous ouvrir, pourtant vous refusez. vous choisissez de vivre dans les ténèbres et y retournerez."
+    },
+    {
+      "id": 624,
+      "en": "#TBT to my last retreat. What a blast it was.",
+      "fr": "#TBT à ma dernière retraite. Quel truc de ouf."
+    },
+    {
+      "id": 629,
+      "en": "Is that sale at Domicile Depot still on?",
+      "fr": "La promo chez Domicile Depot est toujours en cours ?"
+    },
+    {
+      "id": 630,
+      "en": "What do wives and bacon have in common?\r\n\r\nA lot actually. They both look, smell and taste great. And as an added bonus they're both slowly killing you.",
+      "fr": "Qu'ont en commun les épouses et le bacon ?\r\n\r\nBeaucoup en fait. Les deux ont une belle apparence, une bonne odeur et un bon goût. Et en bonus, les deux vous tuent à petit feu."
+    },
+    {
+      "id": 631,
+      "en": "The dress for my client is complete. It's perfect. She'll have a smile walking down the aisle. I can picture it now, as if I were actually there. Feels so good when the vision works out :-)",
+      "fr": "La robe de ma cliente est terminée. Elle est parfaite. Elle aura le sourire en descendant l'allée. Je peux déjà l'imaginer, comme si j'y étais. Tellement gratifiant quand la vision se réalise :-)"
+    },
+    {
+      "id": 632,
+      "en": "I have an eye for buy one get one free deals. No matter where I happen to go I keep finding great bargains. I don't know how I do it lol",
+      "fr": "J'ai l'œil pour les offres un acheté un offert. Peu importe où je vais je trouve toujours de bonnes affaires. Je sais pas comment je fais mdr"
+    },
+    {
+      "id": 633,
+      "en": "I'm still relying on my neighbors. It seems like every week I ask to borrow something else from one of them. They are too kind to me, they're the sweetest.",
+      "fr": "Je compte encore sur mes voisins. On dirait que chaque semaine je leur emprunte encore un truc. Ils sont trop gentils avec moi, les plus doux."
+    },
+    {
+      "id": 635,
+      "en": "I'll be raising the cost of my lessons from $50/hr to $55/hr starting at the beginning of next month. Sorry about that, but I have a lot of students at the moment and I feel it's necessary. As always for first timers there will still be a discounted rate. Message me if you're interested or have other questions. Thank you.",
+      "fr": "Je vais passer mes cours de 50 $/h à 55 $/h à partir du début du mois prochain. Désolé, mais j'ai beaucoup d'élèves en ce moment et je sens que c'est nécessaire. Comme toujours, tarif réduit pour les débutants. Messagez-moi si intéressé ou pour d'autres questions. Merci."
+    },
+    {
+      "id": 636,
+      "en": "I'll have a new student this week. Looking forward to meeting the little guy. He's got talent, so there should be a lot to work with.",
+      "fr": "J'aurai un nouvel élève cette semaine. Hâte de rencontrer le petit bonhomme. Il a du talent, donc y aura de quoi travailler."
+    },
+    {
+      "id": 637,
+      "en": "About to fill in for the noon church service. It's so much fun to play here.",
+      "fr": "Je vais remplacer pour l'office de midi. C'est tellement fun de jouer ici."
+    },
+    {
+      "id": 638,
+      "en": "I had one of my professors come up to me today. He knows I carry around a firearm in my backpack. I told him it was to protect everyone in case something bad happens. I even showed him it wasn't a real one. He didn't seem happy with me. I hope this doesn't affect my grades because the university allows me to carry a firearm and he doesn't like the idea of that.",
+      "fr": "Un de mes profs est venu me voir aujourd'hui. Il sait que je porte une arme dans mon sac. Je lui ai dit que c'était pour protéger tout le monde au cas où. Je lui ai même montré que c'était pas une vraie. Il avait pas l'air content. J'espère que ça touchera pas mes notes parce que l'uni m'autorise à porter et il aime pas l'idée."
+    },
+    {
+      "id": 639,
+      "en": "I've been thinking. Me and my friend are pretty good now. I think it's about time we switch to the real thing. I'm a little nervous because of the responsibility, but our accuracy is good. I'm sure we'll be able to handle any situation. Probably should do one month more of practice before we make the jump.",
+      "fr": "J'ai réfléchi. Mon pote et moi on est plutôt bons maintenant. Je pense qu'il est temps de passer au vrai truc. Je suis un peu nerveux à cause de la responsabilité, mais notre précision est bonne. Je suis sûr qu'on gérera n'importe quelle situation. On devrait probablement encore un mois de pratique avant le saut."
+    },
+    {
+      "id": 640,
+      "en": "I haven't heard from one of my friends in almost a week. I hope everything is okay. I might have to do practice by myself for the foreseeable future if he doesn't respond soon.",
+      "fr": "J'ai pas de nouvelles d'un de mes potes depuis presque une semaine. J'espère que tout va bien. Je vais peut-être devoir m'entraîner seul pour un moment s'il répond pas bientôt."
+    },
+    {
+      "id": 641,
+      "en": "Death is something we shouldn't be afraid of. It is not the end, but the beginning of the new stage, the next stage of our existence. Every start is an end and every end is a start.\r\n\r\nDo not mourn for your dead, but wish them success in the next life. We will all eventually achieve.",
+      "fr": "La mort, on ne devrait pas en avoir peur. Ce n'est pas la fin, mais le début d'une nouvelle étape, la prochaine de notre existence. Chaque début est une fin et chaque fin un début.\r\n\r\nNe pleurez pas vos morts, souhaitons-leur du succès dans la prochaine vie. Nous y parviendrons tous un jour."
+    },
+    {
+      "id": 642,
+      "en": "Looking for a house to buy? Look no further you've already found me! #homebuyers hit me up for further details",
+      "fr": "Vous cherchez une maison à acheter ? Ne cherchez plus, vous m'avez déjà trouvé ! #homebuyers contactez-moi pour plus de détails"
+    },
+    {
+      "id": 643,
+      "en": "going to my older properties to check out the development process! #entrepreneur #goals #housegoals #dreamhouse",
+      "fr": "je vais voir mes anciennes propriétés pour checker le process de développement ! #entrepreneur #goals #housegoals #dreamhouse"
+    },
+    {
+      "id": 644,
+      "en": "Buying a new car soon hopefully with my new found wealth #noflex #workaholic #notbragging",
+      "fr": "J'achète bientôt une nouvelle voiture j'espère avec ma nouvelle fortune #noflex #workaholic #notbragging"
+    },
+    {
+      "id": 645,
+      "en": "To the idiot that side swiped my brand new car: the damage you've done is worth more than your life. I'll find you since you decided to drive off and it won't be pretty when we come face to face.",
+      "fr": "À l'idiot qui a frôlé ma toute nouvelle voiture : les dégâts que t'as faits valent plus que ta vie. Je te trouverai puisque t'as filé et ce sera pas joli quand on se retrouvera face à face."
+    },
+    {
+      "id": 646,
+      "en": "Just got 4 pounds of fresh Awa. I'm going to make several shells of thick grog before my buddy gets here. Should be a pleasant evening. About to down a shell right now then I'll make some more for my buddy.",
+      "fr": "Je viens de recevoir 4 livres d'Awa frais. Je vais préparer plusieurs coquilles de grog épais avant que mon pote arrive. Soirée agréable en vue. Je vais en descendre une maintenant puis j'en ferai d'autres pour mon pote."
+    },
+    {
+      "id": 647,
+      "en": "I think I'm starting to overdo it. Dermo is starting to come on big and I'm pounding more shells than I can handle. I'm also starting to have people look at me strangely. Going to have to take a break for a week or so if I can manage.",
+      "fr": "Je pense que je commence à en faire trop. Le Dermo arrive fort et je descends plus de coquilles que je peux gérer. Les gens commencent aussi à me regarder bizarrement. Faudra faire une pause d'une semaine si j'y arrive."
+    },
+    {
+      "id": 648,
+      "en": "I swear these players have their heads in the fucking clouds. Three losses in a row, six in the whole season? Gimmie a fuckin' break. Seeing these bitchboys getting paid millions to play like shit makes me wanna bash some fucking skulls.",
+      "fr": "Je jure que ces joueurs ont la tête dans les putains de nuages. Trois défaites d'affilée, six sur toute la saison ? Foutez-moi la paix. Voir ces bitchboys touchés des millions pour jouer comme de la merde me donne envie de casser des putains de crânes."
+    },
+    {
+      "id": 650,
+      "en": "Today marks a month since I started taking care of myself and exercising. I feel great, I sleep better, and the weight I lost hasn't only made me look hot af. The guy I've been seeing told me I haven't been snoring anymore. \r\n\r\nHere's to many more months of healthy living :)",
+      "fr": "Aujourd'hui ça fait un mois que j'ai commencé à prendre soin de moi et à faire du sport. Je me sens bien, je dors mieux, et le poids perdu m'a pas seulement rendue hot af. Le gars que je vois m'a dit que je ronflais plus. \r\n\r\nÀ encore plein de mois de vie saine :)"
+    },
+    {
+      "id": 651,
+      "en": "Happy 12th birthday, Kaylee! Auntie Latoya loves you and wants you and your sister to know that! Have a great birthday angel - go nuts on the cake!",
+      "fr": "Joyeux 12e anniversaire, Kaylee ! Tante Latoya t'aime et veut que toi et ta sœur le sachiez ! Passe un super anniversaire mon ange — défoulez-vous sur le gâteau !"
+    },
+    {
+      "id": 652,
+      "en": "Got my popcorn. Got my personalized Z-MAX glasses. Time to watch the movie! Let's see what all the hype is about! #TheSolpugidMovie",
+      "fr": "J'ai mon pop-corn. J'ai mes lunettes Z-MAX perso. Place au film ! Voyons de quoi parle tout ce hype ! #TheSolpugidMovie"
+    },
+    {
+      "id": 654,
+      "en": "Made my way to the movie theater to see Solpugid. Hope it's half the cinematic masterpiece I've heard it to be! #TheSolpugidMovie",
+      "fr": "Direction le cinéma pour Solpugid. J'espère que c'est la moitié du chef-d'œuvre qu'on m'a promis ! #TheSolpugidMovie"
+    },
+    {
+      "id": 655,
+      "en": "All these TV shows and movie make Asia look like a sci-fi paradise, but it's really a shit-hole if you ever go there. No wonder so many people there want nothing more than to come here for whatever the Land of Opportunity has to offer. A smart man could make a comfortable living finding a way to make that happen.",
+      "fr": "Toutes ces séries et films font de l'Asie un paradis de sci-fi, mais c'est vraiment un trou à merde si tu y vas. Pas étonnant que tant de gens là-bas ne veuillent que venir ici pour ce que le Pays des Opportunités a à offrir. Un homme intelligent pourrait bien gagner sa vie en trouvant un moyen d'y arriver."
+    },
+    {
+      "id": 656,
+      "en": "Nothing better than a nice cognac at the end of a long day. Beer is a poor man's poison; brand is a king's bliss.",
+      "fr": "Rien de mieux qu'un bon cognac en fin de longue journée. La bière c'est le poison du pauvre ; le cognac c'est le bonheur d'un roi."
+    },
+    {
+      "id": 657,
+      "en": "So much for third-wave feminism. Wasn't all that crap about creating generations of strong girls who could take it as good as they could give it? Bull-fucking-shit. Too many weak people around here for my liking. Maybe I should move.",
+      "fr": "Adieu le féminisme de troisième vague. C'était pas toutes ces conneries sur des générations de filles fortes qui pouvaient encaisser autant qu'elles donnaient ? Putain de merde. Trop de gens faibles ici à mon goût. Peut-être que je devrais déménager."
+    },
+    {
+      "id": 658,
+      "en": "Rest in peace, Buster... My best friend in the whole world. I can only be sorry that you had to suffer for so long before I could bear to give you the relief you deserved this whole time... My heart is ripped in half.",
+      "fr": "Repose en paix, Buster... Mon meilleur ami au monde. Je peux seulement regretter que tu aies dû souffrir si longtemps avant que je puisse te donner le soulagement que tu méritais depuis le début... Mon cœur est déchiré en deux."
+    },
+    {
+      "id": 659,
+      "en": "TFW youre up st 5 in the morning starng at a jar of your dogs asshes and gettin wasted. If I was nany drunker I,m sure Buster wwould be in the room with mee... Hug your puppers extra tight for me, pleas... In mempry of Buster.",
+      "fr": "TFW t es debout a 5h du mat a fixer un pot de cendres de ton chien et a te decoincer. Si jetais un peu plus bourre je suis sur que Buster serait dans la piece avec moi... Serrez vos toutous extra fort pour moi, svp... En memoire de Buster."
+    },
+    {
+      "id": 660,
+      "en": "I'm finally ready... Buster doesn't deserve to be left to waste in a jar. He used to love digging under the trees at the park... Maybe that was his way of telling me where to let him go free.",
+      "fr": "Je suis enfin prêt... Buster mérite pas de pourrir dans un bocal. Il adorait creuser sous les arbres du parc... C'était peut-être sa façon de me dire où le laisser libre."
+    },
+    {
+      "id": 663,
+      "en": "At the creamery today. Getting a chocolate and vanilla swirl cone ready for a customer.",
+      "fr": "À la crèmerie aujourd'hui. Je prépare un cornet tourbillon chocolat-vanille pour un client."
+    },
+    {
+      "id": 664,
+      "en": "Went on a run with the new ice cream flavor. I had 34 customers, which is really good for a new product. I'd say it's a success. I already have others who are interested in trying it out. Blueberry Splash!",
+      "fr": "Sortie avec le nouveau parfum de glace. 34 clients, vraiment bon pour un nouveau produit. Je dirais que c'est un succès. J'en ai déjà d'autres intéressés. Blueberry Splash !"
+    },
+    {
+      "id": 665,
+      "en": "Just stopped to have lunch. By next Monday we'll be retiring these vans. I've driven this one her over a thousand times. Gonna miss her. But it's for the best because Cold Steel Creamery is upgrading to larger models. So we'll double the number of flavors each van can carry. Larger ice box, better mileage and our logo on the side too. That's what they call in the business the whole shabang.",
+      "fr": "Je viens de m'arrêter pour déjeuner. D'ici lundi prochain on retire ces camionnettes. J'ai conduit celle-ci plus d'un millier de fois. Elle va me manquer. Mais c'est pour le mieux : Cold Steel Creamery passe à des modèles plus grands. On doublera le nombre de parfums par camion. Plus grande glacière, meilleur kilométrage et notre logo sur le côté aussi. C'est ce qu'on appelle dans le métier le package complet."
+    },
+    {
+      "id": 666,
+      "en": "Every day after I finish my route and park the truck I always treat myself to three scoops back at the shop. Been a tradition of mine for probably ten years or so. Heck, I've probably had at least one scoop about every day since I was a kid.",
+      "fr": "Chaque jour après ma tournée, une fois le camion garé, je m'offre toujours trois boules au magasin. Une tradition depuis une dizaine d'années. Heck, j'ai probablement eu au moins une boule presque chaque jour depuis gosse."
+    },
+    {
+      "id": 667,
+      "en": "Had to end my last relationship. It just wasn't going well, even though I tried as hard as I could. Fortunately, I found another lady I'm growing quite fond of and she seems to really like me too.",
+      "fr": "J'ai dû mettre fin à ma dernière relation. Ça allait juste pas, même si j'ai tout donné. Heureusement j'ai trouvé une autre dame pour qui j'ai un faible et elle a l'air de vraiment m'aimer aussi."
+    },
+    {
+      "id": 669,
+      "en": "Well, I can't believe it. It looks like the Nova Tuskers won in a landslide victory, 31-0 against the Neon Koalas. If I could go back and bet on the Tuskers, I could have made some serious cash. Who would've thought that they would have won against the Koalas. Incredible since the Koalas had gone undefeated all season so far.",
+      "fr": "Eh bien, j'y crois pas. On dirait que les Nova Tuskers ont écrasé 31-0 contre les Neon Koalas. Si j'avais pu revenir en arrière et parier sur les Tuskers, j'aurais fait un max. Qui aurait cru qu'ils battraient les Koalas. Incroyable vu qu'ils étaient invaincus toute la saison jusqu'ici."
+    },
+    {
+      "id": 671,
+      "en": "Rey was being a bitch again, so I laid down the law. She was crying but I've got no sympathy. If you're gonna make a mistake, you're gonna pay for it. Sometimes you've gotta know when to be the man of the house. #traditionalvalues #manofthehouse #honorthyhusband",
+      "fr": "Rey faisait encore sa salope, alors j'ai posé la loi. Elle pleurait mais j'ai zéro compassion. Si tu fais une erreur, tu paies. Parfois faut savoir être l'homme de la maison. #traditionalvalues #manofthehouse #honorthyhusband"
+    },
+    {
+      "id": 672,
+      "en": "Tomorrow my sister is taking me to get paint supplies at Recreation Foyer. I also need a new easel. She's going to let me pay for it. It's not often do I get to do that.",
+      "fr": "Demain ma sœur m'emmène chercher du matos de peinture au Recreation Foyer. J'ai aussi besoin d'un nouveau chevalet. Elle va me laisser payer. C'est pas souvent que je peux faire ça."
+    },
+    {
+      "id": 673,
+      "en": "I feel bad for my sister having to look after me, but I understand it's for the best. I know I'm a handful and love you dear sister. I need to find something to keep me busy. It's just so hard to focus some days.",
+      "fr": "Je me sens mal que ma sœur doive s'occuper de moi, mais je comprends que c'est pour le mieux. Je sais que je suis pas facile et je t'aime chère sœur. Il faut que je trouve de quoi m'occuper. C'est juste tellement dur de se concentrer certains jours."
+    },
+    {
+      "id": 674,
+      "en": "I feel like I'm forgetting to do something. I just don't know what it could be. My mood is starting to feel... Well I can't describe it, but it's definitely different. Hopefully I can remember whatever's nagging at the back of my mind.",
+      "fr": "J'ai l'impression d'oublier de faire quelque chose. Je sais juste pas quoi. Mon humeur commence à... Enfin je sais pas comment le décrire, mais c'est clairement différent. J'espère me souvenir de ce qui me tracasse au fond de l'esprit."
+    },
+    {
+      "id": 677,
+      "en": "Heartbroken.......",
+      "fr": "Le cœur brisé......."
+    },
+    {
+      "id": 678,
+      "en": "Does anyone know any good recipes to use up some frozen cranberries? I've had the darn things just sitting in my freezer for months!",
+      "fr": "Quelqu'un a de bonnes recettes pour écouler des canneberges surgelées ? Ces fichus trucs traînent dans mon congélateur depuis des mois !"
+    },
+    {
+      "id": 679,
+      "en": "Isn't my best friend just so gorgeous? Ugh, those eyes! <3\r\n#bff #blueeyes #beautiful",
+      "fr": "Ma meilleure amie n'est-elle pas juste magnifique ? Ugh, ces yeux ! <3\r\n#bff #blueeyes #beautiful"
+    },
+    {
+      "id": 680,
+      "en": "whatever can be hunted is meant to be hunted, no exceptions",
+      "fr": "tout ce qui peut être chassé est fait pour être chassé, sans exception"
+    },
+    {
+      "id": 681,
+      "en": "im now starting hunting lessons! If you want to sign up give me a message and i'll shoot you... the details!",
+      "fr": "je lance des cours de chasse ! Si vous voulez vous inscrire envoyez-moi un message et je vous envoie... les détails !"
+    },
+    {
+      "id": 682,
+      "en": "Simply amazing! I just finished the last episode of Solar Empire. I'm blown away at all the action they put into that show. I'll sleep well tonight....or maybe I'll rewatch it one more time before going to sleep.",
+      "fr": "Tout simplement incroyable ! Je viens de finir le dernier épisode de Solar Empire. Bluffé par toute l'action qu'ils ont mise dedans. Je vais bien dormir ce soir....ou peut-être que je le revois encore une fois avant."
+    },
+    {
+      "id": 683,
+      "en": "I need a new anime to watch. There's nothing good out at the moment. Unless I missed something. Anyone got any good ones?",
+      "fr": "J'ai besoin d'un nouvel anime. Y a rien de bon en ce moment. À moins que j'aie raté un truc. Quelqu'un a des bons ?"
+    },
+    {
+      "id": 684,
+      "en": "Anyone ever wish there was a good superhero mmorpg around? I miss the original one that came out in the early 2000s.",
+      "fr": "Quelqu'un a déjà souhaité qu'il y ait un bon MMORPG de super-héros ? L'original du début des années 2000 me manque."
+    },
+    {
+      "id": 685,
+      "en": "WHAT THE FUCKETY FUCK IS THIS SHIT. TERRIBLE TERRIBLE LUCK. TWO MONTHS....TWO FUCKING MONTHS!!! IF THE NEXT PACKAGE ISN'T WORTH WHILE I WILL GO FUCKING INSANE.... GOD DAMMIT!!!! afs0sdgjj-9gwj-93f7q2faentherh fuck",
+      "fr": "C'EST QUOI CETTE PUTAIN DE MERDE. UNE CHANCE POURRIE TERRIBLE. DEUX MOIS....DEUX PUTAINS DE MOIS !!! SI LE PROCHAIN COLIS VAUT PAS LE COUP JE VAIS DEVENIR PUTAIN DE FOU.... BON SANG !!!! afs0sdgjj-9gwj-93f7q2faentherh fuck"
+    },
+    {
+      "id": 686,
+      "en": "Been looking through some photos of a lot of my dogs from over the years. I love them all, but none of them compare to Luther. I still miss him.",
+      "fr": "J'ai regardé des photos de beaucoup de mes chiens au fil des ans. Je les aime tous, mais aucun n'égale Luther. Il me manque toujours."
+    },
+    {
+      "id": 687,
+      "en": "I've been raising dogs my whole life. I love em. Breeding them, dog sitting, grooming, you name it and I've probably had some experience when it comes to dogs.",
+      "fr": "J'élève des chiens depuis toujours. Je les adore. Élevage, garde, toilettage — tu nommes, j'ai probablement déjà touché à un truc lié aux chiens."
+    },
+    {
+      "id": 688,
+      "en": "These pups are in need of a good home right now. I have more than I can deal with right now. So if you're interested please let me know and we'll set something up.",
+      "fr": "Ces chiots ont besoin d'un bon foyer maintenant. J'en ai plus que je peux gérer. Donc si ça vous intéresse dites-le-moi et on organise quelque chose."
+    },
+    {
+      "id": 689,
+      "en": "This little guy is feeling down because his mother is about to pass away. She's probably only got a few days left. Amazing how dogs can sense these sorts of things. He's looking for a good home. Let me know.",
+      "fr": "Ce petit est triste parce que sa mère est sur le point de partir. Il lui reste probablement que quelques jours. Incroyable comme les chiens sentent ces choses. Il cherche un bon foyer. Faites-moi signe."
+    },
+    {
+      "id": 690,
+      "en": "Hitting the halfway mark. Grades are going up!",
+      "fr": "À mi-parcours. Les notes montent !"
+    },
+    {
+      "id": 691,
+      "en": "Just got the news: I've been awarded \"Teacher of the Year\"! Huge thanks to everyone that helped make it happen, I'm still pinching myself.",
+      "fr": "Je viens d'avoir la nouvelle : j'ai reçu le prix « Enseignant de l'année » ! Gros merci à tous ceux qui ont aidé, je me pince encore."
+    },
+    {
+      "id": 692,
+      "en": "After a few weeks of break im back in the game. Still looking for clan members for \"Calling for Duty: Finest Hour\". Accept anyone between 13 and 24",
+      "fr": "Après quelques semaines de pause je suis de retour. Toujours à la recherche de membres de clan pour « Calling for Duty: Finest Hour ». J'accepte tout le monde entre 13 et 24"
+    },
+    {
+      "id": 693,
+      "en": "If visited an awesome abandoned house in the middle of the forest today. It had a really creepy atmosphere. Especially when i think of the fact that i will never now what happend behind those old walls...",
+      "fr": "J'ai visité une maison abandonnée géniale au milieu de la forêt aujourd'hui. Atmosphère vraiment flippante. Surtout quand je pense que je saurai jamais ce qui s'est passé derrière ces vieux murs..."
+    },
+    {
+      "id": 694,
+      "en": "There is nothing more peaceful than a good walk in the forest after work. It is like a little therapy for body and mind.",
+      "fr": "Rien de plus paisible qu'une bonne balade en forêt après le boulot. C'est comme une petite thérapie pour le corps et l'esprit."
+    },
+    {
+      "id": 696,
+      "en": "My New Year's resolution is to die happy. Life's too short to spend it alone and I have room in my heart for more than myself. Today I made a new friend. Say hello to Butch!",
+      "fr": "Ma résolution du Nouvel An : mourir heureux. La vie est trop courte pour la passer seul et j'ai de la place dans mon cœur pour plus que moi. Aujourd'hui je me suis fait un nouvel ami. Dites bonjour à Butch !"
+    },
+    {
+      "id": 697,
+      "en": "Having a delicious Virgin Pina Colada at the Steamer's Taphouse with Butch and my new friend Ruthie. She's made me laugh so hard the past few days. Who knew getting pulled over for a broken tail light would end in merriment. I don't know how many times I've driven by this place and never went inside. Even if you don't drink like us, Steamer's has the best reuben I've ever tasted.\r\n\r\nDon't worry, Ruthie let me take her picture. I might be old, but I'm not that creepy!",
+      "fr": "Une délicieuse Virgin Piña Colada au Steamer's Taphouse avec Butch et ma nouvelle amie Ruthie. Elle m'a tellement fait rire ces derniers jours. Qui aurait cru qu'un contrôle pour un feu arrière cassé finirait dans la joie. Je sais pas combien de fois je suis passé devant sans jamais entrer. Même si vous buvez pas comme nous, Steamer's a le meilleur reuben que j'aie jamais goûté.\r\n\r\nT'inquiète, Ruthie m'a laissé la prendre en photo. Je suis peut-être vieux, mais pas si creepy !"
+    },
+    {
+      "id": 699,
+      "en": "Had a good time at the waterpark",
+      "fr": "Bon moment au parc aquatique"
+    },
+    {
+      "id": 702,
+      "en": "MY FAVORITE BAR MIGHT GET SHUT DOWN BY THE D.O.H.! Mick N Marge's is my little home away from home and the corrupt police are trying to shut them down over a minor technicality. They make the best mockaritas! (That's a margarita WITHOUT alcohol. I've been sober for 8 YEARS NOW! never touching it again) I've started a petition to keep Mick N Marge's open! Share and sign the petition!",
+      "fr": "MON BAR PRÉFÉRÉ RISQUE D'ÊTRE FERMÉ PAR LE D.O.H. ! Mick N Marge's c'est mon petit chez-moi hors de chez moi et la police corrompue veut les fermer pour un détail technique mineur. Ils font les meilleurs mockaritas ! (C'est une margarita SANS alcool. Je suis sobre depuis 8 ANS MAINTENANT ! j'y touche plus jamais) J'ai lancé une pétition pour garder Mick N Marge's ouvert ! Partagez et signez !"
+    },
+    {
+      "id": 703,
+      "en": "Someone up there likes me!! An old high school friend of mine reached out and told me she ran into my ex back in our old hometown! Turns out he moved into some cheap apartment building. Still a long way to go until we're back together, fingers crossed :)",
+      "fr": "Quelqu'un là-haut m'aime !! Une ancienne amie de lycée m'a contactée et m'a dit qu'elle avait croisé mon ex dans notre vieille ville ! Apparemment il a emménagé dans un immeuble pas cher. Encore du chemin avant qu'on soit à nouveau ensemble, croisons les doigts :)"
+    },
+    {
+      "id": 704,
+      "en": "~I just can't get you out of my head~ Feeling really bittersweet right now.",
+      "fr": "~J'arrive pas à te sortir de ma tête~ Je me sens vraiment douce-amère en ce moment."
+    },
+    {
+      "id": 705,
+      "en": "Every time I feel like I treat someone badly I like to apologize by buying them flowers. And not just any flowers, something unique that represents their character. Everyone is unique in their own way and deserves a unique flower to mirror that aspect of them.",
+      "fr": "Chaque fois que j'ai l'impression d'avoir mal traité quelqu'un j'aime m'excuser en lui offrant des fleurs. Et pas n'importe lesquelles, quelque chose d'unique qui représente son caractère. Chacun est unique à sa façon et mérite une fleur unique pour le refléter."
+    },
+    {
+      "id": 706,
+      "en": "I don't get to see it too often in the daytime, but I had a chance to today. It's perfect. PERFECT. The garden is taking its form. The fauna, the architecture, the craftsman ship. My own little Garden of Eden.",
+      "fr": "Je le vois pas souvent en journée, mais j'ai eu l'occasion aujourd'hui. C'est parfait. PARFAIT. Le jardin prend forme. La faune, l'architecture, l'artisanat. Mon propre petit Jardin d'Éden."
+    },
+    {
+      "id": 707,
+      "en": "I love watching someone's eyes light up after getting passed by dozens of cars, feeling defeated and alone. Only then to see me pull over to help pick them up. As an added bonus all those extra snacks and juice boxes I already carry for my kids are a great little care package.",
+      "fr": "J'adore voir les yeux de quelqu'un s'illuminer après avoir été dépassé par des dizaines de voitures, se sentant vaincu et seul — puis me voir m'arrêter pour l'aider. En bonus, toutes ces collations et jus que je traîne déjà pour mes gosses font un super petit care package."
+    },
+    {
+      "id": 708,
+      "en": "Hi friends, looking for some help. Does anyone know a good vet in the neighborhood? Iwa's looking a little sick :(",
+      "fr": "Salut les amis, j'ai besoin d'aide. Quelqu'un connaît un bon véto dans le quartier ? Iwa a l'air un peu malade :("
+    },
+    {
+      "id": 709,
+      "en": "Mom just called. Little sis is missing. Someone just snatched her in the middle of the night. Feels like im fucking losing it",
+      "fr": "Maman vient d'appeler. La petite sœur a disparu. Quelqu'un l'a enlevée en pleine nuit. J'ai l'impression de putain de perdre la tête"
+    },
+    {
+      "id": 710,
+      "en": "my head hurts all the time",
+      "fr": "j'ai mal à la tête tout le temps"
+    },
+    {
+      "id": 711,
+      "en": "Wish you were here",
+      "fr": "J'aimerais que tu sois là"
+    },
+    {
+      "id": 712,
+      "en": "found you",
+      "fr": "je t'ai trouvée"
+    },
+    {
+      "id": 714,
+      "en": "I AM RIDING A WAVE OF FUCKING LIGHTNING AND FIRE TONIGHT! MAY THIS BE A WARNING TO EVERYONE TO NOT FUCK WITH ME! IF YOU TRY TO STEP TO ME I WILL CRUSH YOU INTO DUST! ",
+      "fr": "JE SURFE SUR UNE PUTAIN DE VAGUE D'ÉCLAIRS ET DE FEU CE SOIR ! QUE ÇA SERVE D'AVERTISSEMENT À TOUT LE MONDE DE PAS ME CHERCHER ! SI TU ESSAIES DE TE METTRE SUR MON CHEMIN JE TE RÉDUIRAI EN POUSSIÈRE ! "
+    },
+    {
+      "id": 715,
+      "en": "thinking you guys might find me moving up in the DJ world soon :)\r\n\r\nI appreciate everyone coming out and partying with me each and every night, love y'all <3",
+      "fr": "je pense que vous allez me voir monter dans le monde du DJ bientôt :)\r\n\r\nMerci à tous de venir faire la fête avec moi chaque soir, love y'all <3"
+    },
+    {
+      "id": 716,
+      "en": "While you may be gone physically, you live on through art. Be it what it may, I consider that greater than average life.",
+      "fr": "Même si tu es parti physiquement, tu vis à travers l'art. Quoi qu'il en soit, je considère ça comme une vie au-dessus de la moyenne."
+    },
+    {
+      "id": 717,
+      "en": "Are y'all ready for the Spring Scare-A-Thon in 2 weeks? Come one, come all, I'll be showing classic horror films from the 80s till midnight on 4/30\r\n\r\nNo purchase necessary. All ages welcome. Bring your own popcorn and drinks. \r\nHang out in the backyard as we watch some movies under the stars.",
+      "fr": "Vous êtes prêts pour le Spring Scare-A-Thon dans 2 semaines ? Venez tous, je passerai des classiques d'horreur des années 80 jusqu'à minuit le 30/04\r\n\r\nAucun achat nécessaire. Tous âges bienvenus. Apportez votre pop-corn et vos boissons. \r\nPosez-vous dans le jardin pendant qu'on regarde des films sous les étoiles."
+    },
+    {
+      "id": 718,
+      "en": "Developed some of the new photos from the scene recreations and damn do they look good.\r\n\r\nI'm excited to see the looks on your faces as you pass through the tunnel of terror on your way to the seats.",
+      "fr": "J'ai développé certaines des nouvelles photos des reconstitutions de scènes et putain elles ont l'air bien.\r\n\r\nJ'ai hâte de voir vos têtes quand vous passerez dans le tunnel de la terreur en allant vers les sièges."
+    },
+    {
+      "id": 719,
+      "en": "Today's the day, the Scare-A-Thon movie extravaganza is crawling up from a shallow grave in my backyard.\r\n\r\nAdults, kids, people of all ages are welcome.\r\n\r\nEntry is free. Bring your own snacks & refreshments. Kick back and enjoy the movie marathon.\r\n\r\nEvent runs from 6pm-12am.\r\n\r\nCan't wait to see y'all there.",
+      "fr": "C'est le grand jour, l'extravaganza Scare-A-Thon sort d'une tombe peu profonde dans mon jardin.\r\n\r\nAdultes, enfants, tous âges bienvenus.\r\n\r\nEntrée gratuite. Apportez vos snacks & boissons. Posez-vous et profitez du marathon.\r\n\r\nDe 18 h à minuit.\r\n\r\nHâte de vous y voir."
+    },
+    {
+      "id": 720,
+      "en": "We just picked up Butch from the vets. Ruthie and I have been cleaning the house since we dropped him off Monday morning. She even sewed him a new doggy bed. I haven't seen a pooch so sick before. I think I went through two bottles of cleaner just to get the stains out of the carpet. The Doc got him some meds and special dog food for the next few months. Said Butch should be ready for the dog park in a couple more weeks! ",
+      "fr": "On vient de récupérer Butch chez le véto. Ruthie et moi nettoyons la maison depuis qu'on l'a déposé lundi matin. Elle lui a même cousu un nouveau panier. J'avais jamais vu un chien aussi malade. Je pense que j'ai passé deux bouteilles de nettoyant juste pour les taches du tapis. Le Doc lui a donné des médocs et de la croquette spéciale pour les prochains mois. Il a dit que Butch devrait être prêt pour le parc à chiens dans quelques semaines ! "
+    },
+    {
+      "id": 721,
+      "en": "Lol never try to act and eat at the same time, you end up with ketchup on everything. ",
+      "fr": "Mdr essayez jamais de jouer la comédie et de manger en même temps, vous finissez avec du ketchup partout. "
+    },
+    {
+      "id": 722,
+      "en": "Got a look at the first edit and funny enough that ketchup that I splattered from the shoot the other day looks like blood. Who knew you could make cheap blood FX with some free supplies from your local fast food joint LOL ",
+      "fr": "J'ai vu le premier montage et, drôle de truc, le ketchup que j'ai éclaboussé au tournage l'autre jour ressemble à du sang. Qui savait qu'on pouvait faire du sang FX pas cher avec des trucs gratuits du fast-food du coin LOL "
+    },
+    {
+      "id": 723,
+      "en": "Sammy playing the guitar. He and his friends will be by later tonight to practice in the refurbished garage! I'm so proud of him.",
+      "fr": "Sammy à la guitare. Lui et ses potes passeront plus tard ce soir pour répéter dans le garage rénové ! Je suis tellement fier de lui."
+    },
+    {
+      "id": 724,
+      "en": "I hate taking these damn meds. Everyday it's more of the same and I'm just kept up in here all day. I never get to do anything fun. Tonight was a fun one, but now I guess it's back to the same old thing.",
+      "fr": "Je déteste prendre ces putains de médocs. Chaque jour c'est la même chose et je reste coincé ici toute la journée. Je fais jamais rien de fun. Ce soir c'était cool, mais maintenant je suppose que c'est retour à la routine."
+    },
+    {
+      "id": 726,
+      "en": "And apparently I'm the bad guy again because \"I DON'T WANT CURLY HAIR MAMA\". I don't understand.\r\n\r\nI can already tell today is gonna be a rough one. #pray4me #singlemomstruggles ",
+      "fr": "Et apparemment je suis encore la méchante parce que « JE VEUX PAS DE CHEVEUX BOUCLÉS MAMAN ». Je comprends pas.\r\n\r\nJe sens déjà que ça va être une journée rough. #pray4me #singlemomstruggles "
+    },
+    {
+      "id": 727,
+      "en": "Once again with being the bad guy! Kiddos wanted to stay at a friend's house, and couldn't understand why a sleepover with hyperactive children and lots of sugar would be a bad idea on a school night. I love them, but good lord. XD ",
+      "fr": "Encore une fois la méchante ! Les kids voulaient rester chez un pote, et comprenaient pas pourquoi une soirée pyjama avec des hyperactifs et plein de sucre c'est une mauvaise idée un soir d'école. Je les aime, mais bon sang. XD "
+    },
+    {
+      "id": 728,
+      "en": "all will soon understand the implications of living foul, dirty and without morals.",
+      "fr": "tous comprendront bientôt ce que ça implique de vivre sale, crasseux et sans morale."
+    },
+    {
+      "id": 730,
+      "en": "from dust to dust, or ash rather. The subhuman now knows its place, as dirt beneath my feet. ",
+      "fr": "de poussière en poussière, ou plutôt en cendres. Le sous-humain connaît maintenant sa place, comme la terre sous mes pieds. "
+    },
+    {
+      "id": 732,
+      "en": "Wow gang. I can't believe I just landed my dream job! A month from now, I'll be moving to Kawaguchi, Japan to be an Assistant Pharmacologist at a Japanese Research Facility. All my studies have finally paid off. Can't wait to discover something new!",
+      "fr": "Waouh la bande. J'arrive pas à croire que j'ai décroché le job de mes rêves ! Dans un mois, je déménage à Kawaguchi, au Japon, comme pharmacologue adjoint dans un centre de recherche japonais. Toutes mes études ont enfin payé. Trop hâte de découvrir quelque chose de nouveau !"
+    },
+    {
+      "id": 733,
+      "en": "Nothing beats the bright lights of Shinjuku. Awesome first weekend off, exploring all that the city has to offer! #internationallife #gaijin #tokyo",
+      "fr": "Rien ne bat les lumières de Shinjuku. Super premier week-end de congé, à explorer tout ce que la ville a à offrir ! #internationallife #gaijin #tokyo"
+    },
+    {
+      "id": 736,
+      "en": "Well, y'all. I guess all good things come to an end. After 5 years of living the Tokyo dream, I am moving back home! I'll never forget the amazing experiences and memories I made living in this beautiful country. To say goodbye, my coworkers took me out for some awesome chicken and brewskis. I also made sure to grab the email addresses of a few choice colleagues so as to never lose touch! Until I inevitably come back one day, ganbatte. I'll miss you all dearly! #internationallife #tokyo #yakitori #goodbye",
+      "fr": "Eh bien les gars. Je suppose que toutes les bonnes choses ont une fin. Après 5 ans à vivre le rêve tokyoïte, je rentre à la maison ! Je n'oublierai jamais les expériences et souvenirs incroyables dans ce beau pays. Pour dire au revoir, mes collègues m'ont emmené pour du poulet génial et des bières. J'ai aussi pris les mails de quelques collègues choisis pour ne jamais perdre le contact ! Jusqu'à ce que je revienne forcément un jour, ganbatte. Vous allez tous me manquer énormément ! #internationallife #tokyo #yakitori #goodbye"
+    },
+    {
+      "id": 737,
+      "en": "Y'all when I tell you this girl is SMOOOOKIIIIIINNN! She grinds in the club with the BEST of them!",
+      "fr": "Les gars quand je vous dis que cette fille est SMOOOOKIIIIIINNN ! Elle grind en club avec les MEILLEURS !"
+    },
+    {
+      "id": 738,
+      "en": "She's talking to me now. I know she is.",
+      "fr": "Elle me parle maintenant. Je le sais."
+    },
+    {
+      "id": 739,
+      "en": "h.8QxI)Mh6D!H5,i\r\nCrDivh)5}-CSuMv#\r\n5`#F=D7:s+N1fvxc\r\nk`e/p/gtdg=*y(o*\r\n5izS]b8;-SpO0B+M\r\n\r\nI know, melissa ",
+      "fr": "h.8QxI)Mh6D!H5,i\r\nCrDivh)5}-CSuMv#\r\n5`#F=D7:s+N1fvxc\r\nk`e/p/gtdg=*y(o*\r\n5izS]b8;-SpO0B+M\r\n\r\nJe sais, melissa "
+    },
+    {
+      "id": 743,
+      "en": "So proud of my debate team! We're definitely taking home the gold at the competition next week. These kids are so smart, it's such a joy to get to work with them. #lionpride #collegeteachersftw #mystudentsareawesome",
+      "fr": "Tellement fier de mon équipe de débat ! On ramène à coup sûr l'or à la compétition la semaine prochaine. Ces kids sont si intelligents, c'est un vrai plaisir de travailler avec eux. #lionpride #collegeteachersftw #mystudentsareawesome"
+    },
+    {
+      "id": 748,
+      "en": "I'm coming to save you melissa, you're messages have not gone unheard.\r\n\r\nThe black chariot as you requested will be arriving soon to take you away from that hellish place.",
+      "fr": "Je viens te sauver melissa, tes messages n'ont pas été ignorés.\r\n\r\nLe char noir comme tu l'as demandé arrivera bientôt pour t'arracher à cet endroit infernal."
+    },
+    {
+      "id": 749,
+      "en": "Tn is Saturday come in for drink specials till 8\r\n\r\nTHIS WEEKEND ONLY $300 BOTTLE SERVICE\r\nEnjoy the club in the best way you can, with a bottle of premium liquor in your hand",
+      "fr": "C'est samedi venez pour les drink specials jusqu'à 20 h\r\n\r\nCE WEEK-END SEULEMENT SERVICE BOUTEILLE 300 $\r\nProfitez du club comme il faut, avec une bouteille premium à la main"
+    },
+    {
+      "id": 750,
+      "en": "Doors open at 7pm tn\r\n\r\nPlatinum Bottle Service Selection just got better:\r\nNow enjoy: Ronnie Jogger Blue, Mack Daniels, and Bennessey together for a limited time only",
+      "fr": "Ouverture des portes à 19 h ce soir\r\n\r\nLa sélection Platinum Bottle Service s'améliore :\r\nProfitez maintenant : Ronnie Jogger Blue, Mack Daniels et Bennessey ensemble pour une durée limitée"
+    },
+    {
+      "id": 751,
+      "en": "Half cover charge till 9PM at VIL\r\n\r\nDJ Two Hands is here, prepare to boogie down on the dance floor from 11PM-1AM",
+      "fr": "Demi entrée jusqu'à 21 h au VIL\r\n\r\nDJ Two Hands est là, préparez-vous à boogie sur la piste de 23 h à 1 h"
+    },
+    {
+      "id": 752,
+      "en": "Guys it's Maxine I hacked Pearl's phone\r\n\r\nSomething you guys probably don't know about Pearl is that she farts in her sleep all the time lol #stinky",
+      "fr": "Les gars c'est Maxine j'ai hacké le téléphone de Pearl\r\n\r\nUn truc que vous savez probablement pas sur Pearl c'est qu'elle pète tout le temps en dormant mdr #stinky"
+    },
+    {
+      "id": 754,
+      "en": "Coworker did another no call no show. You got to be fucking kidding me on a Saturday no less. #fuuuuuuuuuuuck",
+      "fr": "Un collègue a encore fait un no call no show. Vous vous foutez de ma gueule un samedi en plus. #fuuuuuuuuuuuck"
+    },
+    {
+      "id": 755,
+      "en": "Come down to the bar tonight, free drinks to the first 20 who mention this post.\r\n\r\n1 free drink per person.",
+      "fr": "Passez au bar ce soir, boissons gratuites pour les 20 premiers qui mentionnent ce post.\r\n\r\n1 boisson gratuite par personne."
+    },
+    {
+      "id": 756,
+      "en": "Going to be cosplaying everyone's favorite blue haired angel here soon! Check out all the WIPs on my OnlyAdmirers! New subscribers get first month half off!",
+      "fr": "Je vais bientôt cosplayer l'ange aux cheveux bleus préféré de tout le monde ! Checkez tous les WIP sur mon OnlyAdmirers ! Nouveaux abonnés : premier mois à -50 % !"
+    },
+    {
+      "id": 757,
+      "en": "Got the new sewing room started! Thanks to all my OnlyAdmirers I was able to convert the spare bedroom into my workshop! SO MUCH LOVE! <3",
+      "fr": "La nouvelle pièce de couture a démarré ! Grâce à tous mes OnlyAdmirers j'ai pu transformer la chambre d'amis en atelier ! TELLEMENT D'AMOUR ! <3"
+    },
+    {
+      "id": 759,
+      "en": "There's a new film coming out soon called Dean's List with yours truly working behind the scenes to help make the film that much more terrifying.\r\n\r\nCheck it out on all streaming platforms tomorrow!",
+      "fr": "Un nouveau film arrive bientôt, Dean's List, avec votre humble serviteur en coulisses pour rendre le film encore plus terrifiant.\r\n\r\nDispo sur toutes les plateformes demain !"
+    },
+    {
+      "id": 760,
+      "en": "A lot of people think all the sounds in movies get recorded on site.\r\n\r\nAlmost no one knows that a lone foley hundreds of miles away from where the movie was filmed is inside a small studio recreating each footstep themselves.",
+      "fr": "Beaucoup de gens croient que tous les sons des films sont enregistrés sur place.\r\n\r\nPresque personne ne sait qu'un foley solitaire à des centaines de kilomètres du tournage recrée chaque pas lui-même dans un petit studio."
+    },
+    {
+      "id": 761,
+      "en": "I'm thankful everyday I wake up and get to do what I love.\r\n\r\nWhich is of course yelling in a small booth as if I'm about to die lol",
+      "fr": "Je suis reconnaissant chaque jour de me réveiller et de faire ce que j'aime.\r\n\r\nC'est-à-dire crier dans une petite cabine comme si j'allais mourir mdr"
+    },
+    {
+      "id": 763,
+      "en": "OMG!!! I just made $100 modeling for stock photographs. Do yourself a favor and email this dude if you wanna beef up your modeling resume.\r\n\r\nTreat yo self, ladies! ;)\r\nCharlesSSteinberg@rhyta.com",
+      "fr": "OMG !!! Je viens de gagner 100 $ en mannequinat pour des photos stock. Faites-vous plaisir et maillez ce mec si vous voulez booster votre CV mannequin.\r\n\r\nTreat yo self, ladies ! ;)\r\nCharlesSSteinberg@rhyta.com"
+    },
+    {
+      "id": 764,
+      "en": "Got another retreat this weekend that's filling up quick.\r\n\r\nEveryone is welcome to come out, from beginners to experts. Come and enjoy the great outdoors as we release our tension in peace and harmony.\r\n\r\nMessage me to reserve a slot.",
+      "fr": "Encore une retraite ce week-end qui se remplit vite.\r\n\r\nTout le monde est bienvenu, débutants comme experts. Venez profiter du grand air pendant qu'on relâche la tension en paix et harmonie.\r\n\r\nMessagez-moi pour réserver une place."
+    },
+    {
+      "id": 765,
+      "en": "It's abs today. Workin' hard on the washboard look. It's all about them gainzzz",
+      "fr": "Abs aujourd'hui. Je bosse dur pour le look planche à laver. C'est tout pour les gainzzz"
+    },
+    {
+      "id": 766,
+      "en": "Another night lost looking for the woman of my dreams.\r\n\r\nI need to find her soon the master is getting impatient.",
+      "fr": "Encore une nuit perdue à chercher la femme de mes rêves.\r\n\r\nIl faut que je la trouve bientôt — le maître s'impatiente."
+    },
+    {
+      "id": 767,
+      "en": "She was there in my dreams last night.\r\n\r\nBrunette, mid 20s, her eyes said take me, but then I woke up.\r\n\r\nI will find her for you master, I know now who I'm looking for.",
+      "fr": "Elle était là dans mes rêves la nuit dernière.\r\n\r\nBrune, mi-vingtaine, ses yeux disaient prends-moi, puis je me suis réveillé.\r\n\r\nJe la trouverai pour vous maître, je sais maintenant qui je cherche."
+    },
+    {
+      "id": 768,
+      "en": "Finally YES! I've got her.\r\n\r\nI will do as you command master, the sacrifice will commence at the place she and I first laid eyes on one another.\r\nSoon the world shall be yours to reign.",
+      "fr": "Enfin OUI ! Je l'ai.\r\n\r\nJe ferai comme vous ordonnez maître, le sacrifice commencera à l'endroit où elle et moi nous sommes vus pour la première fois.\r\nBientôt le monde sera à vous pour régner."
+    },
+    {
+      "id": 769,
+      "en": "Never jumping again",
+      "fr": "Plus jamais de saut"
+    },
+    {
+      "id": 770,
+      "en": "Absolutely crazy stream with y'all tonight. Massive thank you to the best community, love y'all.",
+      "fr": "Stream absolument dingue avec vous ce soir. Gros merci à la meilleure communauté, love y'all."
+    },
+    {
+      "id": 771,
+      "en": "Internet down, see yall tomorrow",
+      "fr": "Internet down, à demain"
+    },
+    {
+      "id": 772,
+      "en": "Look.",
+      "fr": "Regarde."
+    },
+    {
+      "id": 774,
+      "en": "Pulled up to the Betco. Got Kitty with me. What yall think we gonna buy?",
+      "fr": "Arrivé au Betco. Kitty est avec moi. Vous pensez qu'on va acheter quoi ?"
+    },
+    {
+      "id": 775,
+      "en": "Them cheeks posted Betco's address by accident. You quick if you saw the post before it was deleted. I'll be around for a minute, come through for a quick meet-up",
+      "fr": "Ces joues ont posté l'adresse du Betco par accident. T'es rapide si t'as vu le post avant qu'il soit supprimé. Je reste un moment, passe pour un quick meet-up"
+    },
+    {
+      "id": 776,
+      "en": "If the cat don't mess with you I can't mess with you",
+      "fr": "Si le chat te kiffe pas je peux pas te kiffer"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lot": "p3_dll",
+  "scope": "Litteraux UTF-16 de Assembly-CSharp.dll (messages SCRUT, fins, dates, pensees)",
+  "note": "Adressage par chaine anglaise (garde-fou). Fautes d'origine corrigees. Dates en 24h francais. Francais accentue, replie a l'ecriture.",
+  "entries": [
+    {
+      "group": "recherches SCRUT",
+      "en": "No results found.",
+      "fr": "Aucun résultat."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "NO RESULTS",
+      "fr": "AUCUN RÉSULTAT"
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "NO DATAAAA",
+      "fr": "AUCUNE DONNÉE"
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Invalid search parameters.",
+      "fr": "Paramètres de recherche invalides."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Please specify at least one search parameter.",
+      "fr": "Indiquez au moins un critère de recherche."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Please enter a valid name.",
+      "fr": "Saisissez un nom valide."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Please provide a full name or an alias.",
+      "fr": "Indiquez un nom complet ou un alias."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Invaid Search. Name field is empty.",
+      "fr": "Recherche invalide. Le champ nom est vide."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Invaid Search. Name is to short.",
+      "fr": "Recherche invalide. Le nom est trop court."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "Invaid Search. Please include a last name.",
+      "fr": "Recherche invalide. Incluez un nom de famille."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "No police record found.",
+      "fr": "Aucun casier judiciaire trouvé."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "No recent transactions found.",
+      "fr": "Aucune transaction récente."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "This person does not have a social profile.",
+      "fr": "Cette personne n'a pas de profil social."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": "No Internet Connection.",
+      "fr": "Pas de connexion Internet."
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": " RESULT",
+      "fr": " RÉSULTAT"
+    },
+    {
+      "group": "recherches SCRUT",
+      "en": " RESULTS",
+      "fr": " RÉSULTATS"
+    },
+    {
+      "group": "IMEI / telephone",
+      "en": "Invaid IMEI. Enter a valid IMEI number.",
+      "fr": "IMEI invalide. Saisissez un numéro IMEI valide."
+    },
+    {
+      "group": "IMEI / telephone",
+      "en": "Could not find an IMEI device with this name.",
+      "fr": "Aucun appareil IMEI trouvé sous ce nom."
+    },
+    {
+      "group": "IMEI / telephone",
+      "en": "No device is active with this IMEI number.",
+      "fr": "Aucun appareil actif avec cet IMEI."
+    },
+    {
+      "group": "etats de partie",
+      "en": "NIGHT ",
+      "fr": "NUIT "
+    },
+    {
+      "group": "etats de partie",
+      "en": "ONE",
+      "fr": "UNE"
+    },
+    {
+      "group": "etats de partie",
+      "en": "TWO",
+      "fr": "DEUX"
+    },
+    {
+      "group": "etats de partie",
+      "en": "THREE",
+      "fr": "TROIS"
+    },
+    {
+      "group": "etats de partie",
+      "en": "FOUR",
+      "fr": "QUATRE"
+    },
+    {
+      "group": "etats de partie",
+      "en": "FIVE",
+      "fr": "CINQ"
+    },
+    {
+      "group": "etats de partie",
+      "en": "SIX",
+      "fr": "SIX"
+    },
+    {
+      "group": "etats de partie",
+      "en": "SEVEN",
+      "fr": "SEPT"
+    },
+    {
+      "group": "etats de partie",
+      "en": "EIGHT",
+      "fr": "HUIT"
+    },
+    {
+      "group": "etats de partie",
+      "en": "NINE",
+      "fr": "NEUF"
+    },
+    {
+      "group": "etats de partie",
+      "en": "TEN",
+      "fr": "DIX"
+    },
+    {
+      "group": "etats de partie",
+      "en": "ELEVEN",
+      "fr": "ONZE"
+    },
+    {
+      "group": "etats de partie",
+      "en": "TWELVE",
+      "fr": "DOUZE"
+    },
+    {
+      "group": "etats de partie",
+      "en": "THIRTEEN",
+      "fr": "TREIZE"
+    },
+    {
+      "group": "etats de partie",
+      "en": "FOURTEEN",
+      "fr": "QUATORZE"
+    },
+    {
+      "group": "etats de partie",
+      "en": "You Have Been Kidnapped.",
+      "fr": "Vous avez été enlevée."
+    },
+    {
+      "group": "etats de partie",
+      "en": "You Became A Statistic.",
+      "fr": "Vous êtes devenue une statistique."
+    },
+    {
+      "group": "etats de partie",
+      "en": "Report Quota Not Met.",
+      "fr": "Quota de rapports non atteint."
+    },
+    {
+      "group": "etats de partie",
+      "en": "Too Many Reports Rejected.",
+      "fr": "Trop de rapports rejetés."
+    },
+    {
+      "group": "etats de partie",
+      "en": "WRONG!",
+      "fr": "FAUX !"
+    },
+    {
+      "group": "pensees de Luna",
+      "en": "Finally can get to bed early for once...",
+      "fr": "Pour une fois, je vais pouvoir me coucher tôt..."
+    },
+    {
+      "group": "pensees de Luna",
+      "en": "I should get some rest...",
+      "fr": "Je devrais me reposer..."
+    },
+    {
+      "group": "valeurs de fiche",
+      "en": "Male",
+      "fr": "Male",
+      "note": "Laisse EN: parite enums/DB et dropdowns DMV"
+    },
+    {
+      "group": "valeurs de fiche",
+      "en": "Female",
+      "fr": "Female",
+      "note": "Laisse EN: parite enums/DB et dropdowns DMV"
+    },
+    {
+      "group": "valeurs de fiche",
+      "en": "Unknown",
+      "fr": "Unknown",
+      "note": "Laisse EN: parite enums/DB"
+    },
+    {
+      "group": "valeurs de fiche",
+      "en": " lbs",
+      "fr": " lb"
+    },
+    {
+      "group": "formats de date",
+      "en": "h:mm tt",
+      "fr": "HH:mm"
+    },
+    {
+      "group": "formats de date",
+      "en": "MM-dd h:mm tt",
+      "fr": "dd/MM HH:mm"
+    },
+    {
+      "group": "formats de date",
+      "en": "MM-dd-yyyy h:mm tt",
+      "fr": "dd/MM/yyyy HH:mm"
+    },
+    {
+      "group": "formats de date",
+      "en": "MM/dd/yyyy h:mm tt",
+      "fr": "dd/MM/yyyy HH:mm"
+    }
+  ]
+}

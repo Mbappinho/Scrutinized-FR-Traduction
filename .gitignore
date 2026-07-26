@@ -1,0 +1,20 @@
+# Ne pas committer
+
+local_game_path.txt
+source/
+tools/*
+!tools/README.md
+build/
+backup/
+*.dll
+__pycache__/
+.venv/
+*.zip
+*.7z
+
+# Pack joueur (trop gros pour git — passe par GitHub Releases)
+release/Scrutinized-FR-Beginner/
+
+# Fragments / scripts agents temporaires
+work/lots/_*
+work/tmp_sms_slices/

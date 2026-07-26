@@ -1,0 +1,987 @@
+{
+  "meta": {
+    "name": "P1 PC in-game (bureau SCRUT, apps, prefabs)",
+    "buildid": "20456853",
+    "note": "Noms d'apps preserves (RootKit, Social Spy, SIM DB, Debit DB, D.M.V DB, Report Desk, Records, SecCams, B.O.L.O, DOSCoin). Les valeurs de remplissage des prefabs (David Parker, 175 lbs, dates, Lorem ipsum) sont ecrasees a l'execution et volontairement laissees telles quelles. ASCII uniquement.",
+    "tone": "Vouvoiement administratif pour e-mails et B.O.L.O, tutoiement pour les pensees de Luna."
+  },
+  "entries": [
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10451,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header/Subject",
+      "en": "Subject:",
+      "fr": "Objet:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10454,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header/SubjectLine",
+      "en": "Lights turning off & Power trips",
+      "fr": "Lumières et disjoncteurs"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10456,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColorTitle",
+      "en": "Hair Color:",
+      "fr": "Cheveux:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10457,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header2/Subject",
+      "en": "Subject:",
+      "fr": "Objet:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10458,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/RootKitWindow/Content/HackHolder/CrackBTN/Text",
+      "en": "CRACK",
+      "fr": "CRACKER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10459,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SocialSpySearchWindow/Content/FirstNameTitle",
+      "en": "Name:",
+      "fr": "Nom:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10460,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/SearchBTN/Text",
+      "en": "SEARCH",
+      "fr": "RECHERCHER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10466,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/KidnapperWindow/Dec",
+      "en": "As of today we’ve notified the agency about a potential suspect we believe is involved in a sex trafficking ring. Our suspicion comes from the disappearance of a number of female victims and an eyewitness account of one woman who was able to escape. We know that the man operates alone and at night specifically. He is around 6 feet tall, Bald, White, Medium build, and has a Forearm Tattoo. We’d like to stress this message specifically to the women as you could in fact be his next target. Based on the track record it seems as if he is looking to kidnap women exclusively.\n\nIt's also come to my attention that the builder who developed many of the homes in this area cut some corners. Many of the reports point to a compromised window locking mechanism as the culprit behind the unwanted entries. Security is key here, leave your lights on, ensure your windows are locked.",
+      "fr": "Nous avons signalé ce jour à l'agence un suspect que nous pensons impliqué dans un réseau de traite sexuelle. Nos soupçons reposent sur la disparition de plusieurs femmes et sur le témoignage de l'une d'elles, qui a pu s'échapper. Cet homme opère seul et uniquement de nuit. Il mesure environ 1m83, chauve, de type caucasien, corpulence moyenne, tatouage sur l'avant-bras. Nous alertons surtout les femmes : vous pourriez être sa prochaine cible. Au vu des faits, il s'en prend exclusivement à des femmes.\n\nIl m'a par ailleurs été rapporté que le promoteur de nombreuses maisons du secteur a fait des économies. Plusieurs signalements désignent un verrou de fenêtre défectueux comme cause des intrusions. La sécurité prime : laissez vos lumières allumées et verrouillez vos fenêtres."
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10471,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DebitDBResultsWindow/Content/Header/Amount",
+      "en": "SPENT",
+      "fr": "DÉPENSE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10475,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header/To",
+      "en": "To:",
+      "fr": "À:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10478,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/Content/Header/EyeColor",
+      "en": "EYES",
+      "fr": "YEUX"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10479,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SIMDBSearchWindow/Content/FormHolder/SearchBTN/Text",
+      "en": "SEARCH",
+      "fr": "RECHERCHER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10480,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DebitDBResultsWindow/TitleBar/Title",
+      "en": "RESULTS",
+      "fr": "RÉSULTATS"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10483,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header/From",
+      "en": "From:",
+      "fr": "De:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10485,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header2/From",
+      "en": "From:",
+      "fr": "De:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10486,
+      "field": "m_text",
+      "context": "UI/ComputerUI/PopUpCanvas/PopUpWindow/TitleBar/Title",
+      "en": "ERROR",
+      "fr": "ERREUR"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10489,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/PoliceRecordsSearchWindow/Content/FormHolder/NameTitle",
+      "en": "Name:",
+      "fr": "Nom:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10490,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SIMDBSearchWindow/Content/ResultsHolder/ClearBTN/Text",
+      "en": "CLEAR",
+      "fr": "EFFACER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10491,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/TannerWindow/Dec",
+      "en": "Last night I thought I heard something outside my house. So I promptly checked my security cameras to see what it was and saw a strange man creeping around. Unsure of what this person was doing snooping around outside, I shined the camera light on them to get a better look at who it was.\n\nAfter clearly being caught he ran off, but after checking the footage a couple times his face seemed so familiar. It dawned on me after the fact that he matched the description of the man police were after for a murder. \n\nIt’s our duty as members of the Watch to keep the community safe and aware of what’s going on. I recommend everyone shares this message to monitor your cameras and if available use your camera lights to deter any suspicious persons away from your property.\n\n\n\n",
+      "fr": "La nuit dernière, j'ai cru entendre quelque chose dehors. J'ai aussitôt vérifié mes caméras de surveillance et j'ai vu un homme étrange rôder autour de la maison. Ne sachant pas ce qu'il fabriquait à fureter dans le coin, j'ai allumé la lumière de la caméra pour mieux voir son visage.\n\nUne fois repéré, il a pris la fuite. Mais en revoyant les images plusieurs fois, son visage m'a semblé terriblement familier. J'ai fini par comprendre qu'il correspondait au signalement de l'homme recherché par la police pour meurtre. \n\nEn tant que membres de la ronde de quartier, il est de notre devoir de protéger la communauté et de la tenir informée. Je recommande à chacun de relayer ce message, de surveiller ses caméras et, si vous en avez, d'utiliser leur lumière pour dissuader toute personne suspecte de s'approcher de chez vous.\n\n\n\n"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10492,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/Content/Header/Weight",
+      "en": "WEIGHT",
+      "fr": "POIDS"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10497,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SocialSpySearchWindow/Content/AliasTitle",
+      "en": "Alias:",
+      "fr": "Alias:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10507,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GraphicSettings/TopSection/GraphyFPSTitle",
+      "en": "Graphy FPS:",
+      "fr": "Compteur FPS:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10517,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/Content/Header/Name",
+      "en": "NAME",
+      "fr": "NOM"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10518,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HeightTitle",
+      "en": "Height:",
+      "fr": "Taille:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10519,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/PoliceRecordsSearchWindow/Content/FormHolder/SearchBTN/Text",
+      "en": "SEARCH",
+      "fr": "RECHERCHER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10523,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DebitDBResultsWindow/Content/Header/Store",
+      "en": "STORE",
+      "fr": "MAGASIN"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10524,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/GenderTitle",
+      "en": "Gender:",
+      "fr": "Sexe:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10526,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/WeightTitle",
+      "en": "Weight:",
+      "fr": "Poids:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10528,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/EyeColorTitle",
+      "en": "Eye Color:",
+      "fr": "Yeux:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10529,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/TitleBar/Title",
+      "en": "Re: Lights turning off & Power trips",
+      "fr": "Re : Lumières et disjoncteurs"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10530,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SIMDBSearchWindow/Content/FormHolder/NameTitle",
+      "en": "Name:",
+      "fr": "Nom:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10539,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/RootKitWindow/Content/FormHolder/ConnectBTN/Text",
+      "en": "CONNECT",
+      "fr": "CONNEXION"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10540,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/Content/Header/Gender",
+      "en": "GENDER",
+      "fr": "SEXE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10541,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/AgeTitle",
+      "en": "Age:",
+      "fr": "Âge:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10546,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SocialSpySearchWindow/Content/SearchBTN/Text",
+      "en": "SEARCH",
+      "fr": "RECHERCHER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10547,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/Content/Header/HairColor",
+      "en": "HAIR",
+      "fr": "CHEVEUX"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10550,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Body2/EmailBody",
+      "en": "Hello Luna,\r\n\r\nI am super busy the next few weeks. In the meantime I suggest flicking the light switches on and off a few times to get them to turn on. There’s probably a short/loose wiring that has been causing the lights to turn off.\r\n\r\nFor the camera light, limit your use to shorter bursts to avoid flipping the breaker. It sounds like it’s drawing more power than your breaker was rated for.\r\n\r\nThe diagnoses above are just assumptions and at this point I can’t give you a quote unfortunately without first coming to your home. If you still want to schedule an appointment my first open slot is early next month.\n",
+      "fr": "Bonjour Luna,\r\n\r\nJe suis débordé ces prochaines semaines. En attendant, actionnez les interrupteurs plusieurs fois d'affilée pour rallumer les lumières : il y a sans doute un court-circuit ou un fil mal serré à l'origine des coupures.\r\n\r\nPour la lumière de la caméra, limitez-vous à de courtes utilisations pour éviter de faire sauter le disjoncteur. Elle tire plus de courant qu'il ne supporte.\r\n\r\nCe diagnostic reste une hypothèse et je ne peux pas vous faire de devis sans passer chez vous. Si vous voulez un rendez-vous, mon premier créneau est au début du mois prochain.\n"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10551,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SIMDBSearchWindow/Content/ResultsHolder/DataHolder/IMEITitle",
+      "en": "IMEI:",
+      "fr": "IMEI:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10553,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/TitleBar/Title",
+      "en": "RESULTS",
+      "fr": "RÉSULTATS"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10555,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header2/To",
+      "en": "To:",
+      "fr": "À:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10556,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/SocialSpySearchWindow/Content/OrTitle",
+      "en": "or",
+      "fr": "ou"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10557,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/RootKitWindow/Content/HackHolder/InstaCrackBTN/Text",
+      "en": "INSTA CRACK",
+      "fr": "CRACK INSTANT"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10563,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Header2/SubjectLine",
+      "en": "Re: Lights turning off & Power trips",
+      "fr": "Re : Lumières et disjoncteurs"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10566,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/RootKitWindow/Content/FormHolder/IMEITitle",
+      "en": "IMEI:",
+      "fr": "IMEI:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10568,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/UpgradesWindow/TitleBar/Title",
+      "en": "UPGRADES",
+      "fr": "AMÉLIORATIONS"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10569,
+      "field": "m_text",
+      "context": "UI/ComputerUI/IconsHolder/UpgradesIcon/Text",
+      "en": "Upgrades",
+      "fr": "Améliorations"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10582,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/PoliceRecordsSearchWindow/TitleBar/Title",
+      "en": "POLICE RECORDS",
+      "fr": "FICHIERS DE POLICE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10586,
+      "field": "m_text",
+      "context": "UI/ComputerUI/IconsHolder/EmailIcon/Text",
+      "en": "Re:Lights t...",
+      "fr": "Re:Lumières..."
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10589,
+      "field": "m_text",
+      "context": "UI/ComputerUI/IconsHolder/PoliceReportIcon/Text",
+      "en": "Records",
+      "fr": "Fichiers"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10592,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DebitDBSearchWindow/Content/FormHolder/SearchBTN/Text",
+      "en": "SEARCH",
+      "fr": "RECHERCHER"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10598,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/EmailWindow/Content/Body/EmailBody",
+      "en": "Hey,\r\n\r\nLights throughout my home are randomly turning off without me touching any of the switches. Also if I leave my security camera light on too long the breaker trips.\r\n\r\nI’d like a quote and your soonest possible opening to get this mess sorted.\r\n\r\nThank you,\r\n\r\nLuna\r\n",
+      "fr": "Bonjour,\r\n\r\nLes lumières de la maison s'éteignent seules, sans que je touche aux interrupteurs. Et si je laisse la lumière de ma caméra allumée trop longtemps, le disjoncteur saute.\r\n\r\nJe voudrais un devis et votre premier créneau pour régler ça.\r\n\r\nMerci,\r\n\r\nLuna\r\n"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10599,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DMVDBResultsWindow/Content/Header/Height",
+      "en": "HEIGHT",
+      "fr": "TAILLE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10603,
+      "field": "m_text",
+      "context": "UI/ComputerUI/Desktop/DebitDBSearchWindow/Content/FormHolder/NameTitle",
+      "en": "Name:",
+      "fr": "Nom:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[1].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Bald",
+      "fr": "Bald"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[2].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Gray",
+      "fr": "Gray"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[3].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Brown",
+      "fr": "Brown"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[4].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Blonde",
+      "fr": "Blonde"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[5].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Red",
+      "fr": "Red"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[6].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Black",
+      "fr": "Black"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11059,
+      "field": "m_Options.m_Options[7].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/HairColor",
+      "en": "Other",
+      "fr": "Other"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11321,
+      "field": "toolTipMessage",
+      "context": "UI/ComputerUI/TopBar/RejectedReportsHolder",
+      "en": "Rejected Reports",
+      "fr": "Rapports rejetés"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11391,
+      "field": "toolTipMessage",
+      "context": "UI/ComputerUI/TopBar/BonusReportQuotaHolder",
+      "en": "Today's Bonus Quota",
+      "fr": "Quota bonus du jour"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11497,
+      "field": "m_Options.m_Options[1].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/EyeColor",
+      "en": "Brown",
+      "fr": "Brown"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11497,
+      "field": "m_Options.m_Options[2].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/EyeColor",
+      "en": "Blue",
+      "fr": "Blue"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11497,
+      "field": "m_Options.m_Options[3].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/EyeColor",
+      "en": "Hazel",
+      "fr": "Hazel"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11497,
+      "field": "m_Options.m_Options[4].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/EyeColor",
+      "en": "Green",
+      "fr": "Green"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11497,
+      "field": "m_Options.m_Options[5].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/EyeColor",
+      "en": "Gray",
+      "fr": "Gray"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11560,
+      "field": "toolTipMessage",
+      "context": "UI/ComputerUI/TopBar/DailyReportQuotaHolder",
+      "en": "Today's Report Quota",
+      "fr": "Quota de rapports du jour"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11599,
+      "field": "m_Options.m_Options[1].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/Gender",
+      "en": "Male",
+      "fr": "Male"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11599,
+      "field": "m_Options.m_Options[2].m_Text",
+      "context": "UI/ComputerUI/Desktop/DMVDBWindow/Content/Gender",
+      "en": "Female",
+      "fr": "Female"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11670,
+      "field": "toolTipMessage",
+      "context": "UI/ComputerUI/TopBar/NetworkIcon",
+      "en": "Network Connection",
+      "fr": "Connexion réseau"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11741,
+      "field": "toolTipMessage",
+      "context": "UI/ComputerUI/TopBar/BedReportQuotaHolder",
+      "en": "Goto Bed Early Quota",
+      "fr": "Quota coucher anticipé"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11768,
+      "field": "toolTipMessage",
+      "context": "UI/ComputerUI/TopBar/RootKitCracks",
+      "en": "Instant RootKit Cracks",
+      "fr": "Cracks RootKit instantanés"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1841,
+      "field": "Tip",
+      "context": "ComputerStart",
+      "en": "Oh yeah.. I need to read that email and check out those B.O.L.O's",
+      "fr": "Ah oui.. Je dois lire cet e-mail et jeter un œil à ces B.O.L.O."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1842,
+      "field": "Tip",
+      "context": "InternetOut",
+      "en": "Ugh.. Damnit! Internet went out again, I need to go reset the router in the backroom closet. ",
+      "fr": "Pff.. Bon sang ! Internet a encore lâché, je dois aller réinitialiser le routeur dans le placard de l'arrière-salle. "
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1843,
+      "field": "Tip",
+      "context": "NewGameStart",
+      "en": "I should get to my computer and get the night started. ",
+      "fr": "Je ferais mieux de m'installer devant mon ordinateur et de commencer la nuit. "
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1844,
+      "field": "Tip",
+      "context": "PowerOut",
+      "en": "This damn power breaker! Need to flip the breaker in the file room closet. ",
+      "fr": "Ce fichu disjoncteur ! Je dois le réarmer dans le placard de la salle des dossiers. "
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1848,
+      "field": "Title",
+      "context": "InstantDebitSearch",
+      "en": "Instant Debit Search",
+      "fr": "Recherche Debit instantanée"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1849,
+      "field": "Title",
+      "context": "InstantIMEISearch",
+      "en": "Instant IMEI Search",
+      "fr": "Recherche IMEI instantanée"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1850,
+      "field": "Title",
+      "context": "InstantPoliceSearch",
+      "en": "Instant Police Search",
+      "fr": "Recherche police instantanée"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1851,
+      "field": "Title",
+      "context": "InstantRootKitCrack",
+      "en": "Instant RootKit Crack(1x)",
+      "fr": "Crack RootKit instantané (1x)"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1852,
+      "field": "Title",
+      "context": "InstantSocialSearch",
+      "en": "Instant Social Search",
+      "fr": "Recherche sociale instantanée"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2068,
+      "field": "m_text",
+      "context": "Receipt/TotalTitle",
+      "en": "TOTAL:",
+      "fr": "TOTAL:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2105,
+      "field": "m_text",
+      "context": "SocialWindow/Content/SocialDataHolder/Tab/Title",
+      "en": "POSTS",
+      "fr": "PUBLICATIONS"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2170,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/WeightTitle",
+      "en": "WEIGHT:",
+      "fr": "POIDS:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2171,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/HairColor",
+      "en": "HAIR:",
+      "fr": "CHEVEUX:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2172,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/GenderTitle",
+      "en": "GENDER:",
+      "fr": "SEXE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2175,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/HeightTitle",
+      "en": "HEIGHT:",
+      "fr": "TAILLE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2185,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/AgeTitle",
+      "en": "AGE:",
+      "fr": "ÂGE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2187,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/NameTitle",
+      "en": "NAME:",
+      "fr": "NOM:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2188,
+      "field": "m_text",
+      "context": "SocialWindow/Content/DetailsTab/Content/ProfileData/EyeColor",
+      "en": "EYES:",
+      "fr": "YEUX:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2213,
+      "field": "m_text",
+      "context": "SocialWindow/Content/SocialDataHolder/Content/Posts/Viewport/Content/NoRecentPosts",
+      "en": "No Recent Posts",
+      "fr": "Aucune publication"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2222,
+      "field": "m_text",
+      "context": "UpgradePanel/Title",
+      "en": "Instant Social Search",
+      "fr": "Recherche sociale instantanée"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2224,
+      "field": "m_text",
+      "context": "UpgradePanel/BuyBTN/Text",
+      "en": "BUY",
+      "fr": "ACHETER"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2237,
+      "field": "m_text",
+      "context": "CellPhoneWindow/ContentHolder/SearchHistory/Header/BackText",
+      "en": "BACK",
+      "fr": "RETOUR"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2244,
+      "field": "m_text",
+      "context": "ReportWindow/Content/AgeValue",
+      "en": "Unknown",
+      "fr": "Unknown"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2330,
+      "field": "m_text",
+      "context": "CellPhoneWindow/ContentHolder/TextConvos/Header/BackText",
+      "en": "BACK",
+      "fr": "RETOUR"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2341,
+      "field": "m_text",
+      "context": "IDCard/IDData/HeightTitle",
+      "en": "HEIGHT:",
+      "fr": "TAILLE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2343,
+      "field": "m_text",
+      "context": "IDCard/IDData/HairTitle",
+      "en": "HAIR:",
+      "fr": "CHEVEUX:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2347,
+      "field": "m_text",
+      "context": "IDCard/IDData/SexTitle",
+      "en": "SEX:",
+      "fr": "SEXE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2351,
+      "field": "m_text",
+      "context": "IDCard/IDData/WeightTitle",
+      "en": "WEIGHT:",
+      "fr": "POIDS:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2352,
+      "field": "m_text",
+      "context": "IDCard/IDData/EyesTitle",
+      "en": "EYES:",
+      "fr": "YEUX:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2354,
+      "field": "m_text",
+      "context": "IDCard/IDData/AliasTitle",
+      "en": "ALIAS:",
+      "fr": "ALIAS:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2355,
+      "field": "m_text",
+      "context": "IDCard/IDData/AgeTitle",
+      "en": "AGE:",
+      "fr": "ÂGE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2356,
+      "field": "m_text",
+      "context": "IDCard/IDData/AliasValue",
+      "en": "None",
+      "fr": "Aucun"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2375,
+      "field": "m_text",
+      "context": "ReportWindow/EvidenceBlock/EvidenceText",
+      "en": "EVIDENCE",
+      "fr": "PREUVES"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2385,
+      "field": "m_text",
+      "context": "ReportWindow/IDBlock/IDText",
+      "en": "IDENTIFICATION CARD",
+      "fr": "PIÈCE D'IDENTITÉ"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2397,
+      "field": "m_text",
+      "context": "CellPhoneWindow/ContentHolder/Pictures/Header/BackText",
+      "en": "BACK",
+      "fr": "RETOUR"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2419,
+      "field": "m_text",
+      "context": "CellPhoneWindow/ContentHolder/Home/Nav/Pictures/Title",
+      "en": "PICTURES",
+      "fr": "PHOTOS"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2421,
+      "field": "m_text",
+      "context": "CellPhoneWindow/ContentHolder/Home/Nav/Convos/Title",
+      "en": "TEXT CONVOS",
+      "fr": "SMS"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2429,
+      "field": "m_text",
+      "context": "CellPhoneWindow/ContentHolder/Home/Nav/SearchHistory/Title",
+      "en": "SEARCH HISTORY",
+      "fr": "RECHERCHES"
+    }
+  ],
+  "layout": [
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10480,
+      "width": 175,
+      "why": "DebitDB Results title: 'N RESULTATS' (DLL suffix) ne tient pas en 120px"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10507,
+      "width": 140,
+      "why": "Compteur FPS:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10471,
+      "width": 96,
+      "why": "DEPENSE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10547,
+      "width": 96,
+      "why": "CHEVEUX (recherche base de donnees)"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10568,
+      "width": 164,
+      "why": "AMELIORATIONS"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10569,
+      "width": 92,
+      "why": "Ameliorations (icone bureau)"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10586,
+      "width": 97,
+      "autosize_min": 13,
+      "why": "Re:Lumieres... (icone bureau, accent)"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2105,
+      "width": 135,
+      "why": "PUBLICATIONS (onglet vertical, 165 de long)"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2171,
+      "width": 74,
+      "why": "CHEVEUX:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2343,
+      "why": "CHEVEUX: en gras, 2 unites de marge seulement : boite au max + police reduite",
+      "autosize_min": 16,
+      "width": 72
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 1570,
+      "width": 120,
+      "why": "BuyBTN: ACHETER, le texte est etire sur le bouton"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2237,
+      "width": 101,
+      "why": "RETOUR"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2330,
+      "width": 101,
+      "why": "RETOUR"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets3.assets",
+      "path_id": 2397,
+      "width": 101,
+      "why": "RETOUR"
+    }
+  ],
+  "note": "Options DMV sexe/cheveux/yeux laissees EN (parite avec enums/DB des fiches)."
+}

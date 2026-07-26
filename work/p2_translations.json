@@ -1,0 +1,88 @@
+{
+  "_meta": {
+    "role": "Traductions P2 indexées par étiquette narrative. Source d'autorité pour le texte FR ; le lot work/lots/p2_story.json en est généré, avec les champs en/path_id repris du vanilla pour garantir le garde-fou.",
+    "registre": "Vouvoiement mutuel Luna/Tanner. Récit à la 3e personne au passé simple + imparfait. Jurons rendus fidèlement.",
+    "accents": "Français correctement accentué. Le repliement ASCII est fait à l'écriture par scripts/text_render.py. Apostrophes droites et points de suspension en trois points pour éviter toute dépendance à un glyphe absent des atlas."
+  },
+
+  "IST1": "Enfant, Luna rêvait de devenir une super-héroïne — pas celles en combinaison moulante qui savent voler, mais celles qui repèrent les liens que personne d'autre ne voit. Elle voulait une vision à rayons X pour observer les criminels quand ils tentaient de se cacher de la loi, une ouïe supersonique pour surprendre les conversations louches, et juste assez de force pour maîtriser les types plus grands qu'elle. Enfant, elle ne désirait rien de plus.",
+
+  "IST2": "En grandissant, ses ambitions se firent plus réalistes, à rebours du ton toujours plus irréel des journaux. Les faits devinrent la nouvelle fiction dystopique. Le monde criait plus fort chaque année, apparemment plus violent, ou simplement plus exposé que l'année précédente.",
+
+  "IST3": "Sa génération grandit avec l'idée d'endiguer ces tendances « toujours plus violentes » : incarcérations de masse, guerres de la drogue, tueurs en série appliqués à se faire un nom. Dans sa quête de justice, Luna choisit la voie analytique : elle se sentait plus utile à dépouiller des dossiers, à trier des preuves, à relier les points entre eux. Sa cousine — presque une sœur — entra à l'académie et devint officier de police. Jusqu'aux parents les plus éloignés, tous semblaient graviter vers les forces de l'ordre, comme si c'était dans le sang.",
+
+  "IST4": "« Il suffit de deux meurtres de plus pour qu'un meurtrier devienne un tueur en série », lui apprit un collègue un matin, devant un café et des scones. Celui-là en comptait trois ce jour-là ; le chiffre passa bientôt à deux chiffres, empilant les corps de policiers, d'avocats pénalistes et de plusieurs enquêteurs de terrain.",
+
+  "IST5": "Les journaux télévisés — de plus en plus irréels à mesure que les années passaient — diffusaient l'affaire du tueur Blueblood en continu. Luna connaissait ce tueur en série local mieux que la plupart des gens, à force d'heures supplémentaires passées à traiter les preuves accumulées sur ses nombreux crimes. Tout cela gardait pourtant des airs de ragot, d'intrigue fabriquée. Jusqu'à ce fameux « coup de téléphone », qui fit d'une chose si artificielle une réalité.",
+
+  "IST6": "L'appel arriva au milieu de la nuit, aussi imprévisible qu'une balle dans le noir. Sa cousine — le modèle même du bon policier — avait été tuée. S'il s'était agi d'un banal contrôle routier qui dérape, ou d'un braqueur au pistolet chargé, Luna aurait peut-être pu faire son deuil et avancer. Mais ce n'était pas l'un de ces faits divers dont les gros titres raffolent. Non, ce n'en était pas un, parce que la vie s'était depuis longtemps changée en cauchemar fantasmagorique.",
+
+  "IST7": "L'agent Sarah Youngman, respectée par tous ceux qui comptaient, mourut de la main du tueur Blueblood. Qui il était, ou qui ils étaient, restait une énigme, malgré une série de meurtres qui rongeait les États, les comtés et les foyers. Mais par-delà la longue liste de victimes confirmées et de liens possibles que Luna avait elle-même consignés avant d'aller dormir, ce monstre avait tué Sarah. D'un coup, le croque-mitaine devenait une menace de chair et de sang.",
+
+  "IST8": "Ce tyran n'était plus un dossier qu'elle classait en fin de journée. Ce n'était plus une obsession de médias. Il était là — et si ce n'était pas au sens propre, c'était assurément dans sa tête.",
+
+  "IST9": "Cette certitude la rongea des mois encore après que le vrai deuil se fut estompé. À peine avait-elle touché la phase d'acceptation qu'elle retomba dans la colère, et cette colère ne la quitta jamais tout à fait. Luna voulait un nom. Elle voulait savoir qui avait tué la femme la plus douce du monde, quand de prétendus ripoux couraient toujours. Luna avait besoin de justice.",
+
+  "IST10": "Qu'y avait-il chez sa cousine pour déclencher ce tueur ? Le fait qu'elle incarnait tout ce qu'un policier devrait être ? Un modèle de morale, de dévouement, de sang-froid et de cœur. L'agent Youngman avait tout ce qu'on exige de ceux qui nous protègent, et Luna ne laisserait pas sa mémoire s'effacer sous forme de statistique.",
+
+  "IST11": "Jour après jour, elle dépensa les relations bâties au travail et lors de fêtes de Noël trop arrosées, pour voir s'il existait quelque chose que personne d'autre n'avait vu. Les amis policiers qui ne l'avaient jamais orientée à tort revinrent les mains vides. Les membres de sa famille au plus près du terrain n'en savaient guère plus que les journaux. Même les anciens, ceux qui savaient ce que peu de gens savent, se contentèrent de hausser les épaules quand elle les pressa d'indices.",
+
+  "IST12": "Il lui fallait d'abord des pistes ; il n'y en avait aucune. Alors, en dernier recours, elle résolut de harceler son patron pour obtenir un peu de marge. Luna fit tout ce qu'elle put pour la moindre miette d'information, sans se soucier des conséquences.",
+
+  "IST13": "Être analyste d'enquêtes au bureau du procureur avait ses avantages, mais cela ne faisait que la narguer, tant cela l'aidait peu à se figurer qui était ce tueur. Son patron savait ce qu'elle cherchait ; il appliquait le règlement aussi strictement qu'elle. Se voir opposer un refus par lui, c'était simplement une épaisseur de moins entre une citoyenne respectueuse des lois et la justice expéditive.",
+
+  "IST14": "À chaque demande d'accès refusée faute d'habilitation, Luna voyait les trous du système judiciaire s'élargir. Parfois, la loi entravait l'essentiel : on ne progresse pas derrière la paperasse et les procédures. Peut-être, dans des cas comme celui-là, les règles étaient-elles faites pour céder un peu. Elle n'ouvrirait pas les bases de données par la parole ; ce ne serait pas aussi simple que de lire les rapports des autres victimes en espérant l'illumination. Si le changement devait venir, il commencerait par elle — et par des citoyens prêts à aider.",
+
+  "IST15": "Oui, Luna respectait la loi, et elle la respecterait comme Sarah l'aurait voulu. Mais elle ne pouvait plus rester les bras croisés.",
+
+  "IST16": "Un matin, elle se déclara malade, imprima des affichettes et les placarda dans toute la ville. Elle fonda son groupe de vigilance de quartier ce jour-là, et dès le lendemain au bureau, Luna ne pensait plus à rien d'autre.",
+
+  "IST17": "Cela commença par un signalement, puis deux, puis trois, puis quatre, et d'autres encore. ",
+
+  "IST18": "Avant qu'elle ne comprenne ce qui se passait, son petit réseau de policiers à la retraite et de voisins curieux était devenu un véritable programme de surveillance citoyenne, qui débordait le quartier, la banlieue, et gagnait la ville. Le nombre de signalements paraissait parfois trop lourd pour une seule personne ; mais pour les centaines de milliers de gens moins bien armés que Sarah face aux horreurs humaines, Luna estimait que quelques nuits blanches étaient le minimum.",
+
+  "IST19": "Luna devait obtenir ses réponses, d'une manière ou d'une autre.",
+
+  "LES1": "... vous... vous m'avez droguée.",
+  "LES2": "Qu... qu'est-ce que vous racontez, bordel ?! Vous... vous m'avez tirée de mon lit... et pour quoi ? Qu'est-ce que vous...",
+  "LES3": "Tanner... d'ac-d'accord, bon... qu'est-ce que vous me voulez ?!",
+  "LES4": "S'il vous plaît... Laissez-moi partir..",
+  "LES5": "Comment ça, pour quoi ? J'ai avancé. J'ai...",
+  "LES6": "Le tueur Blueblood... ?",
+  "LES7": "Pourquoi me parleriez-vous de lui ? Pourquoi vous ferais-je confiance ?",
+  "LES8": "Ça ne dit pas pourquoi vous voulez m'aider...",
+  "LES9": "Et je devrais croire que vous avez violé ma vie privée, que vous m'avez droguée et enlevée parce que vous admirez mon... mon...",
+  "LES10": "Merci..",
+  "LES11": "Ça fait si longtemps que j'essaie de le retrouver.",
+  "LES12": "Comment avez-vous ces informations ? Où est-ce que vous...",
+  "LES13": "Et ils ne sont pas allés voir la police avec ça ?",
+  "LES14": "Adam ?",
+  "LES15": "Tout est là ? Tout est vraiment... vraiment là ?",
+  "LES16": "Tanner, je...",
+
+  "TES1": "toujours assez fort, pourtant la demi-vie d'une telle dose ne devrait pas durer aussi longtemps, ou alors le dosage est mauvais ? Non, non...",
+  "TES2": "elle devrait l'avoir métabolisé, à cette heure.",
+  "TES3": "Nous y voilà. Il était temps que vous vous réveilliez !",
+  "TES4": "Je l'admets, je ne suis pas grand chimiste, mais on n'attendrait pas d'une dose ordinaire de midazolam un effet aussi persistant sur une femme de votre âge. Vous n'êtes pas si vieille, après tout.",
+  "TES5": "J'espère que vous êtes encore capable de parler malgré les effets secondaires. L'euphorie en fait partie, à ce qu'on dit. De rien, donc.",
+  "TES6": "Oh, juste assez pour vous tirer de votre lit, vous faire passer votre porte d'entrée et vous amener jusqu'ici.",
+  "TES7": "Il est plus simple de parler affaires entre nous. On ne voudrait pas qu'on vienne interrompre nos conversations... n'est-ce pas ?",
+  "TES9": "Commençons par les présentations. Puisque je sais déjà tant de choses sur vous, Luna, il serait grossier de vous laisser plus longtemps dans le noir. Je m'appelle Tanner, et c'est un plaisir.",
+  "TES10": "Au tremblement de votre voix, je devine que vous craignez d'être violée et battue... peut-être mangée vivante ? Compréhensible, vu tous les êtres vils et incompétents que vous avez mis au jour jusqu'ici.",
+  "TES11": "Avec un peu de chance, nous ne resterons pas longtemps. Dites-moi : vous avez passé tant de temps à éplucher la vie de ceux qui vous entourent... transactions, photos personnelles, conversations privées... et pour quoi ?",
+  "TES12": "Mais vous ne savez toujours pas qui il est.",
+  "TES13": "Le produit va cesser d'agir très bientôt, Luna. Mais j'ai le drôle de pressentiment que vous voudrez rester exactement où vous êtes. N'est-ce pas ?",
+  "TES14": "Lui-même.",
+  "TES15": "Je ne vous ai pas tuée, n'est-ce pas ? À part un petit hématome sous l'oreille et quelques effets résiduels, très légers, du sédatif que je vous ai injecté, j'ai été plutôt aimable. Généreux. Vous ne trouvez pas ?",
+  "TES16": "Voyez-y ma façon de récompenser tout votre travail. Il faut du talent pour faire ce que vous faites — de l'initiative, du dévouement — autant de choses qui manquent cruellement au quidam moyen, occupé à gâcher sa vie sans rien accomplir.",
+  "TES17": "Votre programme de surveillance citoyenne, oui. Vous êtes bien plus modeste que je ne le pensais, mais vous devriez vraiment vous en attribuer le mérite. Tout cela est très impressionnant.",
+  "TES18": " oui, c'est très poli de votre part... très poli.",
+  "TES19": "Tenez. Ce dossier contient toutes les informations que votre petit cœur d'écorchée vive pourrait désirer. Vous avez cherché le tueur Blueblood si longtemps ; maintenant, vous allez le trouver. Avec ça.",
+  "TES20": "Tenez ! Prenez-le ! ",
+  "TES21": "Il se trouve que je connais des gens plutôt importants — des gens qui savent à peu près tout ce qui vaut d'être su.",
+  "TES22": "Pourquoi donner cela gratuitement quand on peut le vendre au plus offrant ou, mieux encore, mettre quelqu'un comme moi en dette envers quelqu'un comme Adam.",
+  "TES23": "Pas un homme à qui l'on souhaite devoir des faveurs. Mais vous avez de la chance : je vous apprécie beaucoup.",
+  "TES24": "Tout.",
+  "TES25": "Ne vous inquiétez pas, vous vous réveillerez là même où je vous ai trouvée... avec toutes vos précieuses preuves bien à l'abri à côté de vous. Je ne me suis pas donné tout ce mal pour rien, après tout.",
+  "TES26": "À la prochaine fois... Luna..."
+}

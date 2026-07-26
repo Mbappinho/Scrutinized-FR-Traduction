@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "game": "Scrutinized",
+    "appid": "1384770",
+    "buildid": "20456853",
+    "unity": "2019.4.7f1",
+    "created": "2026-07-26T02:17:57",
+    "note": "SHA-256 des fichiers serialises EN d'origine. Les .resS/.resource/.res5 sont hors manifeste SAUF sharedassets4.asset.res5 (SQLite boucle enquete)."
+  },
+  "files": {
+    "Scrutinized_Data/globalgamemanagers": {
+      "size": 154524,
+      "sha256": "83dadfc09853b3bc398de4f254be9beb90db472b20c4f829319a18d691dd3ff7",
+      "source": "install"
+    },
+    "Scrutinized_Data/globalgamemanagers.assets": {
+      "size": 12938276,
+      "sha256": "2c0f383a0c8479a7cea590d2ae890cb4562130ce5b2bc3b96600cdb45ffac924",
+      "source": "install"
+    },
+    "Scrutinized_Data/level0": {
+      "size": 8908,
+      "sha256": "85b000b9da59091ce5df63ec322644a463d040344e994563fbd80e5b154fa39b",
+      "source": "install"
+    },
+    "Scrutinized_Data/level1": {
+      "size": 155572,
+      "sha256": "dd71d5e54fb08b049dc49ac631e3319c023045df8207ede20c4c443abeb720cb",
+      "source": "backup/menus/level1.20260725_213833.bak"
+    },
+    "Scrutinized_Data/level2": {
+      "size": 9632,
+      "sha256": "2f6e701f93146f4e2d705f0785e16df18a57210fd23299390d05388641d160d5",
+      "source": "backup/menus/level2.20260725_213833.bak"
+    },
+    "Scrutinized_Data/level3": {
+      "size": 4853800,
+      "sha256": "71e5abd845ddd582a4e3338b899fdee6716b121b48ec8c80dcef09c3909b012a",
+      "source": "backup/menus/level3.20260725_213833.bak"
+    },
+    "Scrutinized_Data/level4": {
+      "size": 59740,
+      "sha256": "513f34cdd37861ff23ee2424a6479f536a986ca84065a2e80f5d379be8c01535",
+      "source": "install"
+    },
+    "Scrutinized_Data/level5": {
+      "size": 17064,
+      "sha256": "0ee7ae6a099cc6bf358e27a943af525379dc0ce55537c4d8fb8a297d389194bd",
+      "source": "install"
+    },
+    "Scrutinized_Data/level6": {
+      "size": 13064,
+      "sha256": "e6fb9b0330df8180578b6cf2a0a4cc8413ccabf6d46b85a3df00a51511410bf5",
+      "source": "install"
+    },
+    "Scrutinized_Data/level7": {
+      "size": 61436,
+      "sha256": "856991ddf2b3a4cf0b338836b5a6eebcabe31f0c9aa1d1a7d2bfda2ad0b3d069",
+      "source": "backup/menus/level7.20260725_213833.bak"
+    },
+    "Scrutinized_Data/level8": {
+      "size": 10436,
+      "sha256": "03ddb265d13d3f87d3459ceee1dd1d543321e67d6c68128124ad4c5092d4f440",
+      "source": "backup/menus/level8.20260725_213833.bak"
+    },
+    "Scrutinized_Data/level9": {
+      "size": 2050132,
+      "sha256": "57821d4e5e16bc9aadc27b10e1ab44d331727f565fc92639c5a1351340d14655",
+      "source": "backup/menus/level9.20260725_213833.bak"
+    },
+    "Scrutinized_Data/resources.assets": {
+      "size": 1919768,
+      "sha256": "856d1d9c1e82425d5c4c5baef2dce125e3fa022e50f35d50006ec5f6e9362c7c",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets0.assets": {
+      "size": 343076,
+      "sha256": "9db09d0caa10b16ba187b0e861dfd9fd5cf168ea4371921735b2f42f2e36bc92",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets1.assets": {
+      "size": 12427652,
+      "sha256": "795e38fb34340d0c2995a19672f55b53dccba0b8e5a334da271172ffbe4144b9",
+      "source": "backup/menus/sharedassets1.assets.20260725_213833.bak"
+    },
+    "Scrutinized_Data/sharedassets2.assets": {
+      "size": 42712,
+      "sha256": "2943bb54f75fbae157c09cb62a0888376eb08870d2825d855644998d717b4840",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets3.assets": {
+      "size": 36153864,
+      "sha256": "b26dd14491ebdad1d919a0e2fa9c5dd2dd40d23227299b815bbcb615a0dfed18",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets4.assets": {
+      "size": 13888,
+      "sha256": "738c859d4996e67b738c86a503be2225b941a2d3a80534f772179c65fa6b06ad",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets5.assets": {
+      "size": 290860,
+      "sha256": "63a9699c298da2257d59ba223551870225bd05f25fb22e0a93e2023972a6fd05",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets6.assets": {
+      "size": 8440,
+      "sha256": "69ffe6eb084f4b2bde90a40d7e404e043edc24c749ce42d6a5db54807eab99ec",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets7.assets": {
+      "size": 6776,
+      "sha256": "9c9b55787fec8d5ebe38aff162400b44e0aaceb6f6e9ccaf0f7a2870c94121b6",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets8.assets": {
+      "size": 4860,
+      "sha256": "a245ce111066fab2c3d8be2479c33513ef011fe31b1e0fbfddc4276295d4eb78",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets9.assets": {
+      "size": 28535396,
+      "sha256": "e7127cbdb7e8db51439421c646213ddf8dd1daf222401017f57c568dd6ac878b",
+      "source": "install"
+    },
+    "Scrutinized_Data/Resources/browser_assets": {
+      "size": 123116658,
+      "sha256": "b43a9b64b52c4f91149aaf277dddd9b5e0d6549481f209fb19116b9033f66df8",
+      "source": "backup/browser_assets.en.20260725_212521.bak"
+    },
+    "Scrutinized_Data/Managed/Assembly-CSharp.dll": {
+      "size": 628224,
+      "sha256": "a6f3ed9e9eda209d6d41c0d3a5f8ba5b6ea1bb9ff322b40747650dc9cbbcba5f",
+      "source": "install"
+    },
+    "Scrutinized_Data/sharedassets4.asset.res5": {
+      "size": 289947648,
+      "sha256": "7ddc281156ebcadfbf21c25970bc40a26ac9598a588511e976b085249e47ac5c",
+      "source": "install"
+    }
+  }
+}

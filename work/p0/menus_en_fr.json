@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "game": "Scrutinized",
+    "buildid": "20456853",
+    "lot": "P0 menus Unity",
+    "encoding": "utf-8 in Unity assets (length = byte length, pad align4 — NO embedded NUL)",
+    "note": "FR UTF-8 must be ≤ EN byte length; pad with spaces so length field is unchanged. Changing length crashes (TitleTipData serialization). ASCII-only for Lekton TMP. Keep SCRUT app names EN."
+  },
+  "pairs": [
+    {
+      "en": "NEW GAME",
+      "fr": "NOUVELLE",
+      "containers": ["level1"]
+    },
+    {
+      "en": "CONTINUE",
+      "fr": "CONTINU.",
+      "containers": ["level1"]
+    },
+    {
+      "en": "EXIT",
+      "fr": "QUIT",
+      "containers": ["level1"]
+    },
+    {
+      "en": "SETTINGS",
+      "fr": "REGLAGES",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "HOW TO PLAY",
+      "fr": "MODE EMPLOI",
+      "containers": ["level1"]
+    },
+    {
+      "en": "GAME",
+      "fr": "JEU",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "DISPLAY",
+      "fr": "ECRAN",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "GRAPHICS",
+      "fr": "GRAPHISM",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Sensitivity:",
+      "fr": "Sensibilite:",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Subtitles:",
+      "fr": "Sous-titr:",
+      "containers": ["level1"]
+    },
+    {
+      "en": "Window Mode:",
+      "fr": "Mode ecran:",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Jump Scares:",
+      "fr": "Sursauts :",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Target FPS:",
+      "fr": "FPS cible:",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Anti-aliasing:",
+      "fr": "Lissage :",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Quality:",
+      "fr": "Qualite:",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Unlimited",
+      "fr": "Illimite",
+      "containers": ["level1", "level3"]
+    },
+    {
+      "en": "Loading",
+      "fr": "Attente",
+      "containers": ["level2"]
+    },
+    {
+      "en": "Don't like jump scares? Turn them off in the options menu.",
+      "fr": "Pas fan des jump scares ? Desactive-les dans les options.",
+      "containers": ["level2"]
+    },
+    {
+      "en": "DETECTIVE MODE:",
+      "fr": "MODE DETECTIVE:",
+      "containers": ["sharedassets1.assets"]
+    },
+    {
+      "en": "NIGHTMARE MODE:",
+      "fr": "MODE HORREUR:",
+      "containers": ["sharedassets1.assets"]
+    },
+    {
+      "en": "Perma Death - No Saving \r\n14 Nights Total\r\nOnly for the advanced players\r.",
+      "fr": "Mort permanente - Pas de save\r\n14 nuits au total\r\nPour joueurs avances\r.",
+      "containers": ["sharedassets1.assets"]
+    },
+    {
+      "en": "QUIT GAME",
+      "fr": "QUITTER",
+      "containers": ["level3"]
+    },
+    {
+      "en": "QUIT TO MAIN MENU",
+      "fr": "MENU PRINCIPAL",
+      "containers": ["level3"]
+    },
+    {
+      "en": "Resume",
+      "fr": "Retour",
+      "containers": ["level3"]
+    },
+    {
+      "en": "Goto Bed Early Quota",
+      "fr": "Quota lit tot",
+      "containers": ["level3"]
+    },
+    {
+      "en": "Thanks For Playing!\nPress Q To Quit",
+      "fr": "Merci d'avoir joue!\nAppuie sur Q",
+      "containers": ["level7"]
+    },
+    {
+      "en": "MUSIC PRODUCERS",
+      "fr": "PROD. MUSIQUE",
+      "containers": ["level7"]
+    },
+    {
+      "en": "SPECIAL THANKS",
+      "fr": "REMERCIEMENTS",
+      "containers": ["level7"]
+    },
+    {
+      "en": "To Be Continued...",
+      "fr": "A suivre...",
+      "containers": ["level9"]
+    },
+    {
+      "en": "Congratulations on completing causal mode! \nYou are now ready for Normal Mode",
+      "fr": "Bravo, mode detective fini!\nTu es pret pour le mode Normal",
+      "containers": ["level8"]
+    }
+  ],
+  "intentionally_en": [
+    "VSync",
+    "Volume:",
+    "Resolution:",
+    "Ultra",
+    "TAA",
+    "SCRUT",
+    "Report Desk",
+    "DOS Coin",
+    "RootKit",
+    "Cancel",
+    "Submit"
+  ]
+}

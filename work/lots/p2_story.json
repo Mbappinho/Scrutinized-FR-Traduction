@@ -1,0 +1,563 @@
+{
+  "lot": "p2_story",
+  "scope": "Recit d'introduction (sharedassets5) et dialogue Luna/Tanner (sharedassets9)",
+  "note": "Genere par scripts/build_p2_lot.py depuis work/p2_translations.json. Ne pas editer a la main : editer les traductions puis regenerer.",
+  "entries": [
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 24,
+      "field": "SubText",
+      "context": "IST1",
+      "en": "When she was a kid, Luna aspired to be a superhero - not the ones in skintight suits that could fly, but the ones that identified connections where others didn't. She wanted X-ray vision to observe criminals when they tried to hide from the law, and super-sonic hearing to listen in on mischievous talks, then a measure of heightened strength to restrain the guys bigger than her - this was all she craved when she was a child. ",
+      "fr": "Enfant, Luna rêvait de devenir une super-héroïne — pas celles en combinaison moulante qui savent voler, mais celles qui repèrent les liens que personne d'autre ne voit. Elle voulait une vision à rayons X pour observer les criminels quand ils tentaient de se cacher de la loi, une ouïe supersonique pour surprendre les conversations louches, et juste assez de force pour maîtriser les types plus grands qu'elle. Enfant, elle ne désirait rien de plus.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 35,
+      "field": "SubText",
+      "context": "IST2",
+      "en": "As she became older, her ambitions took a more realistic approach, which seemed in direct opposition to the surreal tone the news took. The facts became the new dystopian fiction. The world grew louder each year, apparently more violent, or more visible than the year before.",
+      "fr": "En grandissant, ses ambitions se firent plus réalistes, à rebours du ton toujours plus irréel des journaux. Les faits devinrent la nouvelle fiction dystopique. Le monde criait plus fort chaque année, apparemment plus violent, ou simplement plus exposé que l'année précédente.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 36,
+      "field": "SubText",
+      "context": "IST3",
+      "en": "Her generation grew up looking to cull the 'increasingly violent' trends that saw mass incarcerations, drug wars, and serial killers studying to gain notoriety. Luna took the analytical route in her quest for justice, feeling more at home processing case files, evidence, and connecting dots. Her cousin - a sister almost - enrolled in the academy and became an officer of the law. Even extended family, no matter how far away, seemed to gravitate towards law enforcement, almost as if it were in their blood.",
+      "fr": "Sa génération grandit avec l'idée d'endiguer ces tendances « toujours plus violentes » : incarcérations de masse, guerres de la drogue, tueurs en série appliqués à se faire un nom. Dans sa quête de justice, Luna choisit la voie analytique : elle se sentait plus utile à dépouiller des dossiers, à trier des preuves, à relier les points entre eux. Sa cousine — presque une sœur — entra à l'académie et devint officier de police. Jusqu'aux parents les plus éloignés, tous semblaient graviter vers les forces de l'ordre, comme si c'était dans le sang.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 37,
+      "field": "SubText",
+      "context": "IST4",
+      "en": "'A murderer becomes a serial killer with just two more kills,' a coworker informed her over scones and coffee one morning. This one had three total that day, but that number hit double digits soon enough, accumulating corpses of officers, criminal lawyers, and several field investigators to a growing pile of victims.",
+      "fr": "« Il suffit de deux meurtres de plus pour qu'un meurtrier devienne un tueur en série », lui apprit un collègue un matin, devant un café et des scones. Celui-là en comptait trois ce jour-là ; le chiffre passa bientôt à deux chiffres, empilant les corps de policiers, d'avocats pénalistes et de plusieurs enquêteurs de terrain.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 38,
+      "field": "SubText",
+      "context": "IST5",
+      "en": "The news on TV - becoming more unreal as the years ticked on by - ran the Blueblood Killer story twenty-four seven. Luna knew about the local serial killer, more so than most thanks to all the overtime spent processing corroborative evidence for their many crimes. However, it still felt more like gossip and fabricated plot points, at least, until that 'phone call' made something so artificial an actuality. ",
+      "fr": "Les journaux télévisés — de plus en plus irréels à mesure que les années passaient — diffusaient l'affaire du tueur Blueblood en continu. Luna connaissait ce tueur en série local mieux que la plupart des gens, à force d'heures supplémentaires passées à traiter les preuves accumulées sur ses nombreux crimes. Tout cela gardait pourtant des airs de ragot, d'intrigue fabriquée. Jusqu'à ce fameux « coup de téléphone », qui fit d'une chose si artificielle une réalité.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 39,
+      "field": "SubText",
+      "context": "IST6",
+      "en": "The call came in the middle of the night, as unexpected as a bullet in the dark. Her cousin - the exemplar of a police officer - had been killed. If it was just the tragically common traffic stop gone wrong or armed robber with a weighted pistol, maybe Luna could have mourned and pushed on, but it wasn't any run of the mill incident that was so characteristic of headlines. No, it wasn't that because life had long turned into a phantasmagoric nightmare.",
+      "fr": "L'appel arriva au milieu de la nuit, aussi imprévisible qu'une balle dans le noir. Sa cousine — le modèle même du bon policier — avait été tuée. S'il s'était agi d'un banal contrôle routier qui dérape, ou d'un braqueur au pistolet chargé, Luna aurait peut-être pu faire son deuil et avancer. Mais ce n'était pas l'un de ces faits divers dont les gros titres raffolent. Non, ce n'en était pas un, parce que la vie s'était depuis longtemps changée en cauchemar fantasmagorique.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 40,
+      "field": "SubText",
+      "context": "IST7",
+      "en": "Officer Sarah Youngman, revered by all that mattered, died at the hands of the Blueblood Killer. Who he was, or who they were, remained an enigma despite their murder spree eroding through states, counties, and homes. But more than the long list of confirmed victims and possible connections Luna herself had registered and slept away, this monster killed Sarah. Somehow, that turned the boogeyman into a living, breathing threat. ",
+      "fr": "L'agent Sarah Youngman, respectée par tous ceux qui comptaient, mourut de la main du tueur Blueblood. Qui il était, ou qui ils étaient, restait une énigme, malgré une série de meurtres qui rongeait les États, les comtés et les foyers. Mais par-delà la longue liste de victimes confirmées et de liens possibles que Luna avait elle-même consignés avant d'aller dormir, ce monstre avait tué Sarah. D'un coup, le croque-mitaine devenait une menace de chair et de sang.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 41,
+      "field": "SubText",
+      "context": "IST8",
+      "en": "No longer was this tyrant a thing she filed at the end of the day. It wasn't an obsession of the media. He was here, and if not in the literal sense, then definitely in her mind.",
+      "fr": "Ce tyran n'était plus un dossier qu'elle classait en fin de journée. Ce n'était plus une obsession de médias. Il était là — et si ce n'était pas au sens propre, c'était assurément dans sa tête.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 42,
+      "field": "SubText",
+      "context": "IST9",
+      "en": "This realization gnawed at her for months after the real mourning faded. Luna's acceptance stage barely registered before she fell swiftly to anger once again, and it never genuinely went away. Luna craved a name. She wanted to know who killed the sweetest woman in the world despite so-called dirty cops walking free. Luna needed justice.",
+      "fr": "Cette certitude la rongea des mois encore après que le vrai deuil se fut estompé. À peine avait-elle touché la phase d'acceptation qu'elle retomba dans la colère, et cette colère ne la quitta jamais tout à fait. Luna voulait un nom. Elle voulait savoir qui avait tué la femme la plus douce du monde, quand de prétendus ripoux couraient toujours. Luna avait besoin de justice.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 25,
+      "field": "SubText",
+      "context": "IST10",
+      "en": "What was it about her cousin that triggered this killer in the first place? Could it be that she stood for everything a cop should be? A perfect example of morality, protectiveness, mentality, and heart. Officer Youngman was everything demanded in the ones that protected them, and Luna wouldn't allow her memory to fade away as another statistic. ",
+      "fr": "Qu'y avait-il chez sa cousine pour déclencher ce tueur ? Le fait qu'elle incarnait tout ce qu'un policier devrait être ? Un modèle de morale, de dévouement, de sang-froid et de cœur. L'agent Youngman avait tout ce qu'on exige de ceux qui nous protègent, et Luna ne laisserait pas sa mémoire s'effacer sous forme de statistique.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 26,
+      "field": "SubText",
+      "context": "IST11",
+      "en": "Day in and day out, she spent the connections she'd built up through work and rowdy Christmas parties to see if there was something no one else saw. Cop friends that never steered her wrong came up empty-handed. Family members with careers linked closer to the real action knew little else than the papers. Even the old-timers that knew things few else did, all but shrugged when she pressed them for clues.\r",
+      "fr": "Jour après jour, elle dépensa les relations bâties au travail et lors de fêtes de Noël trop arrosées, pour voir s'il existait quelque chose que personne d'autre n'avait vu. Les amis policiers qui ne l'avaient jamais orientée à tort revinrent les mains vides. Les membres de sa famille au plus près du terrain n'en savaient guère plus que les journaux. Même les anciens, ceux qui savaient ce que peu de gens savent, se contentèrent de hausser les épaules quand elle les pressa d'indices.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 27,
+      "field": "SubText",
+      "context": "IST12",
+      "en": "She needed leads first, but there were none. So, in a last-ditch effort, she resolved to chew her boss for leeway. Luna did all she could for any little morsel of information, regardless of the fallout.",
+      "fr": "Il lui fallait d'abord des pistes ; il n'y en avait aucune. Alors, en dernier recours, elle résolut de harceler son patron pour obtenir un peu de marge. Luna fit tout ce qu'elle put pour la moindre miette d'information, sans se soucier des conséquences.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 28,
+      "field": "SubText",
+      "context": "IST13",
+      "en": "Being an Investigations Analyst for the District Attorney's Office had its perks, but it only teased her for all the good it did with building an idea of who this killer was. Her boss knew what she was after, but he followed the rules as strictly as Luna did. Being shut down by him just meant there was one less layer between a law-abiding citizen and vigilante justice. ",
+      "fr": "Être analyste d'enquêtes au bureau du procureur avait ses avantages, mais cela ne faisait que la narguer, tant cela l'aidait peu à se figurer qui était ce tueur. Son patron savait ce qu'elle cherchait ; il appliquait le règlement aussi strictement qu'elle. Se voir opposer un refus par lui, c'était simplement une épaisseur de moins entre une citoyenne respectueuse des lois et la justice expéditive.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 29,
+      "field": "SubText",
+      "context": "IST14",
+      "en": "With each denied application for information outside her classification, Luna saw the justice system's holes appear and broaden. Sometimes the law hindered what mattered. Progress couldn't always continue behind red tape and protocol. Perhaps, in cases like these, rules were meant to be budged. Maybe she couldn't talk her way into databases and case folders - maybe it wasn't so easy as to read reports on other victims, hoping a eureka moment hit her. If she were going to make any change, it had to start with her - with citizens willing to help.",
+      "fr": "À chaque demande d'accès refusée faute d'habilitation, Luna voyait les trous du système judiciaire s'élargir. Parfois, la loi entravait l'essentiel : on ne progresse pas derrière la paperasse et les procédures. Peut-être, dans des cas comme celui-là, les règles étaient-elles faites pour céder un peu. Elle n'ouvrirait pas les bases de données par la parole ; ce ne serait pas aussi simple que de lire les rapports des autres victimes en espérant l'illumination. Si le changement devait venir, il commencerait par elle — et par des citoyens prêts à aider.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 30,
+      "field": "SubText",
+      "context": "IST15",
+      "en": "Yes, Luna respected the law, and she would uphold it as Sarah would have wanted, but she couldn't stand idly by any longer.",
+      "fr": "Oui, Luna respectait la loi, et elle la respecterait comme Sarah l'aurait voulu. Mais elle ne pouvait plus rester les bras croisés.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 31,
+      "field": "SubText",
+      "context": "IST16",
+      "en": "One morning, she called in sick, made flyers, and pinned them around town. She started a neighborhood watch that day, and by the next day at work, Luna couldn't think of anything else.",
+      "fr": "Un matin, elle se déclara malade, imprima des affichettes et les placarda dans toute la ville. Elle fonda son groupe de vigilance de quartier ce jour-là, et dès le lendemain au bureau, Luna ne pensait plus à rien d'autre.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 32,
+      "field": "SubText",
+      "context": "IST17",
+      "en": "It started with one report, then two, then three and four, and more. ",
+      "fr": "Cela commença par un signalement, puis deux, puis trois, puis quatre, et d'autres encore. ",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 33,
+      "field": "SubText",
+      "context": "IST18",
+      "en": "Before she realized what was happening, her small network of retired cops and nosy neighbors had become a full-on 'crime watch' program that spanned beyond the neighborhood, the suburbs, and into town. At times, the number of reports felt too much for one person, but for the hundreds of thousands of people less prepared for human horrors as Sarah was, Luna felt that a couple of sleepless nights was the least she could do. ",
+      "fr": "Avant qu'elle ne comprenne ce qui se passait, son petit réseau de policiers à la retraite et de voisins curieux était devenu un véritable programme de surveillance citoyenne, qui débordait le quartier, la banlieue, et gagnait la ville. Le nombre de signalements paraissait parfois trop lourd pour une seule personne ; mais pour les centaines de milliers de gens moins bien armés que Sarah face aux horreurs humaines, Luna estimait que quelques nuits blanches étaient le minimum.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets5.assets",
+      "path_id": 34,
+      "field": "SubText",
+      "context": "IST19",
+      "en": "Luna had to get her answers somehow.",
+      "fr": "Luna devait obtenir ses réponses, d'une manière ou d'une autre.",
+      "display": {
+        "file": "Scrutinized_Data/level5",
+        "path_id": 94
+      }
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 215,
+      "field": "DisplayText",
+      "context": "LES1",
+      "en": "... you… drugged me.",
+      "fr": "... vous... vous m'avez droguée."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 223,
+      "field": "DisplayText",
+      "context": "LES2",
+      "en": "Wha-what the fuck do you mean?! You… pulled me out of bed… and for what? What do you-",
+      "fr": "Qu... qu'est-ce que vous racontez, bordel ?! Vous... vous m'avez tirée de mon lit... et pour quoi ? Qu'est-ce que vous..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 224,
+      "field": "DisplayText",
+      "context": "LES3",
+      "en": "Tanner… oh-okay, now… what do you want from me?!",
+      "fr": "Tanner... d'ac-d'accord, bon... qu'est-ce que vous me voulez ?!"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 225,
+      "field": "DisplayText",
+      "context": "LES4",
+      "en": "Please… Just let me go..",
+      "fr": "S'il vous plaît... Laissez-moi partir.."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 226,
+      "field": "DisplayText",
+      "context": "LES5",
+      "en": "What do you mean for what? I’ve made progress. I’ve-",
+      "fr": "Comment ça, pour quoi ? J'ai avancé. J'ai..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 227,
+      "field": "DisplayText",
+      "context": "LES6",
+      "en": "The Blue Blood Killer...?",
+      "fr": "Le tueur Blueblood... ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 228,
+      "field": "DisplayText",
+      "context": "LES7",
+      "en": "Why would you tell me anything about him? Why would I trust you?",
+      "fr": "Pourquoi me parleriez-vous de lui ? Pourquoi vous ferais-je confiance ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 229,
+      "field": "DisplayText",
+      "context": "LES8",
+      "en": "Doesn’t answer why you want to help me…",
+      "fr": "Ça ne dit pas pourquoi vous voulez m'aider..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 230,
+      "field": "DisplayText",
+      "context": "LES9",
+      "en": "I’m to believe you invaded my privacy, drugged me and kidnapped me because you admire my-my…",
+      "fr": "Et je devrais croire que vous avez violé ma vie privée, que vous m'avez droguée et enlevée parce que vous admirez mon... mon..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 216,
+      "field": "DisplayText",
+      "context": "LES10",
+      "en": "Thank you..",
+      "fr": "Merci.."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 217,
+      "field": "DisplayText",
+      "context": "LES11",
+      "en": "I’ve been trying to find him for so long.",
+      "fr": "Ça fait si longtemps que j'essaie de le retrouver."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 218,
+      "field": "DisplayText",
+      "context": "LES12",
+      "en": "How do you have this information? Where did you-",
+      "fr": "Comment avez-vous ces informations ? Où est-ce que vous..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 219,
+      "field": "DisplayText",
+      "context": "LES13",
+      "en": "And they didn’t go to the police with this?",
+      "fr": "Et ils ne sont pas allés voir la police avec ça ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 220,
+      "field": "DisplayText",
+      "context": "LES14",
+      "en": "Adam?",
+      "fr": "Adam ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 221,
+      "field": "DisplayText",
+      "context": "LES15",
+      "en": "It’s all here? It’s really… really all here?",
+      "fr": "Tout est là ? Tout est vraiment... vraiment là ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 222,
+      "field": "DisplayText",
+      "context": "LES16",
+      "en": "Tanner, I-",
+      "fr": "Tanner, je..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 231,
+      "field": "DisplayText",
+      "context": "TES1",
+      "en": "still strong enough, yet the half-life of this dose should not last this long, or perhaps it's the dosage that's wrong? No, no…",
+      "fr": "toujours assez fort, pourtant la demi-vie d'une telle dose ne devrait pas durer aussi longtemps, ou alors le dosage est mauvais ? Non, non..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 242,
+      "field": "DisplayText",
+      "context": "TES2",
+      "en": "she should have metabolized this by now.",
+      "fr": "elle devrait l'avoir métabolisé, à cette heure."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 250,
+      "field": "DisplayText",
+      "context": "TES3",
+      "en": "There we are. It’s about time you woke up!",
+      "fr": "Nous y voilà. Il était temps que vous vous réveilliez !"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 251,
+      "field": "DisplayText",
+      "context": "TES4",
+      "en": "I admit, I’m no master chemist but one wouldn’t expect the average dose of midazolam would have such a lingering effect on a woman of your age. It’s not like you’re that old.",
+      "fr": "Je l'admets, je ne suis pas grand chimiste, mais on n'attendrait pas d'une dose ordinaire de midazolam un effet aussi persistant sur une femme de votre âge. Vous n'êtes pas si vieille, après tout."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 252,
+      "field": "DisplayText",
+      "context": "TES5",
+      "en": "I hope you’re still capable of speech despite the side effects, I hear euphoria is one of them. So you’re welcome.",
+      "fr": "J'espère que vous êtes encore capable de parler malgré les effets secondaires. L'euphorie en fait partie, à ce qu'on dit. De rien, donc."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 253,
+      "field": "DisplayText",
+      "context": "TES6",
+      "en": "Oh, only enough to drag your body out of bed, through your front door and take you all the way down here.",
+      "fr": "Oh, juste assez pour vous tirer de votre lit, vous faire passer votre porte d'entrée et vous amener jusqu'ici."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 254,
+      "field": "DisplayText",
+      "context": "TES7",
+      "en": "It’s easier to talk business when we’re alone. Wouldn’t want someone to interrupt our conversations… would we?",
+      "fr": "Il est plus simple de parler affaires entre nous. On ne voudrait pas qu'on vienne interrompre nos conversations... n'est-ce pas ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 255,
+      "field": "DisplayText",
+      "context": "TES9",
+      "en": "Lets begin with the introductions. Seeing as how I already know so much about you, Luna, it would be rude to keep you further in the dark. My name is Tanner, and it’s a pleasure.",
+      "fr": "Commençons par les présentations. Puisque je sais déjà tant de choses sur vous, Luna, il serait grossier de vous laisser plus longtemps dans le noir. Je m'appelle Tanner, et c'est un plaisir."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 232,
+      "field": "DisplayText",
+      "context": "TES10",
+      "en": "By the tremble in your voice I can tell you’re worried about being violated and beaten… perhaps eaten alive? Understandable, given all the vile, incompetent people you’ve uncovered so far.",
+      "fr": "Au tremblement de votre voix, je devine que vous craignez d'être violée et battue... peut-être mangée vivante ? Compréhensible, vu tous les êtres vils et incompétents que vous avez mis au jour jusqu'ici."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 233,
+      "field": "DisplayText",
+      "context": "TES11",
+      "en": "Hopefully, we won’t be here long. Now tell me,  you’ve spent so much time combing through the lives of those around you: transactions, personal pictures, private conversations… and for what?",
+      "fr": "Avec un peu de chance, nous ne resterons pas longtemps. Dites-moi : vous avez passé tant de temps à éplucher la vie de ceux qui vous entourent... transactions, photos personnelles, conversations privées... et pour quoi ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 234,
+      "field": "DisplayText",
+      "context": "TES12",
+      "en": "But you still don’t know who he is.",
+      "fr": "Mais vous ne savez toujours pas qui il est."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 235,
+      "field": "DisplayText",
+      "context": "TES13",
+      "en": "Drugs will be wearing off very soon, Luna. But, I have a funny feeling you’ll wanna stay right where you are. Won’t you?",
+      "fr": "Le produit va cesser d'agir très bientôt, Luna. Mais j'ai le drôle de pressentiment que vous voudrez rester exactement où vous êtes. N'est-ce pas ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 236,
+      "field": "DisplayText",
+      "context": "TES14",
+      "en": "The very same.",
+      "fr": "Lui-même."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 237,
+      "field": "DisplayText",
+      "context": "TES15",
+      "en": "I haven’t killed you have I? Aside from a little hematoma beneath your ear and some lingering, very mild effects of the sedative I injected, I’ve been rather kind. Generous. Don’t you think?",
+      "fr": "Je ne vous ai pas tuée, n'est-ce pas ? À part un petit hématome sous l'oreille et quelques effets résiduels, très légers, du sédatif que je vous ai injecté, j'ai été plutôt aimable. Généreux. Vous ne trouvez pas ?"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 238,
+      "field": "DisplayText",
+      "context": "TES16",
+      "en": "Call it my way of rewarding you for all your hard work. It takes skill to do what you do - initiative and dedication - all things that are sorely missing from the average denizen wasting away their lives accomplishing nothing.",
+      "fr": "Voyez-y ma façon de récompenser tout votre travail. Il faut du talent pour faire ce que vous faites — de l'initiative, du dévouement — autant de choses qui manquent cruellement au quidam moyen, occupé à gâcher sa vie sans rien accomplir."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 239,
+      "field": "DisplayText",
+      "context": "TES17",
+      "en": "Your crime watch program, yes. You’re much more humble than I initially thought, but you really should take credit where it’s due. It’s all very impressive.",
+      "fr": "Votre programme de surveillance citoyenne, oui. Vous êtes bien plus modeste que je ne le pensais, mais vous devriez vraiment vous en attribuer le mérite. Tout cela est très impressionnant."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 240,
+      "field": "DisplayText",
+      "context": "TES18",
+      "en": " yes, that's very polite of you... very polite.",
+      "fr": " oui, c'est très poli de votre part... très poli."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 241,
+      "field": "DisplayText",
+      "context": "TES19",
+      "en": "Here. This folder contains all the information your little, bleeding heart may desire. You’ve spent so long looking for the Blueblood Killer, and now you’ll find him. With this.",
+      "fr": "Tenez. Ce dossier contient toutes les informations que votre petit cœur d'écorchée vive pourrait désirer. Vous avez cherché le tueur Blueblood si longtemps ; maintenant, vous allez le trouver. Avec ça."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 243,
+      "field": "DisplayText",
+      "context": "TES20",
+      "en": "Here! Take it! ",
+      "fr": "Tenez ! Prenez-le ! "
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 244,
+      "field": "DisplayText",
+      "context": "TES21",
+      "en": "I happen to know some rather important people - people that know most everything worth knowing.",
+      "fr": "Il se trouve que je connais des gens plutôt importants — des gens qui savent à peu près tout ce qui vaut d'être su."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 245,
+      "field": "DisplayText",
+      "context": "TES22",
+      "en": "Why give it away for free when you can sell to the highest bidder or, better yet, have someone like me indebted to someone like Adam.",
+      "fr": "Pourquoi donner cela gratuitement quand on peut le vendre au plus offrant ou, mieux encore, mettre quelqu'un comme moi en dette envers quelqu'un comme Adam."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 246,
+      "field": "DisplayText",
+      "context": "TES23",
+      "en": "Not a man you'd want to owe favors too, but I suppose you’re lucky I like you so much.",
+      "fr": "Pas un homme à qui l'on souhaite devoir des faveurs. Mais vous avez de la chance : je vous apprécie beaucoup."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 247,
+      "field": "DisplayText",
+      "context": "TES24",
+      "en": "Everything.",
+      "fr": "Tout."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 248,
+      "field": "DisplayText",
+      "context": "TES25",
+      "en": "Don’t worry, you’ll wake up right where I found you… will all your precious evidence so very safe and sound beside you. I didn’t go through all this trouble for nothing, after all.",
+      "fr": "Ne vous inquiétez pas, vous vous réveillerez là même où je vous ai trouvée... avec toutes vos précieuses preuves bien à l'abri à côté de vous. Je ne me suis pas donné tout ce mal pour rien, après tout."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets9.assets",
+      "path_id": 249,
+      "field": "DisplayText",
+      "context": "TES26",
+      "en": "Until next time… Luna…",
+      "fr": "À la prochaine fois... Luna..."
+    }
+  ]
+}

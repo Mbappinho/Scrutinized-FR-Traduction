@@ -1,0 +1,3 @@
+# Une ligne = dossier racine du jeu Steam (celui qui contient Scrutinized.exe / Scrutinized_Data).
+# Ne pas committer ce fichier (voir .gitignore).
+C:\Steam\steamapps\common\Scrutinized

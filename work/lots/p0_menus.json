@@ -1,0 +1,930 @@
+{
+  "meta": {
+    "name": "P0 menus, options, pause, intro, credits, fins",
+    "buildid": "20456853",
+    "note": "Adresse par (file, path_id, field). ASCII uniquement: les atlas TMP du jeu sont generes sur le charset '32 - 126', donc tout accent bascule sur une police de secours. Noms propres des credits laisses en anglais.",
+    "tone": "Tutoiement pour l'UI joueur, neutre pour les libellés d'options."
+  },
+  "entries": [
+    {
+      "file": "Scrutinized_Data/level0",
+      "path_id": 34,
+      "field": "m_text",
+      "context": "PreLoadShell/SteamNotFound/NotFound",
+      "en": "STEAM NOT FOUND :(",
+      "fr": "STEAM INTROUVABLE :("
+    },
+    {
+      "file": "Scrutinized_Data/level0",
+      "path_id": 35,
+      "field": "m_text",
+      "context": "PreLoadShell/SteamNotFound/Launch",
+      "en": "Please launch the game from the Steam client.",
+      "fr": "Lance le jeu depuis le client Steam."
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1070,
+      "field": "m_text",
+      "context": "TitleUI/MenuHolder/NewGameBTN",
+      "en": "NEW GAME",
+      "fr": "NOUVELLE PARTIE"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1084,
+      "field": "m_text",
+      "context": "TitleUI/MenuHolder/ContinueBTN",
+      "en": "CONTINUE",
+      "fr": "CONTINUER"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1078,
+      "field": "m_text",
+      "context": "TitleUI/MenuHolder/ExitBTN",
+      "en": "EXIT",
+      "fr": "QUITTER"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1073,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/SettingsTab",
+      "en": "SETTINGS",
+      "fr": "PARAMÈTRES"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1077,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/HowToPlayPanel/HowToPlayTab",
+      "en": "HOW TO PLAY",
+      "fr": "COMMENT JOUER"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1080,
+      "field": "m_text",
+      "context": "TitleUI/DiffHolder",
+      "en": "MODE:",
+      "fr": "MODE:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1072,
+      "field": "m_text",
+      "context": "TitleUI/DiffHolder/DiffBackBTN",
+      "en": "BACK",
+      "fr": "RETOUR"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1076,
+      "field": "m_text",
+      "context": "TitleUI/DiffHolder/CasualBTN",
+      "en": "CASUAL",
+      "fr": "DÉTENTE"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1071,
+      "field": "m_text",
+      "context": "TitleUI/DiffHolder/NightmareBTN",
+      "en": "NIGHTMARE",
+      "fr": "CAUCHEMAR"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1082,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GameSettings/Subtitles",
+      "en": "Subtitles:",
+      "fr": "Sous-titres:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1088,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GameSettings/SensTitle",
+      "en": "Sensitivity:",
+      "fr": "Sensibilité:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1089,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GameSettings/VolumeTitle",
+      "en": "Volume:",
+      "fr": "Volume:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1096,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GameSettings/JumpScares",
+      "en": "Jump Scares:",
+      "fr": "Sursauts:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1093,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GameSettings/Tab/Title",
+      "en": "GAME",
+      "fr": "JEU"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1086,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/DisplaySettings/Tab/Title",
+      "en": "DISPLAY",
+      "fr": "AFFICHAGE"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1094,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GraphicSettings/Tab/Title",
+      "en": "GRAPHICS",
+      "fr": "GRAPHISMES"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1103,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/DisplaySettings/TopSection/WindowTitle",
+      "en": "Window Mode:",
+      "fr": "Mode fenêtre:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1097,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/DisplaySettings/TopSection/VSync",
+      "en": "VSync:",
+      "fr": "VSync:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1099,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/DisplaySettings/BotSection/ResTitle",
+      "en": "Resolution:",
+      "fr": "Résolution:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1095,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/DisplaySettings/BotSection/TargetFPSTitle",
+      "en": "Target FPS:",
+      "fr": "FPS cible:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1101,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GraphicSettings/TopSection/AATitle",
+      "en": "Anti-aliasing:",
+      "fr": "Lissage:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1090,
+      "field": "m_text",
+      "context": "TitleUI/PanelHolder/SettingsPanel/GraphicSettings/TopSection/QualityTitle",
+      "en": "Quality:",
+      "fr": "Qualité:"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1098,
+      "field": "m_text",
+      "context": "QualityDropDown/Label (valeur affichee au chargement)",
+      "en": "Potato",
+      "fr": "Patate"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1247,
+      "field": "m_Options.m_Options[0].m_Text",
+      "context": "QualityDropDown",
+      "en": "Potato",
+      "fr": "Patate"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1247,
+      "field": "m_Options.m_Options[1].m_Text",
+      "context": "QualityDropDown",
+      "en": "Low",
+      "fr": "Basse"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1247,
+      "field": "m_Options.m_Options[2].m_Text",
+      "context": "QualityDropDown",
+      "en": "Medium",
+      "fr": "Moyenne"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1247,
+      "field": "m_Options.m_Options[3].m_Text",
+      "context": "QualityDropDown",
+      "en": "High",
+      "fr": "Élevée"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1196,
+      "field": "m_Options.m_Options[4].m_Text",
+      "context": "AADropDown",
+      "en": "Off",
+      "fr": "Aucun"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1272,
+      "field": "m_Options.m_Options[5].m_Text",
+      "context": "FrameRateDropDown",
+      "en": "Unlimited",
+      "fr": "Illimité"
+    },
+    {
+      "file": "Scrutinized_Data/level2",
+      "path_id": 34,
+      "field": "m_text",
+      "context": "LoadingScreen/JumpScares",
+      "en": "Don't like jump scares? Turn them off in the options menu.",
+      "fr": "Pas fan des jump scares ? Désactive-les dans les options."
+    },
+    {
+      "file": "Scrutinized_Data/level2",
+      "path_id": 35,
+      "field": "m_text",
+      "context": "LoadingScreen/Loading",
+      "en": "LOADING",
+      "fr": "CHARGEMENT"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10504,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/MenuOptions/ResumeBTN",
+      "en": "RESUME",
+      "fr": "REPRENDRE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10472,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/MenuOptions/QuitGameBTN",
+      "en": "QUIT GAME",
+      "fr": "QUITTER LE JEU"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10581,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/MenuOptions/QuitToMainBTN",
+      "en": "QUIT TO MAIN MENU",
+      "fr": "RETOUR AU MENU PRINCIPAL"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10606,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel",
+      "en": "SETTINGS",
+      "fr": "PARAMÈTRES"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10522,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GameSettings/Subtitles",
+      "en": "Subtitles",
+      "fr": "Sous-titres"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10600,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GameSettings/SensTitle",
+      "en": "Sensitivity:",
+      "fr": "Sensibilité:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10594,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GameSettings/VolumeTitle",
+      "en": "Volume:",
+      "fr": "Volume:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10509,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GameSettings/JumpScares",
+      "en": "Jump Scares:",
+      "fr": "Sursauts:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10496,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GameSettings/Tab/Title",
+      "en": "GAME",
+      "fr": "JEU"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10575,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/DisplaySettings/Tab/Title",
+      "en": "DISPLAY",
+      "fr": "AFFICHAGE"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10501,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GraphicSettings/Tab/Title",
+      "en": "GRAPHICS",
+      "fr": "GRAPHISMES"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10461,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/DisplaySettings/TopSection/WindowTitle",
+      "en": "Window Mode:",
+      "fr": "Mode fenêtre:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10532,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/DisplaySettings/TopSection/VSync",
+      "en": "VSync:",
+      "fr": "VSync:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10467,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/DisplaySettings/BotSection/ResTitle",
+      "en": "Resolution:",
+      "fr": "Résolution:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10499,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/DisplaySettings/BotSection/TargetFPSTitle",
+      "en": "Target FPS:",
+      "fr": "FPS cible:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10464,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GraphicSettings/TopSection/AATitle",
+      "en": "Anti-aliasing:",
+      "fr": "Lissage:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10549,
+      "field": "m_text",
+      "context": "UI/ScreenUI/PauseMenu/SettingsPanel/GraphicSettings/TopSection/QualityTitle",
+      "en": "Quality:",
+      "fr": "Qualité:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10521,
+      "field": "m_text",
+      "context": "PauseMenu QualityDropDown/Label",
+      "en": "Potato",
+      "fr": "Patate"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11142,
+      "field": "m_Options.m_Options[0].m_Text",
+      "context": "PauseMenu QualityDropDown",
+      "en": "Potato",
+      "fr": "Patate"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11142,
+      "field": "m_Options.m_Options[1].m_Text",
+      "context": "PauseMenu QualityDropDown",
+      "en": "Low",
+      "fr": "Basse"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11142,
+      "field": "m_Options.m_Options[2].m_Text",
+      "context": "PauseMenu QualityDropDown",
+      "en": "Medium",
+      "fr": "Moyenne"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11142,
+      "field": "m_Options.m_Options[3].m_Text",
+      "context": "PauseMenu QualityDropDown",
+      "en": "High",
+      "fr": "Élevée"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 11596,
+      "field": "m_Options.m_Options[4].m_Text",
+      "context": "PauseMenu AADropDown",
+      "en": "Off",
+      "fr": "Aucun"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10934,
+      "field": "m_Options.m_Options[5].m_Text",
+      "context": "PauseMenu FrameRateDropDown",
+      "en": "Unlimited",
+      "fr": "Illimité"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 92,
+      "field": "m_text",
+      "context": "ScreenOverLayUI/SkipHolder/Press (1)",
+      "en": "Press",
+      "fr": "Appuie sur"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 93,
+      "field": "m_text",
+      "context": "ScreenOverLayUI/SkipHolder/ToSkip (1)",
+      "en": "To Skip",
+      "fr": "pour passer"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 95,
+      "field": "m_text",
+      "context": "ScreenOverLayUI/SkipHolder/Press",
+      "en": "Press",
+      "fr": "Appuie sur"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 96,
+      "field": "m_text",
+      "context": "ScreenOverLayUI/SkipHolder/ToSkip",
+      "en": "To Skip",
+      "fr": "pour passer"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 97,
+      "field": "m_text",
+      "context": "IntroUI/BlackBG/SkipText",
+      "en": "Press S To Skip",
+      "fr": "Appuie sur S pour passer"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 292,
+      "field": "m_text",
+      "context": "Credits/Dev/Title",
+      "en": "DEVELOPER",
+      "fr": "DÉVELOPPEUR"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 298,
+      "field": "m_text",
+      "context": "Credits/LeadWriters/Title",
+      "en": "LEAD WRITERS",
+      "fr": "SCÉNARISTES PRINCIPAUX"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 281,
+      "field": "m_text",
+      "context": "Credits/Writers/Title",
+      "en": "WRITERS",
+      "fr": "SCÉNARISTES"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 263,
+      "field": "m_text",
+      "context": "Credits/3D/Title",
+      "en": "3D ARTISTS",
+      "fr": "ARTISTES 3D"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 264,
+      "field": "m_text",
+      "context": "Credits/2D/Title",
+      "en": "2D ARTISTS",
+      "fr": "ARTISTES 2D"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 266,
+      "field": "m_text",
+      "context": "Credits/Charcter/Title",
+      "en": "CHARACTER ARTISTS",
+      "fr": "ARTISTES PERSONNAGES"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 258,
+      "field": "m_text",
+      "context": "Credits/Rigger/Title",
+      "en": "RIGGER",
+      "fr": "RIGGING"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 286,
+      "field": "m_text",
+      "context": "Credits/Animators/Title",
+      "en": "ANIMATORS",
+      "fr": "ANIMATION"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 284,
+      "field": "m_text",
+      "context": "Credits/VoiceActors/Title",
+      "en": "VOICE ACTORS",
+      "fr": "VOIX"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 269,
+      "field": "m_text",
+      "context": "Credits/MusicProducers/Title",
+      "en": "MUSIC PRODUCERS",
+      "fr": "MUSIQUE"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 277,
+      "field": "m_text",
+      "context": "Credits/SpecialThanks/Title",
+      "en": "SPECIAL THANKS",
+      "fr": "REMERCIEMENTS"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 270,
+      "field": "m_text",
+      "context": "Credits/VoiceActors/Name",
+      "en": "\rPhillip Sacramento - Narrator",
+      "fr": "\rPhillip Sacramento - Narrateur"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 262,
+      "field": "m_text",
+      "context": "Credits/VoiceActors/Name (2)",
+      "en": "Johnlp76 - Kidnapper",
+      "fr": "Johnlp76 - Le ravisseur"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 282,
+      "field": "m_text",
+      "context": "Canvas/ThanksForPlaying",
+      "en": "Thanks For Playing!\nPress Q To Quit",
+      "fr": "Merci d'avoir joué !\nAppuie sur Q pour quitter"
+    },
+    {
+      "file": "Scrutinized_Data/level8",
+      "path_id": 39,
+      "field": "m_text",
+      "context": "Canvas/BG/ContentHolder/Congrats",
+      "en": "Another night gone",
+      "fr": "Encore une nuit de passée"
+    },
+    {
+      "file": "Scrutinized_Data/level8",
+      "path_id": 40,
+      "field": "m_text",
+      "context": "Canvas/BG/ContentHolder/Footer",
+      "en": "Congratulations on completing causal mode! \nYou are now ready for Normal Mode",
+      "fr": "Bravo, tu as terminé le mode Détente ! \nTu es prêt pour le mode Normal"
+    },
+    {
+      "file": "Scrutinized_Data/level8",
+      "path_id": 41,
+      "field": "m_text",
+      "context": "Canvas/BG/ContentHolder/ShitEnding",
+      "en": "Luna goes to bed yet again without the answers she is looking for.\r\nAnother night the Blueblood killer is out on the streets and not in jail. \r\nHowever this is not the end, Luna will keep searching for the answers.\r\nThey are out there! She will find him and bring him to justice! \r\n",
+      "fr": "Luna se recouche une fois de plus sans les réponses qu'elle cherche.\r\nUne nuit de plus où le tueur Blueblood court les rues au lieu d'être en prison. \r\nMais ce n'est pas la fin : Luna continuera de chercher les réponses.\r\nElles sont quelque part ! Elle le retrouvera et le fera juger ! \r\n"
+    },
+    {
+      "file": "Scrutinized_Data/level9",
+      "path_id": 549,
+      "field": "m_text",
+      "context": "EndingCanvas/ToBeCon",
+      "en": "To Be Continued...",
+      "fr": "À suivre..."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 153,
+      "field": "TipTitle",
+      "context": "TitleTipData CasualMode",
+      "en": "CASUAL MODE:",
+      "fr": "MODE DÉTENTE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 153,
+      "field": "TipDesc",
+      "context": "TitleTipData CasualMode",
+      "en": "No Perma Death\r\n5 Nights Total\r\nFor a casual experience. \r",
+      "fr": "Pas de mort définitive\r\n5 nuits au total\r\nPour une expérience tranquille. \r"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 154,
+      "field": "TipTitle",
+      "context": "TitleTipData DetectiveMode",
+      "en": "DETECTIVE MODE:",
+      "fr": "MODE DÉTECTIVE:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 154,
+      "field": "TipDesc",
+      "context": "TitleTipData DetectiveMode",
+      "en": "No Threats\n7 Nights Total\nFor those who just want to solve cases.",
+      "fr": "Aucune menace\n7 nuits au total\nPour qui veut juste résoudre des affaires."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 155,
+      "field": "TipTitle",
+      "context": "TitleTipData NightmareMode",
+      "en": "NIGHTMARE MODE:",
+      "fr": "MODE CAUCHEMAR:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 155,
+      "field": "TipDesc",
+      "context": "TitleTipData NightmareMode",
+      "en": "Perma Death - No Saving \r\n14 Nights Total\r\nOnly for the advanced players\r.",
+      "fr": "Mort définitive - Aucune sauvegarde \r\n14 nuits au total\r\nRéservé aux joueurs aguerris\r."
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 156,
+      "field": "TipTitle",
+      "context": "TitleTipData NormalMode",
+      "en": "NORMAL MODE:",
+      "fr": "MODE NORMAL:"
+    },
+    {
+      "file": "Scrutinized_Data/sharedassets1.assets",
+      "path_id": 156,
+      "field": "TipDesc",
+      "context": "TitleTipData NormalMode",
+      "en": "Perma Death\r\n10 Nights Total\r\nFor those who want a challenge.\r",
+      "fr": "Mort définitive\r\n10 nuits au total\r\nPour qui veut un vrai défi.\r"
+    }
+  ],
+  "layout": [
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 947,
+      "width": 380,
+      "why": "MenuHolder: repousse l icone Supprimer la sauvegarde hors de CONTINUER"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1070,
+      "width": 285,
+      "autosize_min": 28,
+      "why": "NOUVELLE PARTIE: MenuHolder revient a x=-295 (alpha 1) pendant Diff a x=50; largeur>285 fait deborder TIE sur MODE. Vanilla 285 + autosize ~30"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1084,
+      "width": 307,
+      "why": "CONTINUER"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1078,
+      "width": 224,
+      "why": "QUITTER"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1072,
+      "width": 215,
+      "why": "RETOUR (choix de difficulte)"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1076,
+      "width": 251,
+      "why": "DETENTE (accent elargit le libelle)"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1071,
+      "width": 310,
+      "autosize_min": 36,
+      "why": "CAUCHEMAR: largeur vanilla (= bord DiffHolder); autosize ~44 pour eviter le R qui deborde a gauche"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 1103,
+      "width": 140,
+      "why": "Mode fenetre:"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10504,
+      "width": 216,
+      "why": "REPRENDRE (pause)"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10472,
+      "width": 332,
+      "why": "QUITTER LE JEU (pause)"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10581,
+      "width": 563,
+      "why": "RETOUR AU MENU PRINCIPAL (pause)"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10461,
+      "width": 140,
+      "why": "Mode fenetre: (pause)"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 74,
+      "width": 450,
+      "why": "SkipHolder: la phrase FR est plus large que EN"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 95,
+      "width": 180,
+      "why": "Appuie sur"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 92,
+      "width": 180,
+      "why": "Appuie sur (ombre)"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 73,
+      "x": 186,
+      "why": "touche S decalee derriere Appuie sur"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 79,
+      "x": 187,
+      "why": "touche S decalee (ombre)"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 96,
+      "width": 202,
+      "x": 238,
+      "why": "pour passer"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 93,
+      "width": 202,
+      "x": 239,
+      "why": "pour passer (ombre)"
+    },
+    {
+      "file": "Scrutinized_Data/level5",
+      "path_id": 97,
+      "width": 472,
+      "why": "Appuie sur S pour passer"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 292,
+      "width": 252,
+      "why": "DEVELOPPEUR"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 298,
+      "width": 460,
+      "why": "SCENARISTES PRINCIPAUX"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 281,
+      "width": 245,
+      "why": "SCENARISTES"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 263,
+      "width": 232,
+      "why": "ARTISTES 3D"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 264,
+      "width": 232,
+      "why": "ARTISTES 2D"
+    },
+    {
+      "file": "Scrutinized_Data/level7",
+      "path_id": 266,
+      "width": 430,
+      "why": "ARTISTES PERSONNAGES"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 911,
+      "width": 285,
+      "why": "zone cliquable NewGameBTN = largeur texte (limite hide Diff a x=50)"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 950,
+      "width": 285,
+      "why": "zone cliquable de ContinueBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 933,
+      "width": 224,
+      "why": "zone cliquable de ExitBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 943,
+      "width": 215,
+      "why": "zone cliquable de DiffBackBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 917,
+      "width": 240,
+      "why": "zone cliquable de CasualBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level1",
+      "path_id": 910,
+      "width": 310,
+      "why": "zone cliquable de NightmareBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 9692,
+      "width": 216,
+      "why": "zone cliquable de ResumeBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 10126,
+      "width": 332,
+      "why": "zone cliquable de QuitGameBTN alignee sur son libelle"
+    },
+    {
+      "file": "Scrutinized_Data/level3",
+      "path_id": 9796,
+      "width": 563,
+      "why": "zone cliquable de QuitToMainBTN alignee sur son libelle"
+    }
+  ]
+}
